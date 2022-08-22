@@ -3,7 +3,7 @@
 <p float="left">
   <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" width="200" height="150"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="200" height="150"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png" width="200" height="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png" width="200" height="100"/>
 </p>
 
 
