@@ -1,6 +1,10 @@
 # Programming for Data Analysis project
 
-<img src="https://www.twilio.com/blog/2017/10/basic-statistics-python-numpy-jupyter-notebook.html" />
+<p float="left">
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="100" height="100"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png" width="100" height="100"/>
+</p>
 
 
 ## Description
@@ -33,8 +37,9 @@ You need to run this notebook in python environment (please refer to packages an
 You can also start `jupyter notebook` or `jupyter lab` from Anaconda-Navigator.
 
 You can view the notebook in static or dynamic form by clicking the following images:
+
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/angelinka/programming_for_DA_project/blob/main/audiobooks.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/angelinka/programming_for_DA_project/blob/main/audiobooks.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/angelinka/programming_for_DA_project/blob/main/audiobooks.ipynb/HEAD)
 
 ## Credits
 I heavily relied on pandas, seaborn, matplotlib, NumPy and stackoverflow resources in creating this repository.
