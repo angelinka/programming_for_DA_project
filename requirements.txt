@@ -2,7 +2,5 @@ numpy
 matplotlib
 pandas
 seaborn
-re
-string
 random
 scipy
