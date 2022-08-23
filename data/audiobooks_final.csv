@@ -1,0 +1,3601 @@
+,date,uid,gender,age_group,year,books_read,genre
+0,2018-01,BCK19,male,18-29,2018,2.7,Business
+1,2018-01,ANI81,female,18-29,2018,2.3,Mysteries/Thrillers
+2,2018-01,IIG04,female,18-29,2018,4.6,Mysteries/Thrillers
+3,2018-01,CPB34,male,30-49,2018,3.1,Sci-Fi & Fantasy
+4,2018-01,XCD70,female,30-49,2018,2.4,Podcasts
+5,2018-01,XOG87,male,30-49,2018,2.8,Podcasts
+6,2018-01,IUF65,male,50-64,2018,1.6,Mysteries/Thrillers
+7,2018-01,VIK75,male,30-49,2018,2.6,Business
+8,2018-01,RQR84,male,18-29,2018,2.4,Non-fiction
+9,2018-01,RJA71,male,50-64,2018,4.1,Comedy
+10,2018-01,VXR13,male,30-49,2018,2.2,Sci-Fi & Fantasy
+11,2018-01,KBL53,female,50-64,2018,2.9,Mysteries/Thrillers
+12,2018-01,ECQ03,male,30-49,2018,1.4,Romance
+13,2018-01,FNS96,female,30-49,2018,0.0,Mysteries/Thrillers
+14,2018-01,ZZQ24,male,30-49,2018,3.1,Sci-Fi & Fantasy
+15,2018-01,EZL70,male,18-29,2018,4.4,Podcasts
+16,2018-01,DFG32,female,30-49,2018,4.4,Comedy
+17,2018-01,LKC03,female,30-49,2018,2.0,Sci-Fi & Fantasy
+18,2018-01,CLA50,female,65+,2018,2.7,Comedy
+19,2018-01,SKZ24,female,30-49,2018,3.8,Non-fiction
+20,2018-01,TIJ69,male,30-49,2018,3.2,Mysteries/Thrillers
+21,2018-01,WKS63,female,30-49,2018,3.5,Sci-Fi & Fantasy
+22,2018-01,GCW05,male,30-49,2018,3.2,Sci-Fi & Fantasy
+23,2018-01,NDR97,male,30-49,2018,3.4,Business
+24,2018-01,KDZ56,male,18-29,2018,2.4,Romance
+25,2018-01,UKB16,female,30-49,2018,3.3,Mysteries/Thrillers
+26,2018-01,JWT96,female,30-49,2018,2.0,Mysteries/Thrillers
+27,2018-01,HUA58,male,50-64,2018,2.9,History
+28,2018-01,NDN53,male,30-49,2018,1.8,Mysteries/Thrillers
+29,2018-01,XIH52,female,18-29,2018,4.4,Business
+30,2018-01,IKY01,male,18-29,2018,1.2,Mysteries/Thrillers
+31,2018-01,FZX15,female,50-64,2018,2.6,Mysteries/Thrillers
+32,2018-01,CII59,male,18-29,2018,1.1,Comedy
+33,2018-01,VNU47,female,30-49,2018,1.5,Mysteries/Thrillers
+34,2018-01,UGV54,female,18-29,2018,3.0,Sci-Fi & Fantasy
+35,2018-01,KFN16,male,50-64,2018,3.0,Romance
+36,2018-01,XUP46,female,65+,2018,2.7,Mysteries/Thrillers
+37,2018-01,DBW36,female,18-29,2018,1.1,Business
+38,2018-01,KJU37,male,65+,2018,2.3,Romance
+39,2018-01,VEZ04,female,18-29,2018,1.6,Business
+40,2018-01,NVE53,female,50-64,2018,2.1,Sci-Fi & Fantasy
+41,2018-01,XDG83,male,50-64,2018,0.8,Romance
+42,2018-01,YBK15,male,50-64,2018,2.7,Mysteries/Thrillers
+43,2018-01,ZIQ24,male,18-29,2018,2.1,Business
+44,2018-01,OGR59,male,18-29,2018,3.0,Mysteries/Thrillers
+45,2018-01,HYE06,male,30-49,2018,1.5,Sci-Fi & Fantasy
+46,2018-01,TMB91,male,18-29,2018,2.5,Mysteries/Thrillers
+47,2018-01,WXF84,female,50-64,2018,2.9,Business
+48,2018-01,XXU25,male,18-29,2018,2.1,Children
+49,2018-01,ZIK60,male,18-29,2018,2.7,Non-fiction
+50,2018-01,GEK46,male,30-49,2018,3.6,Children
+51,2018-01,MEB57,male,30-49,2018,0.3,Mysteries/Thrillers
+52,2018-01,YVH84,male,50-64,2018,3.9,Comedy
+53,2018-01,HCL52,male,18-29,2018,3.3,Podcasts
+54,2018-01,FYB94,male,30-49,2018,0.6,Business
+55,2018-01,UCO74,female,50-64,2018,2.2,Mysteries/Thrillers
+56,2018-01,JMF22,male,65+,2018,1.5,Mysteries/Thrillers
+57,2018-01,AXB90,female,18-29,2018,3.0,Sci-Fi & Fantasy
+58,2018-01,ROB97,male,50-64,2018,0.9,Romance
+59,2018-01,WLH11,female,18-29,2018,3.4,Mysteries/Thrillers
+60,2018-01,RVF03,female,50-64,2018,2.6,Romance
+61,2018-01,DFF64,female,18-29,2018,3.0,Non-fiction
+62,2018-01,OKZ40,female,18-29,2018,2.6,Romance
+63,2018-01,DTX14,female,18-29,2018,0.4,Mysteries/Thrillers
+64,2018-01,WOA52,male,30-49,2018,2.0,Podcasts
+65,2018-01,FYC87,male,18-29,2018,2.5,Non-fiction
+66,2018-01,PIC69,male,30-49,2018,1.8,Romance
+67,2018-01,EDM80,female,30-49,2018,5.8,Comedy
+68,2018-01,UCA14,male,50-64,2018,2.7,Podcasts
+69,2018-01,YRB14,female,18-29,2018,2.1,Non-fiction
+70,2018-01,CRJ98,female,65+,2018,0.8,Podcasts
+71,2018-01,VGL60,male,30-49,2018,3.2,Podcasts
+72,2018-01,AIK78,male,50-64,2018,1.4,Romance
+73,2018-01,BBY21,female,50-64,2018,3.2,Mysteries/Thrillers
+74,2018-01,UUP78,male,18-29,2018,2.7,Romance
+75,2018-01,WGK93,female,18-29,2018,0.9,Comedy
+76,2018-01,QWW63,female,30-49,2018,0.6,Romance
+77,2018-01,RAJ76,male,30-49,2018,1.6,Mysteries/Thrillers
+78,2018-01,CSP41,female,18-29,2018,3.0,Romance
+79,2018-01,PTF60,female,18-29,2018,3.3,Podcasts
+80,2018-01,FJU28,female,30-49,2018,3.0,Non-fiction
+81,2018-01,ZEA77,male,50-64,2018,2.7,Sci-Fi & Fantasy
+82,2018-01,XRU31,male,18-29,2018,0.7,Comedy
+83,2018-01,ZPH80,female,18-29,2018,1.5,Romance
+84,2018-01,BGD46,female,65+,2018,1.8,Mysteries/Thrillers
+85,2018-01,NOD59,male,50-64,2018,1.4,Sci-Fi & Fantasy
+86,2018-01,IUQ76,female,18-29,2018,1.1,Romance
+87,2018-01,LGC11,female,65+,2018,2.7,Sci-Fi & Fantasy
+88,2018-01,TVV83,female,18-29,2018,1.0,Mysteries/Thrillers
+89,2018-01,RVD02,male,18-29,2018,2.3,Mysteries/Thrillers
+90,2018-01,XUD81,female,65+,2018,3.8,Business
+91,2018-01,GEW80,male,18-29,2018,1.7,Romance
+92,2018-01,AUK56,male,50-64,2018,2.7,Podcasts
+93,2018-01,OEI57,male,18-29,2018,3.8,Mysteries/Thrillers
+94,2018-01,IAD29,female,18-29,2018,3.1,Podcasts
+95,2018-01,LMK88,male,50-64,2018,3.7,Non-fiction
+96,2018-01,ERO80,male,65+,2018,3.4,Mysteries/Thrillers
+97,2018-01,PEO84,male,30-49,2018,2.4,Romance
+98,2018-01,NJY80,female,18-29,2018,3.1,Romance
+99,2018-01,BNI06,male,18-29,2018,1.6,Comedy
+100,2018-02,BCK19,male,18-29,2018,2.2,Comedy
+101,2018-02,ANI81,female,18-29,2018,3.1,Podcasts
+102,2018-02,IIG04,female,18-29,2018,1.8,Sci-Fi & Fantasy
+103,2018-02,CPB34,male,30-49,2018,3.4,Business
+104,2018-02,XCD70,female,30-49,2018,2.8,Business
+105,2018-02,XOG87,male,30-49,2018,2.1,Romance
+106,2018-02,IUF65,male,50-64,2018,1.7,Mysteries/Thrillers
+107,2018-02,VIK75,male,30-49,2018,2.5,Non-fiction
+108,2018-02,RQR84,male,18-29,2018,1.9,Sci-Fi & Fantasy
+109,2018-02,RJA71,male,50-64,2018,1.5,Podcasts
+110,2018-02,VXR13,male,30-49,2018,0.8,Mysteries/Thrillers
+111,2018-02,KBL53,female,50-64,2018,1.3,Non-fiction
+112,2018-02,ECQ03,male,30-49,2018,2.5,Podcasts
+113,2018-02,FNS96,female,30-49,2018,1.8,Romance
+114,2018-02,ZZQ24,male,30-49,2018,2.1,Business
+115,2018-02,EZL70,male,18-29,2018,2.7,Romance
+116,2018-02,DFG32,female,30-49,2018,3.4,Business
+117,2018-02,LKC03,female,30-49,2018,3.0,Comedy
+118,2018-02,CLA50,female,65+,2018,1.5,Comedy
+119,2018-02,SKZ24,female,30-49,2018,2.0,Podcasts
+120,2018-02,TIJ69,male,30-49,2018,3.1,Mysteries/Thrillers
+121,2018-02,WKS63,female,30-49,2018,1.0,Non-fiction
+122,2018-02,GCW05,male,30-49,2018,2.2,Business
+123,2018-02,NDR97,male,30-49,2018,2.1,Non-fiction
+124,2018-02,KDZ56,male,18-29,2018,2.3,Podcasts
+125,2018-02,UKB16,female,30-49,2018,2.3,Sci-Fi & Fantasy
+126,2018-02,JWT96,female,30-49,2018,2.9,Sci-Fi & Fantasy
+127,2018-02,HUA58,male,50-64,2018,1.3,Romance
+128,2018-02,NDN53,male,30-49,2018,2.8,Mysteries/Thrillers
+129,2018-02,XIH52,female,18-29,2018,3.6,Sci-Fi & Fantasy
+130,2018-02,IKY01,male,18-29,2018,2.6,Non-fiction
+131,2018-02,FZX15,female,50-64,2018,3.2,Sci-Fi & Fantasy
+132,2018-02,CII59,male,18-29,2018,1.3,Mysteries/Thrillers
+133,2018-02,VNU47,female,30-49,2018,1.1,Romance
+134,2018-02,UGV54,female,18-29,2018,2.9,Sci-Fi & Fantasy
+135,2018-02,KFN16,male,50-64,2018,3.4,Romance
+136,2018-02,XUP46,female,65+,2018,2.0,Podcasts
+137,2018-02,DBW36,female,18-29,2018,2.8,Sci-Fi & Fantasy
+138,2018-02,KJU37,male,65+,2018,2.3,Non-fiction
+139,2018-02,VEZ04,female,18-29,2018,3.7,History
+140,2018-02,NVE53,female,50-64,2018,3.4,Sci-Fi & Fantasy
+141,2018-02,XDG83,male,50-64,2018,2.7,Mysteries/Thrillers
+142,2018-02,YBK15,male,50-64,2018,2.9,Sci-Fi & Fantasy
+143,2018-02,ZIQ24,male,18-29,2018,2.7,Sci-Fi & Fantasy
+144,2018-02,OGR59,male,18-29,2018,1.4,Mysteries/Thrillers
+145,2018-02,HYE06,male,30-49,2018,3.1,Podcasts
+146,2018-02,TMB91,male,18-29,2018,4.4,Comedy
+147,2018-02,WXF84,female,50-64,2018,2.4,Romance
+148,2018-02,XXU25,male,18-29,2018,3.0,Podcasts
+149,2018-02,ZIK60,male,18-29,2018,1.8,Mysteries/Thrillers
+150,2018-02,GEK46,male,30-49,2018,1.0,Podcasts
+151,2018-02,MEB57,male,30-49,2018,3.2,Romance
+152,2018-02,YVH84,male,50-64,2018,3.8,Mysteries/Thrillers
+153,2018-02,HCL52,male,18-29,2018,2.0,Romance
+154,2018-02,FYB94,male,30-49,2018,3.7,History
+155,2018-02,UCO74,female,50-64,2018,3.4,Non-fiction
+156,2018-02,JMF22,male,65+,2018,1.5,Mysteries/Thrillers
+157,2018-02,AXB90,female,18-29,2018,2.4,Podcasts
+158,2018-02,ROB97,male,50-64,2018,3.9,Business
+159,2018-02,WLH11,female,18-29,2018,1.2,Sci-Fi & Fantasy
+160,2018-02,RVF03,female,50-64,2018,1.9,Business
+161,2018-02,DFF64,female,18-29,2018,1.2,Podcasts
+162,2018-02,OKZ40,female,18-29,2018,3.2,Business
+163,2018-02,DTX14,female,18-29,2018,1.5,Podcasts
+164,2018-02,WOA52,male,30-49,2018,1.9,Romance
+165,2018-02,FYC87,male,18-29,2018,2.4,Comedy
+166,2018-02,PIC69,male,30-49,2018,3.1,Romance
+167,2018-02,EDM80,female,30-49,2018,2.9,Sci-Fi & Fantasy
+168,2018-02,UCA14,male,50-64,2018,3.8,Sci-Fi & Fantasy
+169,2018-02,YRB14,female,18-29,2018,1.6,Mysteries/Thrillers
+170,2018-02,CRJ98,female,65+,2018,1.4,Non-fiction
+171,2018-02,VGL60,male,30-49,2018,2.5,Mysteries/Thrillers
+172,2018-02,AIK78,male,50-64,2018,4.2,Romance
+173,2018-02,BBY21,female,50-64,2018,2.6,Comedy
+174,2018-02,UUP78,male,18-29,2018,3.4,Podcasts
+175,2018-02,WGK93,female,18-29,2018,1.4,Sci-Fi & Fantasy
+176,2018-02,QWW63,female,30-49,2018,2.0,Mysteries/Thrillers
+177,2018-02,RAJ76,male,30-49,2018,2.5,Romance
+178,2018-02,CSP41,female,18-29,2018,2.8,Romance
+179,2018-02,PTF60,female,18-29,2018,1.6,Romance
+180,2018-02,FJU28,female,30-49,2018,3.3,History
+181,2018-02,ZEA77,male,50-64,2018,1.7,Mysteries/Thrillers
+182,2018-02,XRU31,male,18-29,2018,2.2,Comedy
+183,2018-02,ZPH80,female,18-29,2018,2.0,Romance
+184,2018-02,BGD46,female,65+,2018,2.8,History
+185,2018-02,NOD59,male,50-64,2018,3.0,Romance
+186,2018-02,IUQ76,female,18-29,2018,1.6,Business
+187,2018-02,LGC11,female,65+,2018,2.0,Sci-Fi & Fantasy
+188,2018-02,TVV83,female,18-29,2018,2.8,Podcasts
+189,2018-02,RVD02,male,18-29,2018,2.6,Sci-Fi & Fantasy
+190,2018-02,XUD81,female,65+,2018,2.6,Mysteries/Thrillers
+191,2018-02,GEW80,male,18-29,2018,4.8,Sci-Fi & Fantasy
+192,2018-02,AUK56,male,50-64,2018,1.1,Romance
+193,2018-02,OEI57,male,18-29,2018,2.8,Comedy
+194,2018-02,IAD29,female,18-29,2018,2.0,Non-fiction
+195,2018-02,LMK88,male,50-64,2018,1.0,Sci-Fi & Fantasy
+196,2018-02,ERO80,male,65+,2018,1.2,Podcasts
+197,2018-02,PEO84,male,30-49,2018,3.2,Sci-Fi & Fantasy
+198,2018-02,NJY80,female,18-29,2018,2.5,Podcasts
+199,2018-02,BNI06,male,18-29,2018,0.3,Business
+200,2018-03,BCK19,male,18-29,2018,1.3,Podcasts
+201,2018-03,ANI81,female,18-29,2018,3.2,Business
+202,2018-03,IIG04,female,18-29,2018,2.4,Mysteries/Thrillers
+203,2018-03,CPB34,male,30-49,2018,2.2,History
+204,2018-03,XCD70,female,30-49,2018,2.3,Sci-Fi & Fantasy
+205,2018-03,XOG87,male,30-49,2018,2.1,Podcasts
+206,2018-03,IUF65,male,50-64,2018,3.6,Children
+207,2018-03,VIK75,male,30-49,2018,1.7,Mysteries/Thrillers
+208,2018-03,RQR84,male,18-29,2018,2.3,History
+209,2018-03,RJA71,male,50-64,2018,3.4,Comedy
+210,2018-03,VXR13,male,30-49,2018,2.3,Romance
+211,2018-03,KBL53,female,50-64,2018,3.0,Mysteries/Thrillers
+212,2018-03,ECQ03,male,30-49,2018,4.1,Sci-Fi & Fantasy
+213,2018-03,FNS96,female,30-49,2018,1.1,History
+214,2018-03,ZZQ24,male,30-49,2018,2.8,Sci-Fi & Fantasy
+215,2018-03,EZL70,male,18-29,2018,0.2,Business
+216,2018-03,DFG32,female,30-49,2018,1.6,Mysteries/Thrillers
+217,2018-03,LKC03,female,30-49,2018,1.0,Comedy
+218,2018-03,CLA50,female,65+,2018,3.1,Mysteries/Thrillers
+219,2018-03,SKZ24,female,30-49,2018,3.6,Non-fiction
+220,2018-03,TIJ69,male,30-49,2018,3.5,Business
+221,2018-03,WKS63,female,30-49,2018,3.8,Business
+222,2018-03,GCW05,male,30-49,2018,3.5,Romance
+223,2018-03,NDR97,male,30-49,2018,3.5,Sci-Fi & Fantasy
+224,2018-03,KDZ56,male,18-29,2018,0.7,Mysteries/Thrillers
+225,2018-03,UKB16,female,30-49,2018,3.3,Mysteries/Thrillers
+226,2018-03,JWT96,female,30-49,2018,2.0,Podcasts
+227,2018-03,HUA58,male,50-64,2018,2.6,Comedy
+228,2018-03,NDN53,male,30-49,2018,2.2,Mysteries/Thrillers
+229,2018-03,XIH52,female,18-29,2018,3.6,Romance
+230,2018-03,IKY01,male,18-29,2018,2.2,Sci-Fi & Fantasy
+231,2018-03,FZX15,female,50-64,2018,3.3,Sci-Fi & Fantasy
+232,2018-03,CII59,male,18-29,2018,2.9,Romance
+233,2018-03,VNU47,female,30-49,2018,2.1,Podcasts
+234,2018-03,UGV54,female,18-29,2018,1.1,Business
+235,2018-03,KFN16,male,50-64,2018,1.9,Podcasts
+236,2018-03,XUP46,female,65+,2018,3.6,Podcasts
+237,2018-03,DBW36,female,18-29,2018,1.9,Business
+238,2018-03,KJU37,male,65+,2018,2.5,Romance
+239,2018-03,VEZ04,female,18-29,2018,3.7,Business
+240,2018-03,NVE53,female,50-64,2018,1.1,History
+241,2018-03,XDG83,male,50-64,2018,0.6,Sci-Fi & Fantasy
+242,2018-03,YBK15,male,50-64,2018,2.1,Romance
+243,2018-03,ZIQ24,male,18-29,2018,2.4,Mysteries/Thrillers
+244,2018-03,OGR59,male,18-29,2018,2.9,Mysteries/Thrillers
+245,2018-03,HYE06,male,30-49,2018,2.2,Non-fiction
+246,2018-03,TMB91,male,18-29,2018,4.3,Business
+247,2018-03,WXF84,female,50-64,2018,2.4,Comedy
+248,2018-03,XXU25,male,18-29,2018,3.3,Mysteries/Thrillers
+249,2018-03,ZIK60,male,18-29,2018,1.5,Business
+250,2018-03,GEK46,male,30-49,2018,2.5,Business
+251,2018-03,MEB57,male,30-49,2018,2.6,Comedy
+252,2018-03,YVH84,male,50-64,2018,2.6,Romance
+253,2018-03,HCL52,male,18-29,2018,4.1,Business
+254,2018-03,FYB94,male,30-49,2018,3.5,Mysteries/Thrillers
+255,2018-03,UCO74,female,50-64,2018,2.8,Sci-Fi & Fantasy
+256,2018-03,JMF22,male,65+,2018,2.4,Business
+257,2018-03,AXB90,female,18-29,2018,3.8,Business
+258,2018-03,ROB97,male,50-64,2018,2.9,Sci-Fi & Fantasy
+259,2018-03,WLH11,female,18-29,2018,2.8,Sci-Fi & Fantasy
+260,2018-03,RVF03,female,50-64,2018,4.7,Sci-Fi & Fantasy
+261,2018-03,DFF64,female,18-29,2018,4.1,Children
+262,2018-03,OKZ40,female,18-29,2018,4.0,Comedy
+263,2018-03,DTX14,female,18-29,2018,1.5,Podcasts
+264,2018-03,WOA52,male,30-49,2018,2.3,Sci-Fi & Fantasy
+265,2018-03,FYC87,male,18-29,2018,1.7,Romance
+266,2018-03,PIC69,male,30-49,2018,1.4,Non-fiction
+267,2018-03,EDM80,female,30-49,2018,1.9,Comedy
+268,2018-03,UCA14,male,50-64,2018,3.0,Podcasts
+269,2018-03,YRB14,female,18-29,2018,2.3,Mysteries/Thrillers
+270,2018-03,CRJ98,female,65+,2018,2.7,Business
+271,2018-03,VGL60,male,30-49,2018,2.4,Podcasts
+272,2018-03,AIK78,male,50-64,2018,0.7,Children
+273,2018-03,BBY21,female,50-64,2018,3.1,Podcasts
+274,2018-03,UUP78,male,18-29,2018,2.7,Comedy
+275,2018-03,WGK93,female,18-29,2018,3.0,Podcasts
+276,2018-03,QWW63,female,30-49,2018,3.6,Non-fiction
+277,2018-03,RAJ76,male,30-49,2018,1.8,History
+278,2018-03,CSP41,female,18-29,2018,2.9,Podcasts
+279,2018-03,PTF60,female,18-29,2018,2.0,Comedy
+280,2018-03,FJU28,female,30-49,2018,0.7,Business
+281,2018-03,ZEA77,male,50-64,2018,1.1,Non-fiction
+282,2018-03,XRU31,male,18-29,2018,0.7,Sci-Fi & Fantasy
+283,2018-03,ZPH80,female,18-29,2018,1.7,Sci-Fi & Fantasy
+284,2018-03,BGD46,female,65+,2018,3.3,Podcasts
+285,2018-03,NOD59,male,50-64,2018,5.2,Sci-Fi & Fantasy
+286,2018-03,IUQ76,female,18-29,2018,2.8,History
+287,2018-03,LGC11,female,65+,2018,1.7,Mysteries/Thrillers
+288,2018-03,TVV83,female,18-29,2018,1.8,Mysteries/Thrillers
+289,2018-03,RVD02,male,18-29,2018,1.3,Sci-Fi & Fantasy
+290,2018-03,XUD81,female,65+,2018,1.9,Comedy
+291,2018-03,GEW80,male,18-29,2018,2.5,Sci-Fi & Fantasy
+292,2018-03,AUK56,male,50-64,2018,3.1,Podcasts
+293,2018-03,OEI57,male,18-29,2018,1.7,Sci-Fi & Fantasy
+294,2018-03,IAD29,female,18-29,2018,2.1,Mysteries/Thrillers
+295,2018-03,LMK88,male,50-64,2018,1.4,Podcasts
+296,2018-03,ERO80,male,65+,2018,2.9,Business
+297,2018-03,PEO84,male,30-49,2018,2.7,Sci-Fi & Fantasy
+298,2018-03,NJY80,female,18-29,2018,2.0,Comedy
+299,2018-03,BNI06,male,18-29,2018,1.8,Romance
+300,2018-04,BCK19,male,18-29,2018,3.7,Sci-Fi & Fantasy
+301,2018-04,ANI81,female,18-29,2018,2.3,Romance
+302,2018-04,IIG04,female,18-29,2018,2.0,Mysteries/Thrillers
+303,2018-04,CPB34,male,30-49,2018,2.3,History
+304,2018-04,XCD70,female,30-49,2018,0.7,Mysteries/Thrillers
+305,2018-04,XOG87,male,30-49,2018,1.1,Comedy
+306,2018-04,IUF65,male,50-64,2018,3.2,Business
+307,2018-04,VIK75,male,30-49,2018,3.6,Podcasts
+308,2018-04,RQR84,male,18-29,2018,3.9,Sci-Fi & Fantasy
+309,2018-04,RJA71,male,50-64,2018,0.3,Sci-Fi & Fantasy
+310,2018-04,VXR13,male,30-49,2018,3.6,Romance
+311,2018-04,KBL53,female,50-64,2018,2.8,Romance
+312,2018-04,ECQ03,male,30-49,2018,1.4,Romance
+313,2018-04,FNS96,female,30-49,2018,3.6,Podcasts
+314,2018-04,ZZQ24,male,30-49,2018,2.4,Mysteries/Thrillers
+315,2018-04,EZL70,male,18-29,2018,0.9,Business
+316,2018-04,DFG32,female,30-49,2018,3.2,Non-fiction
+317,2018-04,LKC03,female,30-49,2018,3.0,Mysteries/Thrillers
+318,2018-04,CLA50,female,65+,2018,1.5,Mysteries/Thrillers
+319,2018-04,SKZ24,female,30-49,2018,2.6,Sci-Fi & Fantasy
+320,2018-04,TIJ69,male,30-49,2018,1.9,Business
+321,2018-04,WKS63,female,30-49,2018,2.0,Business
+322,2018-04,GCW05,male,30-49,2018,2.5,Mysteries/Thrillers
+323,2018-04,NDR97,male,30-49,2018,4.5,Sci-Fi & Fantasy
+324,2018-04,KDZ56,male,18-29,2018,1.4,Sci-Fi & Fantasy
+325,2018-04,UKB16,female,30-49,2018,0.4,Children
+326,2018-04,JWT96,female,30-49,2018,3.4,Mysteries/Thrillers
+327,2018-04,HUA58,male,50-64,2018,1.4,Mysteries/Thrillers
+328,2018-04,NDN53,male,30-49,2018,1.6,Romance
+329,2018-04,XIH52,female,18-29,2018,2.7,Non-fiction
+330,2018-04,IKY01,male,18-29,2018,1.5,History
+331,2018-04,FZX15,female,50-64,2018,3.2,Romance
+332,2018-04,CII59,male,18-29,2018,1.8,Comedy
+333,2018-04,VNU47,female,30-49,2018,3.0,Podcasts
+334,2018-04,UGV54,female,18-29,2018,3.7,Podcasts
+335,2018-04,KFN16,male,50-64,2018,2.1,Mysteries/Thrillers
+336,2018-04,XUP46,female,65+,2018,2.8,Comedy
+337,2018-04,DBW36,female,18-29,2018,3.5,Business
+338,2018-04,KJU37,male,65+,2018,2.1,Mysteries/Thrillers
+339,2018-04,VEZ04,female,18-29,2018,2.6,Children
+340,2018-04,NVE53,female,50-64,2018,3.1,Business
+341,2018-04,XDG83,male,50-64,2018,2.4,Podcasts
+342,2018-04,YBK15,male,50-64,2018,2.6,History
+343,2018-04,ZIQ24,male,18-29,2018,1.3,Sci-Fi & Fantasy
+344,2018-04,OGR59,male,18-29,2018,3.1,Non-fiction
+345,2018-04,HYE06,male,30-49,2018,1.3,Business
+346,2018-04,TMB91,male,18-29,2018,4.5,Mysteries/Thrillers
+347,2018-04,WXF84,female,50-64,2018,1.9,Sci-Fi & Fantasy
+348,2018-04,XXU25,male,18-29,2018,2.6,Romance
+349,2018-04,ZIK60,male,18-29,2018,3.7,Sci-Fi & Fantasy
+350,2018-04,GEK46,male,30-49,2018,1.9,Sci-Fi & Fantasy
+351,2018-04,MEB57,male,30-49,2018,4.7,Mysteries/Thrillers
+352,2018-04,YVH84,male,50-64,2018,4.1,Comedy
+353,2018-04,HCL52,male,18-29,2018,2.3,Comedy
+354,2018-04,FYB94,male,30-49,2018,0.9,Podcasts
+355,2018-04,UCO74,female,50-64,2018,2.9,Business
+356,2018-04,JMF22,male,65+,2018,2.2,Romance
+357,2018-04,AXB90,female,18-29,2018,2.0,Podcasts
+358,2018-04,ROB97,male,50-64,2018,1.5,Mysteries/Thrillers
+359,2018-04,WLH11,female,18-29,2018,2.4,Mysteries/Thrillers
+360,2018-04,RVF03,female,50-64,2018,3.1,Mysteries/Thrillers
+361,2018-04,DFF64,female,18-29,2018,2.7,Sci-Fi & Fantasy
+362,2018-04,OKZ40,female,18-29,2018,2.8,Children
+363,2018-04,DTX14,female,18-29,2018,1.0,Mysteries/Thrillers
+364,2018-04,WOA52,male,30-49,2018,1.3,Sci-Fi & Fantasy
+365,2018-04,FYC87,male,18-29,2018,2.0,Business
+366,2018-04,PIC69,male,30-49,2018,1.1,Sci-Fi & Fantasy
+367,2018-04,EDM80,female,30-49,2018,3.3,Comedy
+368,2018-04,UCA14,male,50-64,2018,1.3,Sci-Fi & Fantasy
+369,2018-04,YRB14,female,18-29,2018,3.2,Romance
+370,2018-04,CRJ98,female,65+,2018,3.3,Children
+371,2018-04,VGL60,male,30-49,2018,3.1,Romance
+372,2018-04,AIK78,male,50-64,2018,3.4,Sci-Fi & Fantasy
+373,2018-04,BBY21,female,50-64,2018,2.7,Business
+374,2018-04,UUP78,male,18-29,2018,3.5,Mysteries/Thrillers
+375,2018-04,WGK93,female,18-29,2018,3.4,Comedy
+376,2018-04,QWW63,female,30-49,2018,2.2,Comedy
+377,2018-04,RAJ76,male,30-49,2018,3.7,Sci-Fi & Fantasy
+378,2018-04,CSP41,female,18-29,2018,0.2,Romance
+379,2018-04,PTF60,female,18-29,2018,1.6,Mysteries/Thrillers
+380,2018-04,FJU28,female,30-49,2018,1.3,History
+381,2018-04,ZEA77,male,50-64,2018,3.5,Sci-Fi & Fantasy
+382,2018-04,XRU31,male,18-29,2018,4.1,Mysteries/Thrillers
+383,2018-04,ZPH80,female,18-29,2018,2.8,Romance
+384,2018-04,BGD46,female,65+,2018,3.5,Non-fiction
+385,2018-04,NOD59,male,50-64,2018,2.4,Sci-Fi & Fantasy
+386,2018-04,IUQ76,female,18-29,2018,3.9,Comedy
+387,2018-04,LGC11,female,65+,2018,1.2,Mysteries/Thrillers
+388,2018-04,TVV83,female,18-29,2018,2.0,Romance
+389,2018-04,RVD02,male,18-29,2018,5.2,Podcasts
+390,2018-04,XUD81,female,65+,2018,3.0,Romance
+391,2018-04,GEW80,male,18-29,2018,3.2,Comedy
+392,2018-04,AUK56,male,50-64,2018,1.6,Sci-Fi & Fantasy
+393,2018-04,OEI57,male,18-29,2018,4.4,Mysteries/Thrillers
+394,2018-04,IAD29,female,18-29,2018,3.5,History
+395,2018-04,LMK88,male,50-64,2018,2.6,Podcasts
+396,2018-04,ERO80,male,65+,2018,3.9,Sci-Fi & Fantasy
+397,2018-04,PEO84,male,30-49,2018,2.3,Podcasts
+398,2018-04,NJY80,female,18-29,2018,2.2,Sci-Fi & Fantasy
+399,2018-04,BNI06,male,18-29,2018,2.8,Mysteries/Thrillers
+400,2018-05,BCK19,male,18-29,2018,3.2,Non-fiction
+401,2018-05,ANI81,female,18-29,2018,1.9,Comedy
+402,2018-05,IIG04,female,18-29,2018,2.2,Comedy
+403,2018-05,CPB34,male,30-49,2018,2.7,Podcasts
+404,2018-05,XCD70,female,30-49,2018,1.8,Podcasts
+405,2018-05,XOG87,male,30-49,2018,2.7,Podcasts
+406,2018-05,IUF65,male,50-64,2018,3.0,Romance
+407,2018-05,VIK75,male,30-49,2018,3.2,Podcasts
+408,2018-05,RQR84,male,18-29,2018,2.3,Business
+409,2018-05,RJA71,male,50-64,2018,2.9,Sci-Fi & Fantasy
+410,2018-05,VXR13,male,30-49,2018,0.9,Mysteries/Thrillers
+411,2018-05,KBL53,female,50-64,2018,1.8,Romance
+412,2018-05,ECQ03,male,30-49,2018,3.1,Sci-Fi & Fantasy
+413,2018-05,FNS96,female,30-49,2018,2.4,Podcasts
+414,2018-05,ZZQ24,male,30-49,2018,1.9,Mysteries/Thrillers
+415,2018-05,EZL70,male,18-29,2018,3.9,Podcasts
+416,2018-05,DFG32,female,30-49,2018,3.2,Non-fiction
+417,2018-05,LKC03,female,30-49,2018,1.5,Comedy
+418,2018-05,CLA50,female,65+,2018,2.7,Sci-Fi & Fantasy
+419,2018-05,SKZ24,female,30-49,2018,3.6,Mysteries/Thrillers
+420,2018-05,TIJ69,male,30-49,2018,1.5,History
+421,2018-05,WKS63,female,30-49,2018,3.0,Comedy
+422,2018-05,GCW05,male,30-49,2018,1.8,Comedy
+423,2018-05,NDR97,male,30-49,2018,0.5,Comedy
+424,2018-05,KDZ56,male,18-29,2018,2.6,Business
+425,2018-05,UKB16,female,30-49,2018,2.7,Mysteries/Thrillers
+426,2018-05,JWT96,female,30-49,2018,3.3,Non-fiction
+427,2018-05,HUA58,male,50-64,2018,2.5,Mysteries/Thrillers
+428,2018-05,NDN53,male,30-49,2018,2.0,Sci-Fi & Fantasy
+429,2018-05,XIH52,female,18-29,2018,2.4,Sci-Fi & Fantasy
+430,2018-05,IKY01,male,18-29,2018,1.7,Mysteries/Thrillers
+431,2018-05,FZX15,female,50-64,2018,0.1,Mysteries/Thrillers
+432,2018-05,CII59,male,18-29,2018,1.8,Comedy
+433,2018-05,VNU47,female,30-49,2018,3.3,Comedy
+434,2018-05,UGV54,female,18-29,2018,1.9,Sci-Fi & Fantasy
+435,2018-05,KFN16,male,50-64,2018,3.2,Mysteries/Thrillers
+436,2018-05,XUP46,female,65+,2018,1.0,Podcasts
+437,2018-05,DBW36,female,18-29,2018,0.8,Non-fiction
+438,2018-05,KJU37,male,65+,2018,3.3,Business
+439,2018-05,VEZ04,female,18-29,2018,2.0,Sci-Fi & Fantasy
+440,2018-05,NVE53,female,50-64,2018,1.7,History
+441,2018-05,XDG83,male,50-64,2018,0.2,Sci-Fi & Fantasy
+442,2018-05,YBK15,male,50-64,2018,2.2,Mysteries/Thrillers
+443,2018-05,ZIQ24,male,18-29,2018,2.3,Sci-Fi & Fantasy
+444,2018-05,OGR59,male,18-29,2018,4.4,Comedy
+445,2018-05,HYE06,male,30-49,2018,3.8,Mysteries/Thrillers
+446,2018-05,TMB91,male,18-29,2018,1.4,Sci-Fi & Fantasy
+447,2018-05,WXF84,female,50-64,2018,4.2,Comedy
+448,2018-05,XXU25,male,18-29,2018,2.1,Business
+449,2018-05,ZIK60,male,18-29,2018,2.9,Romance
+450,2018-05,GEK46,male,30-49,2018,1.6,Comedy
+451,2018-05,MEB57,male,30-49,2018,0.8,Comedy
+452,2018-05,YVH84,male,50-64,2018,2.6,Non-fiction
+453,2018-05,HCL52,male,18-29,2018,2.7,Podcasts
+454,2018-05,FYB94,male,30-49,2018,2.5,Romance
+455,2018-05,UCO74,female,50-64,2018,2.9,Romance
+456,2018-05,JMF22,male,65+,2018,3.4,Mysteries/Thrillers
+457,2018-05,AXB90,female,18-29,2018,2.4,Romance
+458,2018-05,ROB97,male,50-64,2018,3.7,Podcasts
+459,2018-05,WLH11,female,18-29,2018,2.3,Mysteries/Thrillers
+460,2018-05,RVF03,female,50-64,2018,0.5,Podcasts
+461,2018-05,DFF64,female,18-29,2018,3.7,Non-fiction
+462,2018-05,OKZ40,female,18-29,2018,1.5,Romance
+463,2018-05,DTX14,female,18-29,2018,4.3,Business
+464,2018-05,WOA52,male,30-49,2018,4.1,Business
+465,2018-05,FYC87,male,18-29,2018,3.5,Comedy
+466,2018-05,PIC69,male,30-49,2018,1.6,Romance
+467,2018-05,EDM80,female,30-49,2018,4.3,Sci-Fi & Fantasy
+468,2018-05,UCA14,male,50-64,2018,1.5,Sci-Fi & Fantasy
+469,2018-05,YRB14,female,18-29,2018,2.8,Comedy
+470,2018-05,CRJ98,female,65+,2018,1.5,Business
+471,2018-05,VGL60,male,30-49,2018,3.0,Business
+472,2018-05,AIK78,male,50-64,2018,2.5,Sci-Fi & Fantasy
+473,2018-05,BBY21,female,50-64,2018,3.1,Mysteries/Thrillers
+474,2018-05,UUP78,male,18-29,2018,2.2,Comedy
+475,2018-05,WGK93,female,18-29,2018,1.3,Romance
+476,2018-05,QWW63,female,30-49,2018,3.9,Business
+477,2018-05,RAJ76,male,30-49,2018,0.9,Comedy
+478,2018-05,CSP41,female,18-29,2018,2.9,Business
+479,2018-05,PTF60,female,18-29,2018,1.4,Non-fiction
+480,2018-05,FJU28,female,30-49,2018,2.2,Romance
+481,2018-05,ZEA77,male,50-64,2018,1.2,Mysteries/Thrillers
+482,2018-05,XRU31,male,18-29,2018,2.6,Mysteries/Thrillers
+483,2018-05,ZPH80,female,18-29,2018,2.2,Non-fiction
+484,2018-05,BGD46,female,65+,2018,3.7,Sci-Fi & Fantasy
+485,2018-05,NOD59,male,50-64,2018,1.9,Sci-Fi & Fantasy
+486,2018-05,IUQ76,female,18-29,2018,2.5,Sci-Fi & Fantasy
+487,2018-05,LGC11,female,65+,2018,1.6,Sci-Fi & Fantasy
+488,2018-05,TVV83,female,18-29,2018,2.9,Non-fiction
+489,2018-05,RVD02,male,18-29,2018,2.5,Comedy
+490,2018-05,XUD81,female,65+,2018,3.7,Sci-Fi & Fantasy
+491,2018-05,GEW80,male,18-29,2018,1.9,Romance
+492,2018-05,AUK56,male,50-64,2018,1.7,Non-fiction
+493,2018-05,OEI57,male,18-29,2018,3.5,Sci-Fi & Fantasy
+494,2018-05,IAD29,female,18-29,2018,4.5,History
+495,2018-05,LMK88,male,50-64,2018,0.2,Mysteries/Thrillers
+496,2018-05,ERO80,male,65+,2018,2.7,Mysteries/Thrillers
+497,2018-05,PEO84,male,30-49,2018,1.2,Business
+498,2018-05,NJY80,female,18-29,2018,3.3,Romance
+499,2018-05,BNI06,male,18-29,2018,2.9,Mysteries/Thrillers
+500,2018-06,BCK19,male,18-29,2018,2.5,Sci-Fi & Fantasy
+501,2018-06,ANI81,female,18-29,2018,3.0,Podcasts
+502,2018-06,IIG04,female,18-29,2018,0.8,Mysteries/Thrillers
+503,2018-06,CPB34,male,30-49,2018,2.1,Mysteries/Thrillers
+504,2018-06,XCD70,female,30-49,2018,3.2,Business
+505,2018-06,XOG87,male,30-49,2018,4.6,Sci-Fi & Fantasy
+506,2018-06,IUF65,male,50-64,2018,1.4,Sci-Fi & Fantasy
+507,2018-06,VIK75,male,30-49,2018,2.1,Mysteries/Thrillers
+508,2018-06,RQR84,male,18-29,2018,3.1,Non-fiction
+509,2018-06,RJA71,male,50-64,2018,2.7,Business
+510,2018-06,VXR13,male,30-49,2018,3.4,History
+511,2018-06,KBL53,female,50-64,2018,3.4,Mysteries/Thrillers
+512,2018-06,ECQ03,male,30-49,2018,2.4,Mysteries/Thrillers
+513,2018-06,FNS96,female,30-49,2018,1.5,Non-fiction
+514,2018-06,ZZQ24,male,30-49,2018,2.2,Comedy
+515,2018-06,EZL70,male,18-29,2018,4.6,Romance
+516,2018-06,DFG32,female,30-49,2018,3.4,Business
+517,2018-06,LKC03,female,30-49,2018,2.9,Mysteries/Thrillers
+518,2018-06,CLA50,female,65+,2018,3.1,Mysteries/Thrillers
+519,2018-06,SKZ24,female,30-49,2018,2.7,Business
+520,2018-06,TIJ69,male,30-49,2018,2.3,History
+521,2018-06,WKS63,female,30-49,2018,4.0,Podcasts
+522,2018-06,GCW05,male,30-49,2018,4.0,Mysteries/Thrillers
+523,2018-06,NDR97,male,30-49,2018,4.2,Romance
+524,2018-06,KDZ56,male,18-29,2018,0.7,Comedy
+525,2018-06,UKB16,female,30-49,2018,3.6,Romance
+526,2018-06,JWT96,female,30-49,2018,1.6,Business
+527,2018-06,HUA58,male,50-64,2018,1.0,Romance
+528,2018-06,NDN53,male,30-49,2018,2.5,Podcasts
+529,2018-06,XIH52,female,18-29,2018,1.1,Mysteries/Thrillers
+530,2018-06,IKY01,male,18-29,2018,2.1,Mysteries/Thrillers
+531,2018-06,FZX15,female,50-64,2018,1.9,Romance
+532,2018-06,CII59,male,18-29,2018,2.1,Non-fiction
+533,2018-06,VNU47,female,30-49,2018,2.7,Mysteries/Thrillers
+534,2018-06,UGV54,female,18-29,2018,2.0,Business
+535,2018-06,KFN16,male,50-64,2018,3.0,Sci-Fi & Fantasy
+536,2018-06,XUP46,female,65+,2018,2.6,Mysteries/Thrillers
+537,2018-06,DBW36,female,18-29,2018,2.0,Romance
+538,2018-06,KJU37,male,65+,2018,5.7,Romance
+539,2018-06,VEZ04,female,18-29,2018,2.1,Podcasts
+540,2018-06,NVE53,female,50-64,2018,3.4,Sci-Fi & Fantasy
+541,2018-06,XDG83,male,50-64,2018,3.1,Mysteries/Thrillers
+542,2018-06,YBK15,male,50-64,2018,2.2,Non-fiction
+543,2018-06,ZIQ24,male,18-29,2018,1.5,Sci-Fi & Fantasy
+544,2018-06,OGR59,male,18-29,2018,3.7,Romance
+545,2018-06,HYE06,male,30-49,2018,2.2,Mysteries/Thrillers
+546,2018-06,TMB91,male,18-29,2018,1.0,Sci-Fi & Fantasy
+547,2018-06,WXF84,female,50-64,2018,2.3,Comedy
+548,2018-06,XXU25,male,18-29,2018,2.0,Podcasts
+549,2018-06,ZIK60,male,18-29,2018,1.7,Sci-Fi & Fantasy
+550,2018-06,GEK46,male,30-49,2018,3.4,Mysteries/Thrillers
+551,2018-06,MEB57,male,30-49,2018,2.4,Romance
+552,2018-06,YVH84,male,50-64,2018,1.4,Podcasts
+553,2018-06,HCL52,male,18-29,2018,2.6,Romance
+554,2018-06,FYB94,male,30-49,2018,2.1,Romance
+555,2018-06,UCO74,female,50-64,2018,0.6,Sci-Fi & Fantasy
+556,2018-06,JMF22,male,65+,2018,3.2,Romance
+557,2018-06,AXB90,female,18-29,2018,0.9,Non-fiction
+558,2018-06,ROB97,male,50-64,2018,2.2,Sci-Fi & Fantasy
+559,2018-06,WLH11,female,18-29,2018,3.0,Comedy
+560,2018-06,RVF03,female,50-64,2018,1.9,Romance
+561,2018-06,DFF64,female,18-29,2018,2.5,Podcasts
+562,2018-06,OKZ40,female,18-29,2018,1.8,Sci-Fi & Fantasy
+563,2018-06,DTX14,female,18-29,2018,2.6,Romance
+564,2018-06,WOA52,male,30-49,2018,3.0,Sci-Fi & Fantasy
+565,2018-06,FYC87,male,18-29,2018,1.8,Sci-Fi & Fantasy
+566,2018-06,PIC69,male,30-49,2018,2.0,Mysteries/Thrillers
+567,2018-06,EDM80,female,30-49,2018,2.5,Podcasts
+568,2018-06,UCA14,male,50-64,2018,0.9,Sci-Fi & Fantasy
+569,2018-06,YRB14,female,18-29,2018,2.4,Mysteries/Thrillers
+570,2018-06,CRJ98,female,65+,2018,2.3,Mysteries/Thrillers
+571,2018-06,VGL60,male,30-49,2018,2.1,Romance
+572,2018-06,AIK78,male,50-64,2018,2.6,Mysteries/Thrillers
+573,2018-06,BBY21,female,50-64,2018,3.7,Comedy
+574,2018-06,UUP78,male,18-29,2018,2.2,Podcasts
+575,2018-06,WGK93,female,18-29,2018,4.5,History
+576,2018-06,QWW63,female,30-49,2018,2.7,Romance
+577,2018-06,RAJ76,male,30-49,2018,1.3,Sci-Fi & Fantasy
+578,2018-06,CSP41,female,18-29,2018,3.2,Sci-Fi & Fantasy
+579,2018-06,PTF60,female,18-29,2018,2.5,Romance
+580,2018-06,FJU28,female,30-49,2018,2.0,Podcasts
+581,2018-06,ZEA77,male,50-64,2018,2.4,Mysteries/Thrillers
+582,2018-06,XRU31,male,18-29,2018,2.3,Non-fiction
+583,2018-06,ZPH80,female,18-29,2018,1.6,Romance
+584,2018-06,BGD46,female,65+,2018,1.9,Comedy
+585,2018-06,NOD59,male,50-64,2018,2.4,Non-fiction
+586,2018-06,IUQ76,female,18-29,2018,2.7,Romance
+587,2018-06,LGC11,female,65+,2018,1.6,History
+588,2018-06,TVV83,female,18-29,2018,3.8,Sci-Fi & Fantasy
+589,2018-06,RVD02,male,18-29,2018,3.0,Comedy
+590,2018-06,XUD81,female,65+,2018,1.9,Business
+591,2018-06,GEW80,male,18-29,2018,2.8,Mysteries/Thrillers
+592,2018-06,AUK56,male,50-64,2018,2.7,Romance
+593,2018-06,OEI57,male,18-29,2018,2.5,Non-fiction
+594,2018-06,IAD29,female,18-29,2018,2.4,Mysteries/Thrillers
+595,2018-06,LMK88,male,50-64,2018,2.8,Mysteries/Thrillers
+596,2018-06,ERO80,male,65+,2018,1.7,Non-fiction
+597,2018-06,PEO84,male,30-49,2018,2.4,Mysteries/Thrillers
+598,2018-06,NJY80,female,18-29,2018,1.8,Sci-Fi & Fantasy
+599,2018-06,BNI06,male,18-29,2018,2.3,Romance
+600,2018-07,BCK19,male,18-29,2018,2.2,Podcasts
+601,2018-07,ANI81,female,18-29,2018,1.7,Non-fiction
+602,2018-07,IIG04,female,18-29,2018,1.6,Romance
+603,2018-07,CPB34,male,30-49,2018,3.1,Mysteries/Thrillers
+604,2018-07,XCD70,female,30-49,2018,1.5,Mysteries/Thrillers
+605,2018-07,XOG87,male,30-49,2018,0.6,Non-fiction
+606,2018-07,IUF65,male,50-64,2018,2.3,Podcasts
+607,2018-07,VIK75,male,30-49,2018,1.5,Children
+608,2018-07,RQR84,male,18-29,2018,2.1,Business
+609,2018-07,RJA71,male,50-64,2018,1.7,Podcasts
+610,2018-07,VXR13,male,30-49,2018,1.1,Mysteries/Thrillers
+611,2018-07,KBL53,female,50-64,2018,1.8,Mysteries/Thrillers
+612,2018-07,ECQ03,male,30-49,2018,2.3,Comedy
+613,2018-07,FNS96,female,30-49,2018,3.3,Romance
+614,2018-07,ZZQ24,male,30-49,2018,2.3,Non-fiction
+615,2018-07,EZL70,male,18-29,2018,3.0,Mysteries/Thrillers
+616,2018-07,DFG32,female,30-49,2018,2.1,Non-fiction
+617,2018-07,LKC03,female,30-49,2018,5.1,Sci-Fi & Fantasy
+618,2018-07,CLA50,female,65+,2018,2.6,Sci-Fi & Fantasy
+619,2018-07,SKZ24,female,30-49,2018,1.9,Podcasts
+620,2018-07,TIJ69,male,30-49,2018,1.2,Mysteries/Thrillers
+621,2018-07,WKS63,female,30-49,2018,4.2,Romance
+622,2018-07,GCW05,male,30-49,2018,2.5,Romance
+623,2018-07,NDR97,male,30-49,2018,2.6,Romance
+624,2018-07,KDZ56,male,18-29,2018,2.2,Podcasts
+625,2018-07,UKB16,female,30-49,2018,4.0,Romance
+626,2018-07,JWT96,female,30-49,2018,1.8,Children
+627,2018-07,HUA58,male,50-64,2018,2.0,History
+628,2018-07,NDN53,male,30-49,2018,3.1,Non-fiction
+629,2018-07,XIH52,female,18-29,2018,3.7,Podcasts
+630,2018-07,IKY01,male,18-29,2018,3.6,Podcasts
+631,2018-07,FZX15,female,50-64,2018,1.7,Mysteries/Thrillers
+632,2018-07,CII59,male,18-29,2018,4.2,Romance
+633,2018-07,VNU47,female,30-49,2018,3.4,History
+634,2018-07,UGV54,female,18-29,2018,1.6,Romance
+635,2018-07,KFN16,male,50-64,2018,4.3,Business
+636,2018-07,XUP46,female,65+,2018,1.5,Comedy
+637,2018-07,DBW36,female,18-29,2018,1.7,Sci-Fi & Fantasy
+638,2018-07,KJU37,male,65+,2018,1.2,Comedy
+639,2018-07,VEZ04,female,18-29,2018,2.6,History
+640,2018-07,NVE53,female,50-64,2018,2.7,Business
+641,2018-07,XDG83,male,50-64,2018,2.4,Non-fiction
+642,2018-07,YBK15,male,50-64,2018,2.2,Children
+643,2018-07,ZIQ24,male,18-29,2018,3.0,Sci-Fi & Fantasy
+644,2018-07,OGR59,male,18-29,2018,2.0,Mysteries/Thrillers
+645,2018-07,HYE06,male,30-49,2018,2.3,Podcasts
+646,2018-07,TMB91,male,18-29,2018,0.6,Business
+647,2018-07,WXF84,female,50-64,2018,2.8,Romance
+648,2018-07,XXU25,male,18-29,2018,1.7,Romance
+649,2018-07,ZIK60,male,18-29,2018,4.1,Sci-Fi & Fantasy
+650,2018-07,GEK46,male,30-49,2018,3.1,Mysteries/Thrillers
+651,2018-07,MEB57,male,30-49,2018,3.3,Comedy
+652,2018-07,YVH84,male,50-64,2018,2.0,Sci-Fi & Fantasy
+653,2018-07,HCL52,male,18-29,2018,3.6,Mysteries/Thrillers
+654,2018-07,FYB94,male,30-49,2018,2.9,Podcasts
+655,2018-07,UCO74,female,50-64,2018,3.0,Mysteries/Thrillers
+656,2018-07,JMF22,male,65+,2018,1.9,Sci-Fi & Fantasy
+657,2018-07,AXB90,female,18-29,2018,2.3,Sci-Fi & Fantasy
+658,2018-07,ROB97,male,50-64,2018,2.5,Non-fiction
+659,2018-07,WLH11,female,18-29,2018,2.8,Mysteries/Thrillers
+660,2018-07,RVF03,female,50-64,2018,1.4,Non-fiction
+661,2018-07,DFF64,female,18-29,2018,3.2,Comedy
+662,2018-07,OKZ40,female,18-29,2018,0.3,Romance
+663,2018-07,DTX14,female,18-29,2018,3.0,Business
+664,2018-07,WOA52,male,30-49,2018,2.2,Mysteries/Thrillers
+665,2018-07,FYC87,male,18-29,2018,3.5,Romance
+666,2018-07,PIC69,male,30-49,2018,2.1,Business
+667,2018-07,EDM80,female,30-49,2018,2.7,Mysteries/Thrillers
+668,2018-07,UCA14,male,50-64,2018,3.0,Romance
+669,2018-07,YRB14,female,18-29,2018,2.8,Romance
+670,2018-07,CRJ98,female,65+,2018,2.5,Mysteries/Thrillers
+671,2018-07,VGL60,male,30-49,2018,3.2,History
+672,2018-07,AIK78,male,50-64,2018,1.3,Comedy
+673,2018-07,BBY21,female,50-64,2018,1.3,Children
+674,2018-07,UUP78,male,18-29,2018,1.8,Sci-Fi & Fantasy
+675,2018-07,WGK93,female,18-29,2018,3.0,Business
+676,2018-07,QWW63,female,30-49,2018,2.7,Sci-Fi & Fantasy
+677,2018-07,RAJ76,male,30-49,2018,1.1,Children
+678,2018-07,CSP41,female,18-29,2018,3.6,Romance
+679,2018-07,PTF60,female,18-29,2018,3.4,Mysteries/Thrillers
+680,2018-07,FJU28,female,30-49,2018,2.2,Mysteries/Thrillers
+681,2018-07,ZEA77,male,50-64,2018,0.9,Business
+682,2018-07,XRU31,male,18-29,2018,2.8,Comedy
+683,2018-07,ZPH80,female,18-29,2018,3.3,History
+684,2018-07,BGD46,female,65+,2018,4.2,Mysteries/Thrillers
+685,2018-07,NOD59,male,50-64,2018,2.4,Sci-Fi & Fantasy
+686,2018-07,IUQ76,female,18-29,2018,3.2,Sci-Fi & Fantasy
+687,2018-07,LGC11,female,65+,2018,3.5,Romance
+688,2018-07,TVV83,female,18-29,2018,3.3,Sci-Fi & Fantasy
+689,2018-07,RVD02,male,18-29,2018,3.7,Romance
+690,2018-07,XUD81,female,65+,2018,1.8,Romance
+691,2018-07,GEW80,male,18-29,2018,2.0,Romance
+692,2018-07,AUK56,male,50-64,2018,2.2,Podcasts
+693,2018-07,OEI57,male,18-29,2018,3.0,Romance
+694,2018-07,IAD29,female,18-29,2018,2.8,Comedy
+695,2018-07,LMK88,male,50-64,2018,2.0,Business
+696,2018-07,ERO80,male,65+,2018,2.0,Podcasts
+697,2018-07,PEO84,male,30-49,2018,0.2,Non-fiction
+698,2018-07,NJY80,female,18-29,2018,3.2,Mysteries/Thrillers
+699,2018-07,BNI06,male,18-29,2018,1.3,Romance
+700,2018-08,BCK19,male,18-29,2018,2.5,Business
+701,2018-08,ANI81,female,18-29,2018,2.8,Mysteries/Thrillers
+702,2018-08,IIG04,female,18-29,2018,1.4,Mysteries/Thrillers
+703,2018-08,CPB34,male,30-49,2018,2.3,Business
+704,2018-08,XCD70,female,30-49,2018,3.9,Romance
+705,2018-08,XOG87,male,30-49,2018,3.3,Sci-Fi & Fantasy
+706,2018-08,IUF65,male,50-64,2018,3.4,Mysteries/Thrillers
+707,2018-08,VIK75,male,30-49,2018,1.5,History
+708,2018-08,RQR84,male,18-29,2018,1.7,Comedy
+709,2018-08,RJA71,male,50-64,2018,2.1,Sci-Fi & Fantasy
+710,2018-08,VXR13,male,30-49,2018,1.7,Mysteries/Thrillers
+711,2018-08,KBL53,female,50-64,2018,2.5,Podcasts
+712,2018-08,ECQ03,male,30-49,2018,3.5,Mysteries/Thrillers
+713,2018-08,FNS96,female,30-49,2018,3.2,Romance
+714,2018-08,ZZQ24,male,30-49,2018,3.1,Sci-Fi & Fantasy
+715,2018-08,EZL70,male,18-29,2018,2.3,Sci-Fi & Fantasy
+716,2018-08,DFG32,female,30-49,2018,3.8,Mysteries/Thrillers
+717,2018-08,LKC03,female,30-49,2018,2.9,Romance
+718,2018-08,CLA50,female,65+,2018,1.4,Mysteries/Thrillers
+719,2018-08,SKZ24,female,30-49,2018,4.8,Sci-Fi & Fantasy
+720,2018-08,TIJ69,male,30-49,2018,3.7,Mysteries/Thrillers
+721,2018-08,WKS63,female,30-49,2018,1.8,Non-fiction
+722,2018-08,GCW05,male,30-49,2018,2.2,Children
+723,2018-08,NDR97,male,30-49,2018,3.7,Sci-Fi & Fantasy
+724,2018-08,KDZ56,male,18-29,2018,2.5,Mysteries/Thrillers
+725,2018-08,UKB16,female,30-49,2018,2.0,Sci-Fi & Fantasy
+726,2018-08,JWT96,female,30-49,2018,1.7,Business
+727,2018-08,HUA58,male,50-64,2018,1.8,Romance
+728,2018-08,NDN53,male,30-49,2018,2.7,Romance
+729,2018-08,XIH52,female,18-29,2018,3.0,Romance
+730,2018-08,IKY01,male,18-29,2018,2.8,Sci-Fi & Fantasy
+731,2018-08,FZX15,female,50-64,2018,1.2,Sci-Fi & Fantasy
+732,2018-08,CII59,male,18-29,2018,3.7,Sci-Fi & Fantasy
+733,2018-08,VNU47,female,30-49,2018,1.0,Mysteries/Thrillers
+734,2018-08,UGV54,female,18-29,2018,1.2,Non-fiction
+735,2018-08,KFN16,male,50-64,2018,2.6,Non-fiction
+736,2018-08,XUP46,female,65+,2018,2.7,Mysteries/Thrillers
+737,2018-08,DBW36,female,18-29,2018,1.7,Comedy
+738,2018-08,KJU37,male,65+,2018,2.0,Mysteries/Thrillers
+739,2018-08,VEZ04,female,18-29,2018,3.5,Podcasts
+740,2018-08,NVE53,female,50-64,2018,3.1,Romance
+741,2018-08,XDG83,male,50-64,2018,3.6,Sci-Fi & Fantasy
+742,2018-08,YBK15,male,50-64,2018,2.3,Podcasts
+743,2018-08,ZIQ24,male,18-29,2018,2.8,Romance
+744,2018-08,OGR59,male,18-29,2018,0.9,Sci-Fi & Fantasy
+745,2018-08,HYE06,male,30-49,2018,2.3,Podcasts
+746,2018-08,TMB91,male,18-29,2018,1.3,Sci-Fi & Fantasy
+747,2018-08,WXF84,female,50-64,2018,2.0,Mysteries/Thrillers
+748,2018-08,XXU25,male,18-29,2018,2.6,Business
+749,2018-08,ZIK60,male,18-29,2018,1.5,Podcasts
+750,2018-08,GEK46,male,30-49,2018,2.9,Business
+751,2018-08,MEB57,male,30-49,2018,2.1,Sci-Fi & Fantasy
+752,2018-08,YVH84,male,50-64,2018,2.6,Romance
+753,2018-08,HCL52,male,18-29,2018,3.1,Romance
+754,2018-08,FYB94,male,30-49,2018,2.3,Romance
+755,2018-08,UCO74,female,50-64,2018,1.1,Podcasts
+756,2018-08,JMF22,male,65+,2018,1.9,Mysteries/Thrillers
+757,2018-08,AXB90,female,18-29,2018,2.5,Sci-Fi & Fantasy
+758,2018-08,ROB97,male,50-64,2018,3.8,Comedy
+759,2018-08,WLH11,female,18-29,2018,3.0,Mysteries/Thrillers
+760,2018-08,RVF03,female,50-64,2018,2.8,Sci-Fi & Fantasy
+761,2018-08,DFF64,female,18-29,2018,2.7,Mysteries/Thrillers
+762,2018-08,OKZ40,female,18-29,2018,2.5,Business
+763,2018-08,DTX14,female,18-29,2018,3.7,Podcasts
+764,2018-08,WOA52,male,30-49,2018,3.4,Sci-Fi & Fantasy
+765,2018-08,FYC87,male,18-29,2018,4.5,Podcasts
+766,2018-08,PIC69,male,30-49,2018,1.2,Mysteries/Thrillers
+767,2018-08,EDM80,female,30-49,2018,3.7,Mysteries/Thrillers
+768,2018-08,UCA14,male,50-64,2018,2.6,Mysteries/Thrillers
+769,2018-08,YRB14,female,18-29,2018,1.4,Non-fiction
+770,2018-08,CRJ98,female,65+,2018,2.6,Business
+771,2018-08,VGL60,male,30-49,2018,2.0,Non-fiction
+772,2018-08,AIK78,male,50-64,2018,3.2,Mysteries/Thrillers
+773,2018-08,BBY21,female,50-64,2018,2.2,Mysteries/Thrillers
+774,2018-08,UUP78,male,18-29,2018,1.3,Business
+775,2018-08,WGK93,female,18-29,2018,3.1,Sci-Fi & Fantasy
+776,2018-08,QWW63,female,30-49,2018,3.2,Non-fiction
+777,2018-08,RAJ76,male,30-49,2018,2.2,Sci-Fi & Fantasy
+778,2018-08,CSP41,female,18-29,2018,3.3,Children
+779,2018-08,PTF60,female,18-29,2018,2.3,Mysteries/Thrillers
+780,2018-08,FJU28,female,30-49,2018,1.4,Romance
+781,2018-08,ZEA77,male,50-64,2018,3.2,Business
+782,2018-08,XRU31,male,18-29,2018,1.9,Sci-Fi & Fantasy
+783,2018-08,ZPH80,female,18-29,2018,2.3,Romance
+784,2018-08,BGD46,female,65+,2018,2.9,Business
+785,2018-08,NOD59,male,50-64,2018,1.7,Podcasts
+786,2018-08,IUQ76,female,18-29,2018,3.4,Comedy
+787,2018-08,LGC11,female,65+,2018,3.9,Romance
+788,2018-08,TVV83,female,18-29,2018,2.7,Romance
+789,2018-08,RVD02,male,18-29,2018,0.6,Podcasts
+790,2018-08,XUD81,female,65+,2018,1.6,Sci-Fi & Fantasy
+791,2018-08,GEW80,male,18-29,2018,0.2,Non-fiction
+792,2018-08,AUK56,male,50-64,2018,3.8,Sci-Fi & Fantasy
+793,2018-08,OEI57,male,18-29,2018,3.3,Sci-Fi & Fantasy
+794,2018-08,IAD29,female,18-29,2018,2.6,Podcasts
+795,2018-08,LMK88,male,50-64,2018,2.2,Mysteries/Thrillers
+796,2018-08,ERO80,male,65+,2018,2.4,Non-fiction
+797,2018-08,PEO84,male,30-49,2018,1.8,Romance
+798,2018-08,NJY80,female,18-29,2018,3.5,Business
+799,2018-08,BNI06,male,18-29,2018,3.1,Podcasts
+800,2018-09,BCK19,male,18-29,2018,3.8,Podcasts
+801,2018-09,ANI81,female,18-29,2018,0.6,Mysteries/Thrillers
+802,2018-09,IIG04,female,18-29,2018,1.6,Sci-Fi & Fantasy
+803,2018-09,CPB34,male,30-49,2018,2.1,Podcasts
+804,2018-09,XCD70,female,30-49,2018,3.3,Comedy
+805,2018-09,XOG87,male,30-49,2018,3.7,Mysteries/Thrillers
+806,2018-09,IUF65,male,50-64,2018,1.2,Comedy
+807,2018-09,VIK75,male,30-49,2018,3.0,Mysteries/Thrillers
+808,2018-09,RQR84,male,18-29,2018,2.9,Romance
+809,2018-09,RJA71,male,50-64,2018,1.7,Mysteries/Thrillers
+810,2018-09,VXR13,male,30-49,2018,1.3,Podcasts
+811,2018-09,KBL53,female,50-64,2018,2.0,Mysteries/Thrillers
+812,2018-09,ECQ03,male,30-49,2018,1.7,Sci-Fi & Fantasy
+813,2018-09,FNS96,female,30-49,2018,1.7,Mysteries/Thrillers
+814,2018-09,ZZQ24,male,30-49,2018,4.6,Mysteries/Thrillers
+815,2018-09,EZL70,male,18-29,2018,3.0,Mysteries/Thrillers
+816,2018-09,DFG32,female,30-49,2018,2.5,Mysteries/Thrillers
+817,2018-09,LKC03,female,30-49,2018,1.2,Comedy
+818,2018-09,CLA50,female,65+,2018,2.9,Podcasts
+819,2018-09,SKZ24,female,30-49,2018,0.5,Business
+820,2018-09,TIJ69,male,30-49,2018,3.7,Romance
+821,2018-09,WKS63,female,30-49,2018,2.4,Mysteries/Thrillers
+822,2018-09,GCW05,male,30-49,2018,2.0,Mysteries/Thrillers
+823,2018-09,NDR97,male,30-49,2018,1.3,History
+824,2018-09,KDZ56,male,18-29,2018,1.4,Podcasts
+825,2018-09,UKB16,female,30-49,2018,4.3,Sci-Fi & Fantasy
+826,2018-09,JWT96,female,30-49,2018,3.5,Sci-Fi & Fantasy
+827,2018-09,HUA58,male,50-64,2018,4.2,Mysteries/Thrillers
+828,2018-09,NDN53,male,30-49,2018,3.8,Mysteries/Thrillers
+829,2018-09,XIH52,female,18-29,2018,2.6,Romance
+830,2018-09,IKY01,male,18-29,2018,1.8,Mysteries/Thrillers
+831,2018-09,FZX15,female,50-64,2018,1.3,Mysteries/Thrillers
+832,2018-09,CII59,male,18-29,2018,1.3,Business
+833,2018-09,VNU47,female,30-49,2018,3.5,Podcasts
+834,2018-09,UGV54,female,18-29,2018,1.6,Sci-Fi & Fantasy
+835,2018-09,KFN16,male,50-64,2018,2.5,Sci-Fi & Fantasy
+836,2018-09,XUP46,female,65+,2018,1.5,Business
+837,2018-09,DBW36,female,18-29,2018,3.5,Sci-Fi & Fantasy
+838,2018-09,KJU37,male,65+,2018,3.6,Sci-Fi & Fantasy
+839,2018-09,VEZ04,female,18-29,2018,0.7,Mysteries/Thrillers
+840,2018-09,NVE53,female,50-64,2018,2.8,Romance
+841,2018-09,XDG83,male,50-64,2018,1.9,Comedy
+842,2018-09,YBK15,male,50-64,2018,2.7,Non-fiction
+843,2018-09,ZIQ24,male,18-29,2018,3.1,Business
+844,2018-09,OGR59,male,18-29,2018,2.4,Podcasts
+845,2018-09,HYE06,male,30-49,2018,3.2,Mysteries/Thrillers
+846,2018-09,TMB91,male,18-29,2018,1.9,Non-fiction
+847,2018-09,WXF84,female,50-64,2018,1.5,Mysteries/Thrillers
+848,2018-09,XXU25,male,18-29,2018,3.6,Sci-Fi & Fantasy
+849,2018-09,ZIK60,male,18-29,2018,0.4,History
+850,2018-09,GEK46,male,30-49,2018,3.0,Mysteries/Thrillers
+851,2018-09,MEB57,male,30-49,2018,1.0,History
+852,2018-09,YVH84,male,50-64,2018,3.6,Mysteries/Thrillers
+853,2018-09,HCL52,male,18-29,2018,3.6,Non-fiction
+854,2018-09,FYB94,male,30-49,2018,2.0,Romance
+855,2018-09,UCO74,female,50-64,2018,3.1,Mysteries/Thrillers
+856,2018-09,JMF22,male,65+,2018,2.4,Comedy
+857,2018-09,AXB90,female,18-29,2018,1.0,Romance
+858,2018-09,ROB97,male,50-64,2018,0.8,Romance
+859,2018-09,WLH11,female,18-29,2018,3.2,Romance
+860,2018-09,RVF03,female,50-64,2018,1.3,Mysteries/Thrillers
+861,2018-09,DFF64,female,18-29,2018,4.0,Business
+862,2018-09,OKZ40,female,18-29,2018,1.9,Children
+863,2018-09,DTX14,female,18-29,2018,3.0,Podcasts
+864,2018-09,WOA52,male,30-49,2018,2.4,Podcasts
+865,2018-09,FYC87,male,18-29,2018,1.5,Romance
+866,2018-09,PIC69,male,30-49,2018,4.2,Non-fiction
+867,2018-09,EDM80,female,30-49,2018,3.2,Mysteries/Thrillers
+868,2018-09,UCA14,male,50-64,2018,2.6,Romance
+869,2018-09,YRB14,female,18-29,2018,2.7,Mysteries/Thrillers
+870,2018-09,CRJ98,female,65+,2018,2.8,History
+871,2018-09,VGL60,male,30-49,2018,2.6,Romance
+872,2018-09,AIK78,male,50-64,2018,0.8,Sci-Fi & Fantasy
+873,2018-09,BBY21,female,50-64,2018,2.3,Business
+874,2018-09,UUP78,male,18-29,2018,1.7,Sci-Fi & Fantasy
+875,2018-09,WGK93,female,18-29,2018,1.5,Romance
+876,2018-09,QWW63,female,30-49,2018,2.1,Sci-Fi & Fantasy
+877,2018-09,RAJ76,male,30-49,2018,2.5,Podcasts
+878,2018-09,CSP41,female,18-29,2018,3.1,Sci-Fi & Fantasy
+879,2018-09,PTF60,female,18-29,2018,1.8,Mysteries/Thrillers
+880,2018-09,FJU28,female,30-49,2018,1.2,Mysteries/Thrillers
+881,2018-09,ZEA77,male,50-64,2018,0.8,History
+882,2018-09,XRU31,male,18-29,2018,2.2,History
+883,2018-09,ZPH80,female,18-29,2018,0.6,Sci-Fi & Fantasy
+884,2018-09,BGD46,female,65+,2018,1.7,Sci-Fi & Fantasy
+885,2018-09,NOD59,male,50-64,2018,2.8,Business
+886,2018-09,IUQ76,female,18-29,2018,1.7,Non-fiction
+887,2018-09,LGC11,female,65+,2018,2.5,Non-fiction
+888,2018-09,TVV83,female,18-29,2018,3.5,Non-fiction
+889,2018-09,RVD02,male,18-29,2018,0.6,Romance
+890,2018-09,XUD81,female,65+,2018,2.8,Sci-Fi & Fantasy
+891,2018-09,GEW80,male,18-29,2018,1.0,Mysteries/Thrillers
+892,2018-09,AUK56,male,50-64,2018,2.5,Non-fiction
+893,2018-09,OEI57,male,18-29,2018,3.1,Podcasts
+894,2018-09,IAD29,female,18-29,2018,2.7,Podcasts
+895,2018-09,LMK88,male,50-64,2018,2.2,Sci-Fi & Fantasy
+896,2018-09,ERO80,male,65+,2018,2.4,Business
+897,2018-09,PEO84,male,30-49,2018,3.5,Mysteries/Thrillers
+898,2018-09,NJY80,female,18-29,2018,1.4,Non-fiction
+899,2018-09,BNI06,male,18-29,2018,3.3,Podcasts
+900,2018-10,BCK19,male,18-29,2018,3.6,Sci-Fi & Fantasy
+901,2018-10,ANI81,female,18-29,2018,3.1,Business
+902,2018-10,IIG04,female,18-29,2018,1.1,Podcasts
+903,2018-10,CPB34,male,30-49,2018,2.7,Non-fiction
+904,2018-10,XCD70,female,30-49,2018,1.8,Mysteries/Thrillers
+905,2018-10,XOG87,male,30-49,2018,2.7,Podcasts
+906,2018-10,IUF65,male,50-64,2018,3.6,Mysteries/Thrillers
+907,2018-10,VIK75,male,30-49,2018,3.3,Business
+908,2018-10,RQR84,male,18-29,2018,2.6,Podcasts
+909,2018-10,RJA71,male,50-64,2018,1.6,Podcasts
+910,2018-10,VXR13,male,30-49,2018,1.1,Podcasts
+911,2018-10,KBL53,female,50-64,2018,1.5,Mysteries/Thrillers
+912,2018-10,ECQ03,male,30-49,2018,4.1,Mysteries/Thrillers
+913,2018-10,FNS96,female,30-49,2018,2.1,Sci-Fi & Fantasy
+914,2018-10,ZZQ24,male,30-49,2018,1.9,Business
+915,2018-10,EZL70,male,18-29,2018,0.7,Comedy
+916,2018-10,DFG32,female,30-49,2018,2.3,Mysteries/Thrillers
+917,2018-10,LKC03,female,30-49,2018,4.0,Podcasts
+918,2018-10,CLA50,female,65+,2018,4.1,Non-fiction
+919,2018-10,SKZ24,female,30-49,2018,1.7,Business
+920,2018-10,TIJ69,male,30-49,2018,1.1,Romance
+921,2018-10,WKS63,female,30-49,2018,2.2,Mysteries/Thrillers
+922,2018-10,GCW05,male,30-49,2018,2.5,Non-fiction
+923,2018-10,NDR97,male,30-49,2018,1.3,Mysteries/Thrillers
+924,2018-10,KDZ56,male,18-29,2018,3.4,History
+925,2018-10,UKB16,female,30-49,2018,2.5,Sci-Fi & Fantasy
+926,2018-10,JWT96,female,30-49,2018,2.8,Comedy
+927,2018-10,HUA58,male,50-64,2018,3.3,Sci-Fi & Fantasy
+928,2018-10,NDN53,male,30-49,2018,3.6,Mysteries/Thrillers
+929,2018-10,XIH52,female,18-29,2018,3.5,Business
+930,2018-10,IKY01,male,18-29,2018,3.3,Romance
+931,2018-10,FZX15,female,50-64,2018,2.1,Romance
+932,2018-10,CII59,male,18-29,2018,2.0,Comedy
+933,2018-10,VNU47,female,30-49,2018,3.3,Podcasts
+934,2018-10,UGV54,female,18-29,2018,0.3,Sci-Fi & Fantasy
+935,2018-10,KFN16,male,50-64,2018,2.0,Comedy
+936,2018-10,XUP46,female,65+,2018,1.4,Sci-Fi & Fantasy
+937,2018-10,DBW36,female,18-29,2018,0.9,Comedy
+938,2018-10,KJU37,male,65+,2018,2.4,Romance
+939,2018-10,VEZ04,female,18-29,2018,1.5,History
+940,2018-10,NVE53,female,50-64,2018,3.9,Mysteries/Thrillers
+941,2018-10,XDG83,male,50-64,2018,2.3,Mysteries/Thrillers
+942,2018-10,YBK15,male,50-64,2018,1.7,History
+943,2018-10,ZIQ24,male,18-29,2018,1.3,Sci-Fi & Fantasy
+944,2018-10,OGR59,male,18-29,2018,2.9,Romance
+945,2018-10,HYE06,male,30-49,2018,2.5,Podcasts
+946,2018-10,TMB91,male,18-29,2018,2.2,Sci-Fi & Fantasy
+947,2018-10,WXF84,female,50-64,2018,2.1,Non-fiction
+948,2018-10,XXU25,male,18-29,2018,1.8,Mysteries/Thrillers
+949,2018-10,ZIK60,male,18-29,2018,4.6,Mysteries/Thrillers
+950,2018-10,GEK46,male,30-49,2018,1.0,Podcasts
+951,2018-10,MEB57,male,30-49,2018,2.5,Romance
+952,2018-10,YVH84,male,50-64,2018,1.8,Comedy
+953,2018-10,HCL52,male,18-29,2018,3.3,Children
+954,2018-10,FYB94,male,30-49,2018,2.3,Romance
+955,2018-10,UCO74,female,50-64,2018,2.1,Sci-Fi & Fantasy
+956,2018-10,JMF22,male,65+,2018,3.4,Podcasts
+957,2018-10,AXB90,female,18-29,2018,2.7,Podcasts
+958,2018-10,ROB97,male,50-64,2018,1.7,Sci-Fi & Fantasy
+959,2018-10,WLH11,female,18-29,2018,3.1,Mysteries/Thrillers
+960,2018-10,RVF03,female,50-64,2018,2.5,Business
+961,2018-10,DFF64,female,18-29,2018,2.7,Sci-Fi & Fantasy
+962,2018-10,OKZ40,female,18-29,2018,2.1,Non-fiction
+963,2018-10,DTX14,female,18-29,2018,1.8,Comedy
+964,2018-10,WOA52,male,30-49,2018,0.2,Sci-Fi & Fantasy
+965,2018-10,FYC87,male,18-29,2018,2.1,Sci-Fi & Fantasy
+966,2018-10,PIC69,male,30-49,2018,1.1,Mysteries/Thrillers
+967,2018-10,EDM80,female,30-49,2018,0.5,Mysteries/Thrillers
+968,2018-10,UCA14,male,50-64,2018,2.9,Romance
+969,2018-10,YRB14,female,18-29,2018,2.7,Romance
+970,2018-10,CRJ98,female,65+,2018,1.8,Romance
+971,2018-10,VGL60,male,30-49,2018,3.5,Sci-Fi & Fantasy
+972,2018-10,AIK78,male,50-64,2018,2.1,Sci-Fi & Fantasy
+973,2018-10,BBY21,female,50-64,2018,0.1,Mysteries/Thrillers
+974,2018-10,UUP78,male,18-29,2018,0.6,Sci-Fi & Fantasy
+975,2018-10,WGK93,female,18-29,2018,3.2,Mysteries/Thrillers
+976,2018-10,QWW63,female,30-49,2018,2.5,Business
+977,2018-10,RAJ76,male,30-49,2018,5.6,Sci-Fi & Fantasy
+978,2018-10,CSP41,female,18-29,2018,2.5,Non-fiction
+979,2018-10,PTF60,female,18-29,2018,1.0,Romance
+980,2018-10,FJU28,female,30-49,2018,2.1,History
+981,2018-10,ZEA77,male,50-64,2018,2.4,Mysteries/Thrillers
+982,2018-10,XRU31,male,18-29,2018,4.3,Business
+983,2018-10,ZPH80,female,18-29,2018,0.6,Comedy
+984,2018-10,BGD46,female,65+,2018,0.6,Business
+985,2018-10,NOD59,male,50-64,2018,1.1,Romance
+986,2018-10,IUQ76,female,18-29,2018,3.1,Business
+987,2018-10,LGC11,female,65+,2018,1.0,Romance
+988,2018-10,TVV83,female,18-29,2018,2.7,Business
+989,2018-10,RVD02,male,18-29,2018,3.6,Romance
+990,2018-10,XUD81,female,65+,2018,2.3,Sci-Fi & Fantasy
+991,2018-10,GEW80,male,18-29,2018,3.9,Romance
+992,2018-10,AUK56,male,50-64,2018,3.4,Sci-Fi & Fantasy
+993,2018-10,OEI57,male,18-29,2018,1.8,Podcasts
+994,2018-10,IAD29,female,18-29,2018,3.0,Sci-Fi & Fantasy
+995,2018-10,LMK88,male,50-64,2018,2.0,Romance
+996,2018-10,ERO80,male,65+,2018,2.6,Romance
+997,2018-10,PEO84,male,30-49,2018,1.5,Business
+998,2018-10,NJY80,female,18-29,2018,3.3,Podcasts
+999,2018-10,BNI06,male,18-29,2018,1.3,Mysteries/Thrillers
+1000,2018-11,BCK19,male,18-29,2018,2.9,Podcasts
+1001,2018-11,ANI81,female,18-29,2018,2.3,Romance
+1002,2018-11,IIG04,female,18-29,2018,1.0,Mysteries/Thrillers
+1003,2018-11,CPB34,male,30-49,2018,1.5,Business
+1004,2018-11,XCD70,female,30-49,2018,2.0,Podcasts
+1005,2018-11,XOG87,male,30-49,2018,2.6,Comedy
+1006,2018-11,IUF65,male,50-64,2018,2.5,Podcasts
+1007,2018-11,VIK75,male,30-49,2018,2.4,Non-fiction
+1008,2018-11,RQR84,male,18-29,2018,1.4,Sci-Fi & Fantasy
+1009,2018-11,RJA71,male,50-64,2018,1.9,Mysteries/Thrillers
+1010,2018-11,VXR13,male,30-49,2018,2.7,Sci-Fi & Fantasy
+1011,2018-11,KBL53,female,50-64,2018,2.7,Comedy
+1012,2018-11,ECQ03,male,30-49,2018,1.5,Mysteries/Thrillers
+1013,2018-11,FNS96,female,30-49,2018,3.7,Sci-Fi & Fantasy
+1014,2018-11,ZZQ24,male,30-49,2018,2.0,Mysteries/Thrillers
+1015,2018-11,EZL70,male,18-29,2018,2.9,Romance
+1016,2018-11,DFG32,female,30-49,2018,1.9,Mysteries/Thrillers
+1017,2018-11,LKC03,female,30-49,2018,2.0,Business
+1018,2018-11,CLA50,female,65+,2018,2.0,Romance
+1019,2018-11,SKZ24,female,30-49,2018,2.5,Podcasts
+1020,2018-11,TIJ69,male,30-49,2018,3.8,Business
+1021,2018-11,WKS63,female,30-49,2018,1.0,Mysteries/Thrillers
+1022,2018-11,GCW05,male,30-49,2018,1.8,Comedy
+1023,2018-11,NDR97,male,30-49,2018,3.1,Comedy
+1024,2018-11,KDZ56,male,18-29,2018,1.4,Business
+1025,2018-11,UKB16,female,30-49,2018,2.6,History
+1026,2018-11,JWT96,female,30-49,2018,1.7,Mysteries/Thrillers
+1027,2018-11,HUA58,male,50-64,2018,2.1,Sci-Fi & Fantasy
+1028,2018-11,NDN53,male,30-49,2018,1.7,Comedy
+1029,2018-11,XIH52,female,18-29,2018,0.1,Mysteries/Thrillers
+1030,2018-11,IKY01,male,18-29,2018,1.4,History
+1031,2018-11,FZX15,female,50-64,2018,1.9,Romance
+1032,2018-11,CII59,male,18-29,2018,3.3,Non-fiction
+1033,2018-11,VNU47,female,30-49,2018,2.7,Sci-Fi & Fantasy
+1034,2018-11,UGV54,female,18-29,2018,3.2,Mysteries/Thrillers
+1035,2018-11,KFN16,male,50-64,2018,0.8,Comedy
+1036,2018-11,XUP46,female,65+,2018,3.7,Comedy
+1037,2018-11,DBW36,female,18-29,2018,0.8,Romance
+1038,2018-11,KJU37,male,65+,2018,2.1,Sci-Fi & Fantasy
+1039,2018-11,VEZ04,female,18-29,2018,2.4,Podcasts
+1040,2018-11,NVE53,female,50-64,2018,1.0,Romance
+1041,2018-11,XDG83,male,50-64,2018,4.6,Podcasts
+1042,2018-11,YBK15,male,50-64,2018,1.4,Business
+1043,2018-11,ZIQ24,male,18-29,2018,3.5,Mysteries/Thrillers
+1044,2018-11,OGR59,male,18-29,2018,3.6,History
+1045,2018-11,HYE06,male,30-49,2018,1.3,Romance
+1046,2018-11,TMB91,male,18-29,2018,2.4,Podcasts
+1047,2018-11,WXF84,female,50-64,2018,1.6,Comedy
+1048,2018-11,XXU25,male,18-29,2018,1.8,Sci-Fi & Fantasy
+1049,2018-11,ZIK60,male,18-29,2018,1.3,History
+1050,2018-11,GEK46,male,30-49,2018,2.2,Non-fiction
+1051,2018-11,MEB57,male,30-49,2018,1.7,Mysteries/Thrillers
+1052,2018-11,YVH84,male,50-64,2018,2.6,Sci-Fi & Fantasy
+1053,2018-11,HCL52,male,18-29,2018,0.5,Business
+1054,2018-11,FYB94,male,30-49,2018,1.3,Podcasts
+1055,2018-11,UCO74,female,50-64,2018,1.7,Sci-Fi & Fantasy
+1056,2018-11,JMF22,male,65+,2018,0.8,Comedy
+1057,2018-11,AXB90,female,18-29,2018,4.1,Sci-Fi & Fantasy
+1058,2018-11,ROB97,male,50-64,2018,3.1,Podcasts
+1059,2018-11,WLH11,female,18-29,2018,2.6,Business
+1060,2018-11,RVF03,female,50-64,2018,2.4,Sci-Fi & Fantasy
+1061,2018-11,DFF64,female,18-29,2018,3.8,Sci-Fi & Fantasy
+1062,2018-11,OKZ40,female,18-29,2018,2.9,Podcasts
+1063,2018-11,DTX14,female,18-29,2018,4.1,Romance
+1064,2018-11,WOA52,male,30-49,2018,3.7,Non-fiction
+1065,2018-11,FYC87,male,18-29,2018,2.1,Sci-Fi & Fantasy
+1066,2018-11,PIC69,male,30-49,2018,2.7,Romance
+1067,2018-11,EDM80,female,30-49,2018,4.0,Business
+1068,2018-11,UCA14,male,50-64,2018,3.2,Romance
+1069,2018-11,YRB14,female,18-29,2018,2.4,Business
+1070,2018-11,CRJ98,female,65+,2018,2.6,Comedy
+1071,2018-11,VGL60,male,30-49,2018,3.1,Sci-Fi & Fantasy
+1072,2018-11,AIK78,male,50-64,2018,2.4,Mysteries/Thrillers
+1073,2018-11,BBY21,female,50-64,2018,0.5,Podcasts
+1074,2018-11,UUP78,male,18-29,2018,2.8,Mysteries/Thrillers
+1075,2018-11,WGK93,female,18-29,2018,2.9,Comedy
+1076,2018-11,QWW63,female,30-49,2018,2.2,Romance
+1077,2018-11,RAJ76,male,30-49,2018,2.8,Podcasts
+1078,2018-11,CSP41,female,18-29,2018,2.5,Sci-Fi & Fantasy
+1079,2018-11,PTF60,female,18-29,2018,2.4,Mysteries/Thrillers
+1080,2018-11,FJU28,female,30-49,2018,1.1,History
+1081,2018-11,ZEA77,male,50-64,2018,1.8,Podcasts
+1082,2018-11,XRU31,male,18-29,2018,4.0,Sci-Fi & Fantasy
+1083,2018-11,ZPH80,female,18-29,2018,3.2,Podcasts
+1084,2018-11,BGD46,female,65+,2018,2.8,Comedy
+1085,2018-11,NOD59,male,50-64,2018,1.9,Mysteries/Thrillers
+1086,2018-11,IUQ76,female,18-29,2018,1.8,Sci-Fi & Fantasy
+1087,2018-11,LGC11,female,65+,2018,3.2,Comedy
+1088,2018-11,TVV83,female,18-29,2018,2.9,Romance
+1089,2018-11,RVD02,male,18-29,2018,3.1,Mysteries/Thrillers
+1090,2018-11,XUD81,female,65+,2018,3.2,Business
+1091,2018-11,GEW80,male,18-29,2018,3.3,Business
+1092,2018-11,AUK56,male,50-64,2018,2.0,Mysteries/Thrillers
+1093,2018-11,OEI57,male,18-29,2018,3.5,Comedy
+1094,2018-11,IAD29,female,18-29,2018,2.5,Mysteries/Thrillers
+1095,2018-11,LMK88,male,50-64,2018,1.9,History
+1096,2018-11,ERO80,male,65+,2018,2.7,Mysteries/Thrillers
+1097,2018-11,PEO84,male,30-49,2018,0.8,Mysteries/Thrillers
+1098,2018-11,NJY80,female,18-29,2018,0.5,Romance
+1099,2018-11,BNI06,male,18-29,2018,4.0,Podcasts
+1100,2018-12,BCK19,male,18-29,2018,3.9,Mysteries/Thrillers
+1101,2018-12,ANI81,female,18-29,2018,1.1,Comedy
+1102,2018-12,IIG04,female,18-29,2018,2.1,Podcasts
+1103,2018-12,CPB34,male,30-49,2018,1.2,Children
+1104,2018-12,XCD70,female,30-49,2018,1.4,Comedy
+1105,2018-12,XOG87,male,30-49,2018,0.8,Non-fiction
+1106,2018-12,IUF65,male,50-64,2018,2.8,History
+1107,2018-12,VIK75,male,30-49,2018,1.7,Romance
+1108,2018-12,RQR84,male,18-29,2018,2.9,Podcasts
+1109,2018-12,RJA71,male,50-64,2018,3.1,Business
+1110,2018-12,VXR13,male,30-49,2018,0.9,Mysteries/Thrillers
+1111,2018-12,KBL53,female,50-64,2018,1.3,Romance
+1112,2018-12,ECQ03,male,30-49,2018,2.9,Business
+1113,2018-12,FNS96,female,30-49,2018,4.4,Sci-Fi & Fantasy
+1114,2018-12,ZZQ24,male,30-49,2018,2.1,Romance
+1115,2018-12,EZL70,male,18-29,2018,3.5,Mysteries/Thrillers
+1116,2018-12,DFG32,female,30-49,2018,2.4,Romance
+1117,2018-12,LKC03,female,30-49,2018,3.3,Mysteries/Thrillers
+1118,2018-12,CLA50,female,65+,2018,3.1,Sci-Fi & Fantasy
+1119,2018-12,SKZ24,female,30-49,2018,2.5,Mysteries/Thrillers
+1120,2018-12,TIJ69,male,30-49,2018,1.9,Romance
+1121,2018-12,WKS63,female,30-49,2018,4.0,Mysteries/Thrillers
+1122,2018-12,GCW05,male,30-49,2018,3.6,Comedy
+1123,2018-12,NDR97,male,30-49,2018,0.4,Non-fiction
+1124,2018-12,KDZ56,male,18-29,2018,2.0,Romance
+1125,2018-12,UKB16,female,30-49,2018,3.2,Mysteries/Thrillers
+1126,2018-12,JWT96,female,30-49,2018,2.9,Comedy
+1127,2018-12,HUA58,male,50-64,2018,2.0,Mysteries/Thrillers
+1128,2018-12,NDN53,male,30-49,2018,1.8,Podcasts
+1129,2018-12,XIH52,female,18-29,2018,3.3,Sci-Fi & Fantasy
+1130,2018-12,IKY01,male,18-29,2018,2.1,Romance
+1131,2018-12,FZX15,female,50-64,2018,2.9,Sci-Fi & Fantasy
+1132,2018-12,CII59,male,18-29,2018,3.5,Sci-Fi & Fantasy
+1133,2018-12,VNU47,female,30-49,2018,1.6,Podcasts
+1134,2018-12,UGV54,female,18-29,2018,3.0,Non-fiction
+1135,2018-12,KFN16,male,50-64,2018,1.7,Mysteries/Thrillers
+1136,2018-12,XUP46,female,65+,2018,1.5,Comedy
+1137,2018-12,DBW36,female,18-29,2018,4.3,Sci-Fi & Fantasy
+1138,2018-12,KJU37,male,65+,2018,0.8,Romance
+1139,2018-12,VEZ04,female,18-29,2018,3.8,Business
+1140,2018-12,NVE53,female,50-64,2018,1.2,Sci-Fi & Fantasy
+1141,2018-12,XDG83,male,50-64,2018,2.5,Romance
+1142,2018-12,YBK15,male,50-64,2018,2.5,Podcasts
+1143,2018-12,ZIQ24,male,18-29,2018,3.3,Romance
+1144,2018-12,OGR59,male,18-29,2018,2.7,Romance
+1145,2018-12,HYE06,male,30-49,2018,0.6,Business
+1146,2018-12,TMB91,male,18-29,2018,2.2,Sci-Fi & Fantasy
+1147,2018-12,WXF84,female,50-64,2018,3.2,Business
+1148,2018-12,XXU25,male,18-29,2018,0.5,Mysteries/Thrillers
+1149,2018-12,ZIK60,male,18-29,2018,2.5,Business
+1150,2018-12,GEK46,male,30-49,2018,3.1,Podcasts
+1151,2018-12,MEB57,male,30-49,2018,2.6,History
+1152,2018-12,YVH84,male,50-64,2018,1.2,Non-fiction
+1153,2018-12,HCL52,male,18-29,2018,4.1,Sci-Fi & Fantasy
+1154,2018-12,FYB94,male,30-49,2018,2.1,Romance
+1155,2018-12,UCO74,female,50-64,2018,0.1,Mysteries/Thrillers
+1156,2018-12,JMF22,male,65+,2018,3.5,Mysteries/Thrillers
+1157,2018-12,AXB90,female,18-29,2018,1.3,Romance
+1158,2018-12,ROB97,male,50-64,2018,3.0,Mysteries/Thrillers
+1159,2018-12,WLH11,female,18-29,2018,2.4,Non-fiction
+1160,2018-12,RVF03,female,50-64,2018,1.7,Romance
+1161,2018-12,DFF64,female,18-29,2018,2.3,Mysteries/Thrillers
+1162,2018-12,OKZ40,female,18-29,2018,0.6,Romance
+1163,2018-12,DTX14,female,18-29,2018,2.6,Podcasts
+1164,2018-12,WOA52,male,30-49,2018,2.6,Sci-Fi & Fantasy
+1165,2018-12,FYC87,male,18-29,2018,1.9,Comedy
+1166,2018-12,PIC69,male,30-49,2018,0.9,Non-fiction
+1167,2018-12,EDM80,female,30-49,2018,3.4,Comedy
+1168,2018-12,UCA14,male,50-64,2018,1.4,Sci-Fi & Fantasy
+1169,2018-12,YRB14,female,18-29,2018,4.2,Comedy
+1170,2018-12,CRJ98,female,65+,2018,3.5,Romance
+1171,2018-12,VGL60,male,30-49,2018,4.1,Mysteries/Thrillers
+1172,2018-12,AIK78,male,50-64,2018,4.1,Sci-Fi & Fantasy
+1173,2018-12,BBY21,female,50-64,2018,2.4,Romance
+1174,2018-12,UUP78,male,18-29,2018,1.9,Podcasts
+1175,2018-12,WGK93,female,18-29,2018,1.4,Romance
+1176,2018-12,QWW63,female,30-49,2018,2.8,Romance
+1177,2018-12,RAJ76,male,30-49,2018,2.6,Romance
+1178,2018-12,CSP41,female,18-29,2018,4.5,Sci-Fi & Fantasy
+1179,2018-12,PTF60,female,18-29,2018,2.3,Podcasts
+1180,2018-12,FJU28,female,30-49,2018,3.1,History
+1181,2018-12,ZEA77,male,50-64,2018,2.5,Podcasts
+1182,2018-12,XRU31,male,18-29,2018,3.1,Sci-Fi & Fantasy
+1183,2018-12,ZPH80,female,18-29,2018,2.2,Romance
+1184,2018-12,BGD46,female,65+,2018,3.5,Romance
+1185,2018-12,NOD59,male,50-64,2018,1.7,Non-fiction
+1186,2018-12,IUQ76,female,18-29,2018,2.7,Sci-Fi & Fantasy
+1187,2018-12,LGC11,female,65+,2018,1.1,Non-fiction
+1188,2018-12,TVV83,female,18-29,2018,1.1,Comedy
+1189,2018-12,RVD02,male,18-29,2018,1.3,Mysteries/Thrillers
+1190,2018-12,XUD81,female,65+,2018,0.3,Romance
+1191,2018-12,GEW80,male,18-29,2018,1.1,Comedy
+1192,2018-12,AUK56,male,50-64,2018,2.2,Sci-Fi & Fantasy
+1193,2018-12,OEI57,male,18-29,2018,2.8,Non-fiction
+1194,2018-12,IAD29,female,18-29,2018,3.0,Comedy
+1195,2018-12,LMK88,male,50-64,2018,2.4,Comedy
+1196,2018-12,ERO80,male,65+,2018,2.1,Non-fiction
+1197,2018-12,PEO84,male,30-49,2018,2.0,Podcasts
+1198,2018-12,NJY80,female,18-29,2018,3.5,Mysteries/Thrillers
+1199,2018-12,BNI06,male,18-29,2018,1.8,Romance
+1200,2019-01,BCK19,male,18-29,2019,5.5,Romance
+1201,2019-01,ANI81,female,18-29,2019,4.1,Podcasts
+1202,2019-01,IIG04,female,18-29,2019,3.2,Mysteries/Thrillers
+1203,2019-01,CPB34,male,30-49,2019,5.6,Podcasts
+1204,2019-01,XCD70,female,30-49,2019,4.7,Romance
+1205,2019-01,XOG87,male,30-49,2019,0.4,Romance
+1206,2019-01,IUF65,male,50-64,2019,5.0,Sci-Fi & Fantasy
+1207,2019-01,VIK75,male,30-49,2019,1.9,Mysteries/Thrillers
+1208,2019-01,RQR84,male,18-29,2019,2.9,Mysteries/Thrillers
+1209,2019-01,RJA71,male,50-64,2019,4.1,Comedy
+1210,2019-01,VXR13,male,30-49,2019,3.8,Comedy
+1211,2019-01,KBL53,female,50-64,2019,2.4,Non-fiction
+1212,2019-01,ECQ03,male,30-49,2019,2.6,Non-fiction
+1213,2019-01,FNS96,female,30-49,2019,4.8,Romance
+1214,2019-01,ZZQ24,male,30-49,2019,2.1,Romance
+1215,2019-01,EZL70,male,18-29,2019,6.0,Mysteries/Thrillers
+1216,2019-01,DFG32,female,30-49,2019,3.5,Sci-Fi & Fantasy
+1217,2019-01,LKC03,female,30-49,2019,2.4,History
+1218,2019-01,CLA50,female,65+,2019,3.4,Mysteries/Thrillers
+1219,2019-01,SKZ24,female,30-49,2019,2.8,Business
+1220,2019-01,TIJ69,male,30-49,2019,2.4,Sci-Fi & Fantasy
+1221,2019-01,WKS63,female,30-49,2019,5.1,Business
+1222,2019-01,GCW05,male,30-49,2019,2.3,Mysteries/Thrillers
+1223,2019-01,NDR97,male,30-49,2019,3.7,Mysteries/Thrillers
+1224,2019-01,KDZ56,male,18-29,2019,0.8,Mysteries/Thrillers
+1225,2019-01,UKB16,female,30-49,2019,5.4,Comedy
+1226,2019-01,JWT96,female,30-49,2019,3.2,History
+1227,2019-01,HUA58,male,50-64,2019,4.1,Business
+1228,2019-01,NDN53,male,30-49,2019,3.4,Romance
+1229,2019-01,XIH52,female,18-29,2019,1.8,Comedy
+1230,2019-01,IKY01,male,18-29,2019,3.5,Children
+1231,2019-01,FZX15,female,50-64,2019,4.1,Non-fiction
+1232,2019-01,CII59,male,18-29,2019,4.8,Romance
+1233,2019-01,VNU47,female,30-49,2019,2.2,Comedy
+1234,2019-01,UGV54,female,18-29,2019,2.5,Podcasts
+1235,2019-01,KFN16,male,50-64,2019,3.7,Non-fiction
+1236,2019-01,XUP46,female,65+,2019,1.4,Non-fiction
+1237,2019-01,DBW36,female,18-29,2019,6.6,Sci-Fi & Fantasy
+1238,2019-01,KJU37,male,65+,2019,2.7,Sci-Fi & Fantasy
+1239,2019-01,VEZ04,female,18-29,2019,2.4,Sci-Fi & Fantasy
+1240,2019-01,NVE53,female,50-64,2019,2.4,Sci-Fi & Fantasy
+1241,2019-01,XDG83,male,50-64,2019,4.0,Comedy
+1242,2019-01,YBK15,male,50-64,2019,5.2,Mysteries/Thrillers
+1243,2019-01,ZIQ24,male,18-29,2019,5.1,Sci-Fi & Fantasy
+1244,2019-01,OGR59,male,18-29,2019,3.0,Podcasts
+1245,2019-01,HYE06,male,30-49,2019,5.5,Mysteries/Thrillers
+1246,2019-01,TMB91,male,18-29,2019,0.5,Mysteries/Thrillers
+1247,2019-01,WXF84,female,50-64,2019,2.8,Romance
+1248,2019-01,XXU25,male,18-29,2019,5.4,Sci-Fi & Fantasy
+1249,2019-01,ZIK60,male,18-29,2019,2.7,Mysteries/Thrillers
+1250,2019-01,GEK46,male,30-49,2019,4.7,Romance
+1251,2019-01,MEB57,male,30-49,2019,5.4,Sci-Fi & Fantasy
+1252,2019-01,YVH84,male,50-64,2019,0.9,Sci-Fi & Fantasy
+1253,2019-01,HCL52,male,18-29,2019,1.0,Sci-Fi & Fantasy
+1254,2019-01,FYB94,male,30-49,2019,2.9,Comedy
+1255,2019-01,UCO74,female,50-64,2019,3.0,Podcasts
+1256,2019-01,JMF22,male,65+,2019,1.3,Romance
+1257,2019-01,AXB90,female,18-29,2019,2.7,Comedy
+1258,2019-01,ROB97,male,50-64,2019,4.7,Comedy
+1259,2019-01,WLH11,female,18-29,2019,5.9,History
+1260,2019-01,RVF03,female,50-64,2019,0.5,Podcasts
+1261,2019-01,DFF64,female,18-29,2019,2.4,Children
+1262,2019-01,OKZ40,female,18-29,2019,3.2,Comedy
+1263,2019-01,DTX14,female,18-29,2019,3.3,Mysteries/Thrillers
+1264,2019-01,WOA52,male,30-49,2019,2.5,Non-fiction
+1265,2019-01,FYC87,male,18-29,2019,1.5,Mysteries/Thrillers
+1266,2019-01,PIC69,male,30-49,2019,4.2,Podcasts
+1267,2019-01,EDM80,female,30-49,2019,2.5,Podcasts
+1268,2019-01,UCA14,male,50-64,2019,2.7,Sci-Fi & Fantasy
+1269,2019-01,YRB14,female,18-29,2019,4.2,Podcasts
+1270,2019-01,CRJ98,female,65+,2019,3.0,Romance
+1271,2019-01,VGL60,male,30-49,2019,2.9,Sci-Fi & Fantasy
+1272,2019-01,AIK78,male,50-64,2019,3.6,Sci-Fi & Fantasy
+1273,2019-01,BBY21,female,50-64,2019,5.1,Sci-Fi & Fantasy
+1274,2019-01,UUP78,male,18-29,2019,2.5,Podcasts
+1275,2019-01,WGK93,female,18-29,2019,6.1,Mysteries/Thrillers
+1276,2019-01,QWW63,female,30-49,2019,2.1,Romance
+1277,2019-01,RAJ76,male,30-49,2019,3.3,Business
+1278,2019-01,CSP41,female,18-29,2019,1.8,Business
+1279,2019-01,PTF60,female,18-29,2019,3.3,Mysteries/Thrillers
+1280,2019-01,FJU28,female,30-49,2019,0.6,Mysteries/Thrillers
+1281,2019-01,ZEA77,male,50-64,2019,1.9,Comedy
+1282,2019-01,XRU31,male,18-29,2019,4.2,Mysteries/Thrillers
+1283,2019-01,ZPH80,female,18-29,2019,3.6,Comedy
+1284,2019-01,BGD46,female,65+,2019,3.9,Mysteries/Thrillers
+1285,2019-01,NOD59,male,50-64,2019,3.8,Business
+1286,2019-01,IUQ76,female,18-29,2019,4.6,Podcasts
+1287,2019-01,LGC11,female,65+,2019,1.1,Romance
+1288,2019-01,TVV83,female,18-29,2019,3.8,Children
+1289,2019-01,RVD02,male,18-29,2019,2.2,History
+1290,2019-01,XUD81,female,65+,2019,1.9,History
+1291,2019-01,GEW80,male,18-29,2019,5.8,History
+1292,2019-01,AUK56,male,50-64,2019,1.8,Sci-Fi & Fantasy
+1293,2019-01,OEI57,male,18-29,2019,2.0,History
+1294,2019-01,IAD29,female,18-29,2019,3.7,Sci-Fi & Fantasy
+1295,2019-01,LMK88,male,50-64,2019,4.9,Mysteries/Thrillers
+1296,2019-01,ERO80,male,65+,2019,4.7,Non-fiction
+1297,2019-01,PEO84,male,30-49,2019,2.1,Comedy
+1298,2019-01,NJY80,female,18-29,2019,2.2,Romance
+1299,2019-01,BNI06,male,18-29,2019,3.0,Mysteries/Thrillers
+1300,2019-02,BCK19,male,18-29,2019,2.6,Romance
+1301,2019-02,ANI81,female,18-29,2019,1.0,Mysteries/Thrillers
+1302,2019-02,IIG04,female,18-29,2019,1.5,Business
+1303,2019-02,CPB34,male,30-49,2019,1.3,Romance
+1304,2019-02,XCD70,female,30-49,2019,0.7,Sci-Fi & Fantasy
+1305,2019-02,XOG87,male,30-49,2019,1.7,Romance
+1306,2019-02,IUF65,male,50-64,2019,3.1,Mysteries/Thrillers
+1307,2019-02,VIK75,male,30-49,2019,4.3,Comedy
+1308,2019-02,RQR84,male,18-29,2019,4.3,Romance
+1309,2019-02,RJA71,male,50-64,2019,3.8,Romance
+1310,2019-02,VXR13,male,30-49,2019,1.2,Sci-Fi & Fantasy
+1311,2019-02,KBL53,female,50-64,2019,2.3,Romance
+1312,2019-02,ECQ03,male,30-49,2019,2.1,Comedy
+1313,2019-02,FNS96,female,30-49,2019,0.6,Sci-Fi & Fantasy
+1314,2019-02,ZZQ24,male,30-49,2019,6.0,Non-fiction
+1315,2019-02,EZL70,male,18-29,2019,3.1,Sci-Fi & Fantasy
+1316,2019-02,DFG32,female,30-49,2019,4.4,Sci-Fi & Fantasy
+1317,2019-02,LKC03,female,30-49,2019,5.7,Podcasts
+1318,2019-02,CLA50,female,65+,2019,2.9,History
+1319,2019-02,SKZ24,female,30-49,2019,3.7,Business
+1320,2019-02,TIJ69,male,30-49,2019,3.3,Podcasts
+1321,2019-02,WKS63,female,30-49,2019,3.7,Business
+1322,2019-02,GCW05,male,30-49,2019,4.2,Podcasts
+1323,2019-02,NDR97,male,30-49,2019,4.7,Mysteries/Thrillers
+1324,2019-02,KDZ56,male,18-29,2019,1.3,Sci-Fi & Fantasy
+1325,2019-02,UKB16,female,30-49,2019,4.2,Children
+1326,2019-02,JWT96,female,30-49,2019,1.5,Business
+1327,2019-02,HUA58,male,50-64,2019,1.8,Comedy
+1328,2019-02,NDN53,male,30-49,2019,1.1,Non-fiction
+1329,2019-02,XIH52,female,18-29,2019,4.3,Podcasts
+1330,2019-02,IKY01,male,18-29,2019,3.9,Sci-Fi & Fantasy
+1331,2019-02,FZX15,female,50-64,2019,0.9,Sci-Fi & Fantasy
+1332,2019-02,CII59,male,18-29,2019,4.0,History
+1333,2019-02,VNU47,female,30-49,2019,4.3,Romance
+1334,2019-02,UGV54,female,18-29,2019,4.7,Sci-Fi & Fantasy
+1335,2019-02,KFN16,male,50-64,2019,3.3,Mysteries/Thrillers
+1336,2019-02,XUP46,female,65+,2019,3.8,Non-fiction
+1337,2019-02,DBW36,female,18-29,2019,2.6,Sci-Fi & Fantasy
+1338,2019-02,KJU37,male,65+,2019,4.2,Mysteries/Thrillers
+1339,2019-02,VEZ04,female,18-29,2019,1.4,Business
+1340,2019-02,NVE53,female,50-64,2019,2.8,Sci-Fi & Fantasy
+1341,2019-02,XDG83,male,50-64,2019,3.2,Mysteries/Thrillers
+1342,2019-02,YBK15,male,50-64,2019,4.2,Mysteries/Thrillers
+1343,2019-02,ZIQ24,male,18-29,2019,0.8,Non-fiction
+1344,2019-02,OGR59,male,18-29,2019,4.3,Sci-Fi & Fantasy
+1345,2019-02,HYE06,male,30-49,2019,1.2,Sci-Fi & Fantasy
+1346,2019-02,TMB91,male,18-29,2019,5.8,Non-fiction
+1347,2019-02,WXF84,female,50-64,2019,4.7,Romance
+1348,2019-02,XXU25,male,18-29,2019,3.0,Non-fiction
+1349,2019-02,ZIK60,male,18-29,2019,3.3,Non-fiction
+1350,2019-02,GEK46,male,30-49,2019,5.0,Non-fiction
+1351,2019-02,MEB57,male,30-49,2019,3.7,Business
+1352,2019-02,YVH84,male,50-64,2019,3.1,Children
+1353,2019-02,HCL52,male,18-29,2019,5.0,Non-fiction
+1354,2019-02,FYB94,male,30-49,2019,1.1,Mysteries/Thrillers
+1355,2019-02,UCO74,female,50-64,2019,3.3,Business
+1356,2019-02,JMF22,male,65+,2019,4.1,Comedy
+1357,2019-02,AXB90,female,18-29,2019,5.7,Business
+1358,2019-02,ROB97,male,50-64,2019,1.5,Romance
+1359,2019-02,WLH11,female,18-29,2019,3.9,Romance
+1360,2019-02,RVF03,female,50-64,2019,4.8,Sci-Fi & Fantasy
+1361,2019-02,DFF64,female,18-29,2019,3.2,Podcasts
+1362,2019-02,OKZ40,female,18-29,2019,2.7,Romance
+1363,2019-02,DTX14,female,18-29,2019,2.2,Comedy
+1364,2019-02,WOA52,male,30-49,2019,4.8,Romance
+1365,2019-02,FYC87,male,18-29,2019,3.8,Sci-Fi & Fantasy
+1366,2019-02,PIC69,male,30-49,2019,3.4,Podcasts
+1367,2019-02,EDM80,female,30-49,2019,2.0,Business
+1368,2019-02,UCA14,male,50-64,2019,1.7,Sci-Fi & Fantasy
+1369,2019-02,YRB14,female,18-29,2019,4.2,Sci-Fi & Fantasy
+1370,2019-02,CRJ98,female,65+,2019,3.1,Business
+1371,2019-02,VGL60,male,30-49,2019,2.9,Podcasts
+1372,2019-02,AIK78,male,50-64,2019,1.6,Business
+1373,2019-02,BBY21,female,50-64,2019,3.1,Comedy
+1374,2019-02,UUP78,male,18-29,2019,2.6,Sci-Fi & Fantasy
+1375,2019-02,WGK93,female,18-29,2019,1.9,Business
+1376,2019-02,QWW63,female,30-49,2019,4.3,Business
+1377,2019-02,RAJ76,male,30-49,2019,1.7,Mysteries/Thrillers
+1378,2019-02,CSP41,female,18-29,2019,3.4,Podcasts
+1379,2019-02,PTF60,female,18-29,2019,6.6,Mysteries/Thrillers
+1380,2019-02,FJU28,female,30-49,2019,3.2,Mysteries/Thrillers
+1381,2019-02,ZEA77,male,50-64,2019,3.9,Sci-Fi & Fantasy
+1382,2019-02,XRU31,male,18-29,2019,2.0,Business
+1383,2019-02,ZPH80,female,18-29,2019,3.6,Romance
+1384,2019-02,BGD46,female,65+,2019,0.6,Romance
+1385,2019-02,NOD59,male,50-64,2019,1.1,Romance
+1386,2019-02,IUQ76,female,18-29,2019,2.6,Non-fiction
+1387,2019-02,LGC11,female,65+,2019,3.1,Romance
+1388,2019-02,TVV83,female,18-29,2019,3.2,Romance
+1389,2019-02,RVD02,male,18-29,2019,2.9,Non-fiction
+1390,2019-02,XUD81,female,65+,2019,2.7,Romance
+1391,2019-02,GEW80,male,18-29,2019,3.9,Romance
+1392,2019-02,AUK56,male,50-64,2019,2.8,Business
+1393,2019-02,OEI57,male,18-29,2019,4.8,Romance
+1394,2019-02,IAD29,female,18-29,2019,1.6,Mysteries/Thrillers
+1395,2019-02,LMK88,male,50-64,2019,4.1,Romance
+1396,2019-02,ERO80,male,65+,2019,2.9,Business
+1397,2019-02,PEO84,male,30-49,2019,4.2,Sci-Fi & Fantasy
+1398,2019-02,NJY80,female,18-29,2019,2.4,Mysteries/Thrillers
+1399,2019-02,BNI06,male,18-29,2019,1.5,Sci-Fi & Fantasy
+1400,2019-03,BCK19,male,18-29,2019,0.6,Romance
+1401,2019-03,ANI81,female,18-29,2019,4.2,Podcasts
+1402,2019-03,IIG04,female,18-29,2019,4.7,Podcasts
+1403,2019-03,CPB34,male,30-49,2019,3.9,Mysteries/Thrillers
+1404,2019-03,XCD70,female,30-49,2019,2.2,Mysteries/Thrillers
+1405,2019-03,XOG87,male,30-49,2019,6.6,Sci-Fi & Fantasy
+1406,2019-03,IUF65,male,50-64,2019,2.1,Mysteries/Thrillers
+1407,2019-03,VIK75,male,30-49,2019,3.8,Sci-Fi & Fantasy
+1408,2019-03,RQR84,male,18-29,2019,3.3,Romance
+1409,2019-03,RJA71,male,50-64,2019,3.0,Podcasts
+1410,2019-03,VXR13,male,30-49,2019,5.0,Mysteries/Thrillers
+1411,2019-03,KBL53,female,50-64,2019,4.1,Mysteries/Thrillers
+1412,2019-03,ECQ03,male,30-49,2019,2.6,Podcasts
+1413,2019-03,FNS96,female,30-49,2019,1.9,Mysteries/Thrillers
+1414,2019-03,ZZQ24,male,30-49,2019,1.7,Non-fiction
+1415,2019-03,EZL70,male,18-29,2019,2.8,Mysteries/Thrillers
+1416,2019-03,DFG32,female,30-49,2019,3.2,Business
+1417,2019-03,LKC03,female,30-49,2019,3.4,Business
+1418,2019-03,CLA50,female,65+,2019,1.9,Sci-Fi & Fantasy
+1419,2019-03,SKZ24,female,30-49,2019,5.7,Sci-Fi & Fantasy
+1420,2019-03,TIJ69,male,30-49,2019,4.0,Romance
+1421,2019-03,WKS63,female,30-49,2019,3.6,Non-fiction
+1422,2019-03,GCW05,male,30-49,2019,3.5,Romance
+1423,2019-03,NDR97,male,30-49,2019,1.6,Podcasts
+1424,2019-03,KDZ56,male,18-29,2019,2.4,Business
+1425,2019-03,UKB16,female,30-49,2019,4.0,Mysteries/Thrillers
+1426,2019-03,JWT96,female,30-49,2019,3.8,Sci-Fi & Fantasy
+1427,2019-03,HUA58,male,50-64,2019,2.6,Non-fiction
+1428,2019-03,NDN53,male,30-49,2019,3.0,Mysteries/Thrillers
+1429,2019-03,XIH52,female,18-29,2019,2.4,Mysteries/Thrillers
+1430,2019-03,IKY01,male,18-29,2019,1.7,Comedy
+1431,2019-03,FZX15,female,50-64,2019,1.3,History
+1432,2019-03,CII59,male,18-29,2019,6.3,Mysteries/Thrillers
+1433,2019-03,VNU47,female,30-49,2019,5.1,Mysteries/Thrillers
+1434,2019-03,UGV54,female,18-29,2019,2.8,Podcasts
+1435,2019-03,KFN16,male,50-64,2019,0.7,Romance
+1436,2019-03,XUP46,female,65+,2019,3.3,Mysteries/Thrillers
+1437,2019-03,DBW36,female,18-29,2019,3.2,Comedy
+1438,2019-03,KJU37,male,65+,2019,4.0,Romance
+1439,2019-03,VEZ04,female,18-29,2019,2.5,Mysteries/Thrillers
+1440,2019-03,NVE53,female,50-64,2019,1.9,Sci-Fi & Fantasy
+1441,2019-03,XDG83,male,50-64,2019,1.8,Mysteries/Thrillers
+1442,2019-03,YBK15,male,50-64,2019,3.4,Sci-Fi & Fantasy
+1443,2019-03,ZIQ24,male,18-29,2019,5.4,Romance
+1444,2019-03,OGR59,male,18-29,2019,7.0,Comedy
+1445,2019-03,HYE06,male,30-49,2019,3.5,Non-fiction
+1446,2019-03,TMB91,male,18-29,2019,2.8,Non-fiction
+1447,2019-03,WXF84,female,50-64,2019,4.7,Podcasts
+1448,2019-03,XXU25,male,18-29,2019,5.0,Mysteries/Thrillers
+1449,2019-03,ZIK60,male,18-29,2019,7.1,Sci-Fi & Fantasy
+1450,2019-03,GEK46,male,30-49,2019,2.0,History
+1451,2019-03,MEB57,male,30-49,2019,5.5,Sci-Fi & Fantasy
+1452,2019-03,YVH84,male,50-64,2019,4.4,Romance
+1453,2019-03,HCL52,male,18-29,2019,0.2,Podcasts
+1454,2019-03,FYB94,male,30-49,2019,0.3,Sci-Fi & Fantasy
+1455,2019-03,UCO74,female,50-64,2019,3.1,Podcasts
+1456,2019-03,JMF22,male,65+,2019,6.7,Podcasts
+1457,2019-03,AXB90,female,18-29,2019,5.4,Mysteries/Thrillers
+1458,2019-03,ROB97,male,50-64,2019,6.5,Mysteries/Thrillers
+1459,2019-03,WLH11,female,18-29,2019,2.3,Mysteries/Thrillers
+1460,2019-03,RVF03,female,50-64,2019,2.6,Romance
+1461,2019-03,DFF64,female,18-29,2019,2.4,Non-fiction
+1462,2019-03,OKZ40,female,18-29,2019,2.8,Romance
+1463,2019-03,DTX14,female,18-29,2019,3.0,Romance
+1464,2019-03,WOA52,male,30-49,2019,5.8,Romance
+1465,2019-03,FYC87,male,18-29,2019,2.0,Mysteries/Thrillers
+1466,2019-03,PIC69,male,30-49,2019,2.6,Sci-Fi & Fantasy
+1467,2019-03,EDM80,female,30-49,2019,3.0,Sci-Fi & Fantasy
+1468,2019-03,UCA14,male,50-64,2019,7.8,Non-fiction
+1469,2019-03,YRB14,female,18-29,2019,3.5,Mysteries/Thrillers
+1470,2019-03,CRJ98,female,65+,2019,2.3,Romance
+1471,2019-03,VGL60,male,30-49,2019,3.2,Business
+1472,2019-03,AIK78,male,50-64,2019,5.8,Podcasts
+1473,2019-03,BBY21,female,50-64,2019,3.5,Business
+1474,2019-03,UUP78,male,18-29,2019,3.8,Non-fiction
+1475,2019-03,WGK93,female,18-29,2019,2.4,Non-fiction
+1476,2019-03,QWW63,female,30-49,2019,4.0,Children
+1477,2019-03,RAJ76,male,30-49,2019,1.2,Children
+1478,2019-03,CSP41,female,18-29,2019,2.0,Mysteries/Thrillers
+1479,2019-03,PTF60,female,18-29,2019,2.8,Comedy
+1480,2019-03,FJU28,female,30-49,2019,3.5,Sci-Fi & Fantasy
+1481,2019-03,ZEA77,male,50-64,2019,4.0,Children
+1482,2019-03,XRU31,male,18-29,2019,3.1,Comedy
+1483,2019-03,ZPH80,female,18-29,2019,4.1,Podcasts
+1484,2019-03,BGD46,female,65+,2019,2.5,Romance
+1485,2019-03,NOD59,male,50-64,2019,3.5,Mysteries/Thrillers
+1486,2019-03,IUQ76,female,18-29,2019,4.7,Comedy
+1487,2019-03,LGC11,female,65+,2019,3.3,Romance
+1488,2019-03,TVV83,female,18-29,2019,4.6,Podcasts
+1489,2019-03,RVD02,male,18-29,2019,3.3,Business
+1490,2019-03,XUD81,female,65+,2019,4.3,Comedy
+1491,2019-03,GEW80,male,18-29,2019,3.3,Romance
+1492,2019-03,AUK56,male,50-64,2019,1.4,Romance
+1493,2019-03,OEI57,male,18-29,2019,2.5,Business
+1494,2019-03,IAD29,female,18-29,2019,2.4,Mysteries/Thrillers
+1495,2019-03,LMK88,male,50-64,2019,0.6,Mysteries/Thrillers
+1496,2019-03,ERO80,male,65+,2019,5.3,Sci-Fi & Fantasy
+1497,2019-03,PEO84,male,30-49,2019,3.2,Romance
+1498,2019-03,NJY80,female,18-29,2019,2.0,Sci-Fi & Fantasy
+1499,2019-03,BNI06,male,18-29,2019,0.8,Romance
+1500,2019-04,BCK19,male,18-29,2019,2.2,Sci-Fi & Fantasy
+1501,2019-04,ANI81,female,18-29,2019,3.8,Business
+1502,2019-04,IIG04,female,18-29,2019,2.3,Comedy
+1503,2019-04,CPB34,male,30-49,2019,3.8,History
+1504,2019-04,XCD70,female,30-49,2019,4.7,Comedy
+1505,2019-04,XOG87,male,30-49,2019,5.1,History
+1506,2019-04,IUF65,male,50-64,2019,4.8,Romance
+1507,2019-04,VIK75,male,30-49,2019,5.5,Mysteries/Thrillers
+1508,2019-04,RQR84,male,18-29,2019,1.6,Business
+1509,2019-04,RJA71,male,50-64,2019,2.1,Comedy
+1510,2019-04,VXR13,male,30-49,2019,5.0,Children
+1511,2019-04,KBL53,female,50-64,2019,2.4,Romance
+1512,2019-04,ECQ03,male,30-49,2019,2.7,Mysteries/Thrillers
+1513,2019-04,FNS96,female,30-49,2019,2.4,Children
+1514,2019-04,ZZQ24,male,30-49,2019,2.6,Sci-Fi & Fantasy
+1515,2019-04,EZL70,male,18-29,2019,6.1,Comedy
+1516,2019-04,DFG32,female,30-49,2019,0.7,Business
+1517,2019-04,LKC03,female,30-49,2019,3.8,Sci-Fi & Fantasy
+1518,2019-04,CLA50,female,65+,2019,0.8,Podcasts
+1519,2019-04,SKZ24,female,30-49,2019,2.9,Business
+1520,2019-04,TIJ69,male,30-49,2019,2.5,Mysteries/Thrillers
+1521,2019-04,WKS63,female,30-49,2019,3.4,Mysteries/Thrillers
+1522,2019-04,GCW05,male,30-49,2019,3.6,Mysteries/Thrillers
+1523,2019-04,NDR97,male,30-49,2019,3.6,Mysteries/Thrillers
+1524,2019-04,KDZ56,male,18-29,2019,5.2,Comedy
+1525,2019-04,UKB16,female,30-49,2019,2.4,Business
+1526,2019-04,JWT96,female,30-49,2019,5.3,History
+1527,2019-04,HUA58,male,50-64,2019,4.9,Sci-Fi & Fantasy
+1528,2019-04,NDN53,male,30-49,2019,3.3,Romance
+1529,2019-04,XIH52,female,18-29,2019,2.2,Podcasts
+1530,2019-04,IKY01,male,18-29,2019,3.5,Podcasts
+1531,2019-04,FZX15,female,50-64,2019,2.8,Non-fiction
+1532,2019-04,CII59,male,18-29,2019,4.6,Mysteries/Thrillers
+1533,2019-04,VNU47,female,30-49,2019,1.8,Comedy
+1534,2019-04,UGV54,female,18-29,2019,2.2,Romance
+1535,2019-04,KFN16,male,50-64,2019,3.3,Podcasts
+1536,2019-04,XUP46,female,65+,2019,1.6,Comedy
+1537,2019-04,DBW36,female,18-29,2019,2.8,Mysteries/Thrillers
+1538,2019-04,KJU37,male,65+,2019,2.6,Sci-Fi & Fantasy
+1539,2019-04,VEZ04,female,18-29,2019,1.8,Podcasts
+1540,2019-04,NVE53,female,50-64,2019,4.4,Romance
+1541,2019-04,XDG83,male,50-64,2019,0.9,Comedy
+1542,2019-04,YBK15,male,50-64,2019,0.3,Romance
+1543,2019-04,ZIQ24,male,18-29,2019,3.0,History
+1544,2019-04,OGR59,male,18-29,2019,2.5,Sci-Fi & Fantasy
+1545,2019-04,HYE06,male,30-49,2019,5.7,Mysteries/Thrillers
+1546,2019-04,TMB91,male,18-29,2019,3.9,History
+1547,2019-04,WXF84,female,50-64,2019,1.2,Mysteries/Thrillers
+1548,2019-04,XXU25,male,18-29,2019,4.0,Sci-Fi & Fantasy
+1549,2019-04,ZIK60,male,18-29,2019,2.4,Romance
+1550,2019-04,GEK46,male,30-49,2019,2.2,Mysteries/Thrillers
+1551,2019-04,MEB57,male,30-49,2019,4.0,Children
+1552,2019-04,YVH84,male,50-64,2019,4.8,Mysteries/Thrillers
+1553,2019-04,HCL52,male,18-29,2019,4.3,Romance
+1554,2019-04,FYB94,male,30-49,2019,0.5,Podcasts
+1555,2019-04,UCO74,female,50-64,2019,5.0,Mysteries/Thrillers
+1556,2019-04,JMF22,male,65+,2019,3.6,Business
+1557,2019-04,AXB90,female,18-29,2019,3.1,Podcasts
+1558,2019-04,ROB97,male,50-64,2019,6.0,Mysteries/Thrillers
+1559,2019-04,WLH11,female,18-29,2019,4.6,Comedy
+1560,2019-04,RVF03,female,50-64,2019,1.4,Sci-Fi & Fantasy
+1561,2019-04,DFF64,female,18-29,2019,2.0,Romance
+1562,2019-04,OKZ40,female,18-29,2019,0.9,Comedy
+1563,2019-04,DTX14,female,18-29,2019,4.0,Comedy
+1564,2019-04,WOA52,male,30-49,2019,6.0,Romance
+1565,2019-04,FYC87,male,18-29,2019,3.0,Business
+1566,2019-04,PIC69,male,30-49,2019,2.4,Comedy
+1567,2019-04,EDM80,female,30-49,2019,4.9,Sci-Fi & Fantasy
+1568,2019-04,UCA14,male,50-64,2019,3.4,Mysteries/Thrillers
+1569,2019-04,YRB14,female,18-29,2019,2.0,History
+1570,2019-04,CRJ98,female,65+,2019,6.2,Mysteries/Thrillers
+1571,2019-04,VGL60,male,30-49,2019,3.5,Podcasts
+1572,2019-04,AIK78,male,50-64,2019,2.8,Comedy
+1573,2019-04,BBY21,female,50-64,2019,4.3,Sci-Fi & Fantasy
+1574,2019-04,UUP78,male,18-29,2019,1.7,Business
+1575,2019-04,WGK93,female,18-29,2019,4.0,Podcasts
+1576,2019-04,QWW63,female,30-49,2019,4.5,Non-fiction
+1577,2019-04,RAJ76,male,30-49,2019,1.7,Children
+1578,2019-04,CSP41,female,18-29,2019,4.7,Sci-Fi & Fantasy
+1579,2019-04,PTF60,female,18-29,2019,3.6,Mysteries/Thrillers
+1580,2019-04,FJU28,female,30-49,2019,1.7,Mysteries/Thrillers
+1581,2019-04,ZEA77,male,50-64,2019,3.5,Romance
+1582,2019-04,XRU31,male,18-29,2019,3.2,Mysteries/Thrillers
+1583,2019-04,ZPH80,female,18-29,2019,0.8,Podcasts
+1584,2019-04,BGD46,female,65+,2019,5.3,Romance
+1585,2019-04,NOD59,male,50-64,2019,3.3,Podcasts
+1586,2019-04,IUQ76,female,18-29,2019,5.6,Sci-Fi & Fantasy
+1587,2019-04,LGC11,female,65+,2019,2.6,Mysteries/Thrillers
+1588,2019-04,TVV83,female,18-29,2019,4.3,Romance
+1589,2019-04,RVD02,male,18-29,2019,4.9,Comedy
+1590,2019-04,XUD81,female,65+,2019,5.0,Non-fiction
+1591,2019-04,GEW80,male,18-29,2019,4.2,Business
+1592,2019-04,AUK56,male,50-64,2019,3.3,Romance
+1593,2019-04,OEI57,male,18-29,2019,1.3,Business
+1594,2019-04,IAD29,female,18-29,2019,2.0,Podcasts
+1595,2019-04,LMK88,male,50-64,2019,0.6,Mysteries/Thrillers
+1596,2019-04,ERO80,male,65+,2019,3.1,Podcasts
+1597,2019-04,PEO84,male,30-49,2019,3.2,Comedy
+1598,2019-04,NJY80,female,18-29,2019,2.4,Podcasts
+1599,2019-04,BNI06,male,18-29,2019,4.6,Comedy
+1600,2019-05,BCK19,male,18-29,2019,2.3,Sci-Fi & Fantasy
+1601,2019-05,ANI81,female,18-29,2019,5.0,Non-fiction
+1602,2019-05,IIG04,female,18-29,2019,3.2,Podcasts
+1603,2019-05,CPB34,male,30-49,2019,3.4,Mysteries/Thrillers
+1604,2019-05,XCD70,female,30-49,2019,4.5,Sci-Fi & Fantasy
+1605,2019-05,XOG87,male,30-49,2019,3.4,Non-fiction
+1606,2019-05,IUF65,male,50-64,2019,2.2,Romance
+1607,2019-05,VIK75,male,30-49,2019,2.6,Business
+1608,2019-05,RQR84,male,18-29,2019,4.2,Sci-Fi & Fantasy
+1609,2019-05,RJA71,male,50-64,2019,4.2,Romance
+1610,2019-05,VXR13,male,30-49,2019,2.1,Sci-Fi & Fantasy
+1611,2019-05,KBL53,female,50-64,2019,3.6,Sci-Fi & Fantasy
+1612,2019-05,ECQ03,male,30-49,2019,5.3,Mysteries/Thrillers
+1613,2019-05,FNS96,female,30-49,2019,3.0,Podcasts
+1614,2019-05,ZZQ24,male,30-49,2019,1.4,Business
+1615,2019-05,EZL70,male,18-29,2019,4.2,Romance
+1616,2019-05,DFG32,female,30-49,2019,2.5,Non-fiction
+1617,2019-05,LKC03,female,30-49,2019,2.7,Business
+1618,2019-05,CLA50,female,65+,2019,1.8,Sci-Fi & Fantasy
+1619,2019-05,SKZ24,female,30-49,2019,2.3,Non-fiction
+1620,2019-05,TIJ69,male,30-49,2019,3.9,Mysteries/Thrillers
+1621,2019-05,WKS63,female,30-49,2019,2.2,Mysteries/Thrillers
+1622,2019-05,GCW05,male,30-49,2019,0.6,Mysteries/Thrillers
+1623,2019-05,NDR97,male,30-49,2019,3.0,Non-fiction
+1624,2019-05,KDZ56,male,18-29,2019,4.3,Comedy
+1625,2019-05,UKB16,female,30-49,2019,4.4,Mysteries/Thrillers
+1626,2019-05,JWT96,female,30-49,2019,4.6,Business
+1627,2019-05,HUA58,male,50-64,2019,0.9,Mysteries/Thrillers
+1628,2019-05,NDN53,male,30-49,2019,4.6,Business
+1629,2019-05,XIH52,female,18-29,2019,1.7,Comedy
+1630,2019-05,IKY01,male,18-29,2019,3.7,Children
+1631,2019-05,FZX15,female,50-64,2019,2.5,Mysteries/Thrillers
+1632,2019-05,CII59,male,18-29,2019,3.2,Comedy
+1633,2019-05,VNU47,female,30-49,2019,2.2,Sci-Fi & Fantasy
+1634,2019-05,UGV54,female,18-29,2019,5.3,Sci-Fi & Fantasy
+1635,2019-05,KFN16,male,50-64,2019,1.6,Mysteries/Thrillers
+1636,2019-05,XUP46,female,65+,2019,2.5,Romance
+1637,2019-05,DBW36,female,18-29,2019,4.2,Sci-Fi & Fantasy
+1638,2019-05,KJU37,male,65+,2019,2.5,Podcasts
+1639,2019-05,VEZ04,female,18-29,2019,3.7,Mysteries/Thrillers
+1640,2019-05,NVE53,female,50-64,2019,2.9,Sci-Fi & Fantasy
+1641,2019-05,XDG83,male,50-64,2019,4.3,History
+1642,2019-05,YBK15,male,50-64,2019,5.5,Sci-Fi & Fantasy
+1643,2019-05,ZIQ24,male,18-29,2019,3.4,Podcasts
+1644,2019-05,OGR59,male,18-29,2019,2.2,Comedy
+1645,2019-05,HYE06,male,30-49,2019,5.2,Romance
+1646,2019-05,TMB91,male,18-29,2019,3.9,Podcasts
+1647,2019-05,WXF84,female,50-64,2019,3.2,Children
+1648,2019-05,XXU25,male,18-29,2019,2.2,Non-fiction
+1649,2019-05,ZIK60,male,18-29,2019,2.7,Mysteries/Thrillers
+1650,2019-05,GEK46,male,30-49,2019,0.8,Mysteries/Thrillers
+1651,2019-05,MEB57,male,30-49,2019,2.8,Children
+1652,2019-05,YVH84,male,50-64,2019,4.6,Sci-Fi & Fantasy
+1653,2019-05,HCL52,male,18-29,2019,3.2,Sci-Fi & Fantasy
+1654,2019-05,FYB94,male,30-49,2019,4.2,Comedy
+1655,2019-05,UCO74,female,50-64,2019,3.6,Business
+1656,2019-05,JMF22,male,65+,2019,2.6,Podcasts
+1657,2019-05,AXB90,female,18-29,2019,2.4,Mysteries/Thrillers
+1658,2019-05,ROB97,male,50-64,2019,2.9,Mysteries/Thrillers
+1659,2019-05,WLH11,female,18-29,2019,2.9,Sci-Fi & Fantasy
+1660,2019-05,RVF03,female,50-64,2019,4.9,Business
+1661,2019-05,DFF64,female,18-29,2019,1.8,Podcasts
+1662,2019-05,OKZ40,female,18-29,2019,2.9,Romance
+1663,2019-05,DTX14,female,18-29,2019,4.9,Podcasts
+1664,2019-05,WOA52,male,30-49,2019,6.0,Children
+1665,2019-05,FYC87,male,18-29,2019,2.4,Non-fiction
+1666,2019-05,PIC69,male,30-49,2019,4.6,Comedy
+1667,2019-05,EDM80,female,30-49,2019,2.4,Comedy
+1668,2019-05,UCA14,male,50-64,2019,5.2,Business
+1669,2019-05,YRB14,female,18-29,2019,3.6,Mysteries/Thrillers
+1670,2019-05,CRJ98,female,65+,2019,2.7,Romance
+1671,2019-05,VGL60,male,30-49,2019,6.0,Business
+1672,2019-05,AIK78,male,50-64,2019,4.6,Children
+1673,2019-05,BBY21,female,50-64,2019,4.9,Non-fiction
+1674,2019-05,UUP78,male,18-29,2019,4.1,Non-fiction
+1675,2019-05,WGK93,female,18-29,2019,6.3,Podcasts
+1676,2019-05,QWW63,female,30-49,2019,6.6,Comedy
+1677,2019-05,RAJ76,male,30-49,2019,4.6,Mysteries/Thrillers
+1678,2019-05,CSP41,female,18-29,2019,1.9,Romance
+1679,2019-05,PTF60,female,18-29,2019,2.6,Romance
+1680,2019-05,FJU28,female,30-49,2019,3.6,Mysteries/Thrillers
+1681,2019-05,ZEA77,male,50-64,2019,4.1,Mysteries/Thrillers
+1682,2019-05,XRU31,male,18-29,2019,1.3,Mysteries/Thrillers
+1683,2019-05,ZPH80,female,18-29,2019,0.7,Podcasts
+1684,2019-05,BGD46,female,65+,2019,4.3,Business
+1685,2019-05,NOD59,male,50-64,2019,2.9,Podcasts
+1686,2019-05,IUQ76,female,18-29,2019,6.1,Romance
+1687,2019-05,LGC11,female,65+,2019,1.0,Sci-Fi & Fantasy
+1688,2019-05,TVV83,female,18-29,2019,4.5,Comedy
+1689,2019-05,RVD02,male,18-29,2019,2.5,Comedy
+1690,2019-05,XUD81,female,65+,2019,4.5,Sci-Fi & Fantasy
+1691,2019-05,GEW80,male,18-29,2019,3.0,Sci-Fi & Fantasy
+1692,2019-05,AUK56,male,50-64,2019,2.3,Comedy
+1693,2019-05,OEI57,male,18-29,2019,3.1,Comedy
+1694,2019-05,IAD29,female,18-29,2019,0.6,Sci-Fi & Fantasy
+1695,2019-05,LMK88,male,50-64,2019,6.0,History
+1696,2019-05,ERO80,male,65+,2019,0.9,Comedy
+1697,2019-05,PEO84,male,30-49,2019,4.4,Podcasts
+1698,2019-05,NJY80,female,18-29,2019,2.8,Mysteries/Thrillers
+1699,2019-05,BNI06,male,18-29,2019,1.7,Romance
+1700,2019-06,BCK19,male,18-29,2019,3.8,Podcasts
+1701,2019-06,ANI81,female,18-29,2019,1.9,Mysteries/Thrillers
+1702,2019-06,IIG04,female,18-29,2019,3.4,Business
+1703,2019-06,CPB34,male,30-49,2019,5.3,Romance
+1704,2019-06,XCD70,female,30-49,2019,1.4,Romance
+1705,2019-06,XOG87,male,30-49,2019,4.1,Romance
+1706,2019-06,IUF65,male,50-64,2019,3.2,Romance
+1707,2019-06,VIK75,male,30-49,2019,5.4,Non-fiction
+1708,2019-06,RQR84,male,18-29,2019,4.7,Mysteries/Thrillers
+1709,2019-06,RJA71,male,50-64,2019,3.7,Podcasts
+1710,2019-06,VXR13,male,30-49,2019,1.3,Mysteries/Thrillers
+1711,2019-06,KBL53,female,50-64,2019,2.4,Non-fiction
+1712,2019-06,ECQ03,male,30-49,2019,3.8,History
+1713,2019-06,FNS96,female,30-49,2019,1.4,Sci-Fi & Fantasy
+1714,2019-06,ZZQ24,male,30-49,2019,4.0,Romance
+1715,2019-06,EZL70,male,18-29,2019,2.3,Romance
+1716,2019-06,DFG32,female,30-49,2019,2.0,Comedy
+1717,2019-06,LKC03,female,30-49,2019,5.6,Mysteries/Thrillers
+1718,2019-06,CLA50,female,65+,2019,5.8,Romance
+1719,2019-06,SKZ24,female,30-49,2019,3.3,Romance
+1720,2019-06,TIJ69,male,30-49,2019,3.0,Mysteries/Thrillers
+1721,2019-06,WKS63,female,30-49,2019,3.5,Sci-Fi & Fantasy
+1722,2019-06,GCW05,male,30-49,2019,0.3,Romance
+1723,2019-06,NDR97,male,30-49,2019,1.4,Sci-Fi & Fantasy
+1724,2019-06,KDZ56,male,18-29,2019,4.9,Romance
+1725,2019-06,UKB16,female,30-49,2019,3.3,Comedy
+1726,2019-06,JWT96,female,30-49,2019,3.8,Business
+1727,2019-06,HUA58,male,50-64,2019,4.3,Sci-Fi & Fantasy
+1728,2019-06,NDN53,male,30-49,2019,2.4,Sci-Fi & Fantasy
+1729,2019-06,XIH52,female,18-29,2019,2.2,Sci-Fi & Fantasy
+1730,2019-06,IKY01,male,18-29,2019,5.2,Sci-Fi & Fantasy
+1731,2019-06,FZX15,female,50-64,2019,3.1,Podcasts
+1732,2019-06,CII59,male,18-29,2019,6.4,Children
+1733,2019-06,VNU47,female,30-49,2019,2.1,Sci-Fi & Fantasy
+1734,2019-06,UGV54,female,18-29,2019,5.3,History
+1735,2019-06,KFN16,male,50-64,2019,6.2,Romance
+1736,2019-06,XUP46,female,65+,2019,0.9,Romance
+1737,2019-06,DBW36,female,18-29,2019,2.9,Mysteries/Thrillers
+1738,2019-06,KJU37,male,65+,2019,3.1,Sci-Fi & Fantasy
+1739,2019-06,VEZ04,female,18-29,2019,5.0,Comedy
+1740,2019-06,NVE53,female,50-64,2019,0.7,Romance
+1741,2019-06,XDG83,male,50-64,2019,4.9,Comedy
+1742,2019-06,YBK15,male,50-64,2019,3.4,Business
+1743,2019-06,ZIQ24,male,18-29,2019,3.9,Podcasts
+1744,2019-06,OGR59,male,18-29,2019,2.8,Podcasts
+1745,2019-06,HYE06,male,30-49,2019,2.4,Mysteries/Thrillers
+1746,2019-06,TMB91,male,18-29,2019,1.0,Sci-Fi & Fantasy
+1747,2019-06,WXF84,female,50-64,2019,2.3,Podcasts
+1748,2019-06,XXU25,male,18-29,2019,3.0,Business
+1749,2019-06,ZIK60,male,18-29,2019,2.7,Comedy
+1750,2019-06,GEK46,male,30-49,2019,4.6,Podcasts
+1751,2019-06,MEB57,male,30-49,2019,4.0,Comedy
+1752,2019-06,YVH84,male,50-64,2019,5.0,Sci-Fi & Fantasy
+1753,2019-06,HCL52,male,18-29,2019,2.5,Non-fiction
+1754,2019-06,FYB94,male,30-49,2019,2.3,Romance
+1755,2019-06,UCO74,female,50-64,2019,2.7,Podcasts
+1756,2019-06,JMF22,male,65+,2019,4.4,Romance
+1757,2019-06,AXB90,female,18-29,2019,2.8,Business
+1758,2019-06,ROB97,male,50-64,2019,2.8,Business
+1759,2019-06,WLH11,female,18-29,2019,3.3,Sci-Fi & Fantasy
+1760,2019-06,RVF03,female,50-64,2019,3.6,Business
+1761,2019-06,DFF64,female,18-29,2019,4.9,Romance
+1762,2019-06,OKZ40,female,18-29,2019,2.6,Romance
+1763,2019-06,DTX14,female,18-29,2019,2.3,Mysteries/Thrillers
+1764,2019-06,WOA52,male,30-49,2019,2.4,Romance
+1765,2019-06,FYC87,male,18-29,2019,3.5,Podcasts
+1766,2019-06,PIC69,male,30-49,2019,3.7,Podcasts
+1767,2019-06,EDM80,female,30-49,2019,2.7,Comedy
+1768,2019-06,UCA14,male,50-64,2019,3.4,Romance
+1769,2019-06,YRB14,female,18-29,2019,4.5,Business
+1770,2019-06,CRJ98,female,65+,2019,2.9,Mysteries/Thrillers
+1771,2019-06,VGL60,male,30-49,2019,1.8,Comedy
+1772,2019-06,AIK78,male,50-64,2019,3.4,Podcasts
+1773,2019-06,BBY21,female,50-64,2019,2.4,Sci-Fi & Fantasy
+1774,2019-06,UUP78,male,18-29,2019,1.2,Mysteries/Thrillers
+1775,2019-06,WGK93,female,18-29,2019,0.8,Romance
+1776,2019-06,QWW63,female,30-49,2019,1.6,Mysteries/Thrillers
+1777,2019-06,RAJ76,male,30-49,2019,4.7,Mysteries/Thrillers
+1778,2019-06,CSP41,female,18-29,2019,0.6,Mysteries/Thrillers
+1779,2019-06,PTF60,female,18-29,2019,3.7,Romance
+1780,2019-06,FJU28,female,30-49,2019,6.9,Romance
+1781,2019-06,ZEA77,male,50-64,2019,4.1,Romance
+1782,2019-06,XRU31,male,18-29,2019,0.8,History
+1783,2019-06,ZPH80,female,18-29,2019,1.1,Comedy
+1784,2019-06,BGD46,female,65+,2019,1.6,Romance
+1785,2019-06,NOD59,male,50-64,2019,4.1,Non-fiction
+1786,2019-06,IUQ76,female,18-29,2019,2.0,Podcasts
+1787,2019-06,LGC11,female,65+,2019,3.1,Mysteries/Thrillers
+1788,2019-06,TVV83,female,18-29,2019,4.5,Comedy
+1789,2019-06,RVD02,male,18-29,2019,3.6,Business
+1790,2019-06,XUD81,female,65+,2019,2.0,Mysteries/Thrillers
+1791,2019-06,GEW80,male,18-29,2019,4.8,Podcasts
+1792,2019-06,AUK56,male,50-64,2019,3.9,Mysteries/Thrillers
+1793,2019-06,OEI57,male,18-29,2019,4.4,Podcasts
+1794,2019-06,IAD29,female,18-29,2019,5.5,Comedy
+1795,2019-06,LMK88,male,50-64,2019,0.2,History
+1796,2019-06,ERO80,male,65+,2019,4.7,Sci-Fi & Fantasy
+1797,2019-06,PEO84,male,30-49,2019,3.9,Sci-Fi & Fantasy
+1798,2019-06,NJY80,female,18-29,2019,2.7,Children
+1799,2019-06,BNI06,male,18-29,2019,3.5,Comedy
+1800,2019-07,BCK19,male,18-29,2019,2.5,Business
+1801,2019-07,ANI81,female,18-29,2019,2.5,Mysteries/Thrillers
+1802,2019-07,IIG04,female,18-29,2019,3.6,Romance
+1803,2019-07,CPB34,male,30-49,2019,1.1,Mysteries/Thrillers
+1804,2019-07,XCD70,female,30-49,2019,3.1,Romance
+1805,2019-07,XOG87,male,30-49,2019,1.0,Sci-Fi & Fantasy
+1806,2019-07,IUF65,male,50-64,2019,5.3,Non-fiction
+1807,2019-07,VIK75,male,30-49,2019,2.4,Romance
+1808,2019-07,RQR84,male,18-29,2019,1.4,Mysteries/Thrillers
+1809,2019-07,RJA71,male,50-64,2019,3.6,History
+1810,2019-07,VXR13,male,30-49,2019,4.5,Sci-Fi & Fantasy
+1811,2019-07,KBL53,female,50-64,2019,4.7,Podcasts
+1812,2019-07,ECQ03,male,30-49,2019,4.5,Mysteries/Thrillers
+1813,2019-07,FNS96,female,30-49,2019,5.1,Business
+1814,2019-07,ZZQ24,male,30-49,2019,1.8,Podcasts
+1815,2019-07,EZL70,male,18-29,2019,3.0,Mysteries/Thrillers
+1816,2019-07,DFG32,female,30-49,2019,3.6,Romance
+1817,2019-07,LKC03,female,30-49,2019,3.5,History
+1818,2019-07,CLA50,female,65+,2019,2.5,Romance
+1819,2019-07,SKZ24,female,30-49,2019,3.8,Mysteries/Thrillers
+1820,2019-07,TIJ69,male,30-49,2019,3.6,Sci-Fi & Fantasy
+1821,2019-07,WKS63,female,30-49,2019,4.3,Mysteries/Thrillers
+1822,2019-07,GCW05,male,30-49,2019,3.2,Mysteries/Thrillers
+1823,2019-07,NDR97,male,30-49,2019,5.2,Sci-Fi & Fantasy
+1824,2019-07,KDZ56,male,18-29,2019,4.2,Sci-Fi & Fantasy
+1825,2019-07,UKB16,female,30-49,2019,4.5,Podcasts
+1826,2019-07,JWT96,female,30-49,2019,1.7,Children
+1827,2019-07,HUA58,male,50-64,2019,3.2,Mysteries/Thrillers
+1828,2019-07,NDN53,male,30-49,2019,2.3,Business
+1829,2019-07,XIH52,female,18-29,2019,4.9,Mysteries/Thrillers
+1830,2019-07,IKY01,male,18-29,2019,2.0,Mysteries/Thrillers
+1831,2019-07,FZX15,female,50-64,2019,3.8,Romance
+1832,2019-07,CII59,male,18-29,2019,2.2,Mysteries/Thrillers
+1833,2019-07,VNU47,female,30-49,2019,2.8,History
+1834,2019-07,UGV54,female,18-29,2019,4.4,Sci-Fi & Fantasy
+1835,2019-07,KFN16,male,50-64,2019,3.7,Sci-Fi & Fantasy
+1836,2019-07,XUP46,female,65+,2019,2.4,Mysteries/Thrillers
+1837,2019-07,DBW36,female,18-29,2019,3.2,Comedy
+1838,2019-07,KJU37,male,65+,2019,4.7,Romance
+1839,2019-07,VEZ04,female,18-29,2019,6.0,Children
+1840,2019-07,NVE53,female,50-64,2019,4.5,Sci-Fi & Fantasy
+1841,2019-07,XDG83,male,50-64,2019,1.8,Non-fiction
+1842,2019-07,YBK15,male,50-64,2019,3.3,Sci-Fi & Fantasy
+1843,2019-07,ZIQ24,male,18-29,2019,5.2,Business
+1844,2019-07,OGR59,male,18-29,2019,4.6,Mysteries/Thrillers
+1845,2019-07,HYE06,male,30-49,2019,3.4,Comedy
+1846,2019-07,TMB91,male,18-29,2019,2.7,Mysteries/Thrillers
+1847,2019-07,WXF84,female,50-64,2019,2.3,Sci-Fi & Fantasy
+1848,2019-07,XXU25,male,18-29,2019,5.0,Podcasts
+1849,2019-07,ZIK60,male,18-29,2019,3.4,Mysteries/Thrillers
+1850,2019-07,GEK46,male,30-49,2019,1.2,Mysteries/Thrillers
+1851,2019-07,MEB57,male,30-49,2019,1.8,Mysteries/Thrillers
+1852,2019-07,YVH84,male,50-64,2019,5.2,Business
+1853,2019-07,HCL52,male,18-29,2019,0.9,Mysteries/Thrillers
+1854,2019-07,FYB94,male,30-49,2019,0.3,Comedy
+1855,2019-07,UCO74,female,50-64,2019,3.7,Podcasts
+1856,2019-07,JMF22,male,65+,2019,2.7,Comedy
+1857,2019-07,AXB90,female,18-29,2019,1.7,Sci-Fi & Fantasy
+1858,2019-07,ROB97,male,50-64,2019,4.2,Non-fiction
+1859,2019-07,WLH11,female,18-29,2019,2.7,Non-fiction
+1860,2019-07,RVF03,female,50-64,2019,3.2,Sci-Fi & Fantasy
+1861,2019-07,DFF64,female,18-29,2019,3.8,Comedy
+1862,2019-07,OKZ40,female,18-29,2019,5.2,Comedy
+1863,2019-07,DTX14,female,18-29,2019,1.6,Business
+1864,2019-07,WOA52,male,30-49,2019,4.4,Podcasts
+1865,2019-07,FYC87,male,18-29,2019,1.8,Romance
+1866,2019-07,PIC69,male,30-49,2019,3.5,Business
+1867,2019-07,EDM80,female,30-49,2019,3.0,Comedy
+1868,2019-07,UCA14,male,50-64,2019,3.2,Mysteries/Thrillers
+1869,2019-07,YRB14,female,18-29,2019,0.2,Mysteries/Thrillers
+1870,2019-07,CRJ98,female,65+,2019,5.8,Podcasts
+1871,2019-07,VGL60,male,30-49,2019,4.3,Mysteries/Thrillers
+1872,2019-07,AIK78,male,50-64,2019,0.7,Mysteries/Thrillers
+1873,2019-07,BBY21,female,50-64,2019,4.6,Podcasts
+1874,2019-07,UUP78,male,18-29,2019,2.0,Sci-Fi & Fantasy
+1875,2019-07,WGK93,female,18-29,2019,5.1,Podcasts
+1876,2019-07,QWW63,female,30-49,2019,2.8,Non-fiction
+1877,2019-07,RAJ76,male,30-49,2019,3.1,Romance
+1878,2019-07,CSP41,female,18-29,2019,1.8,History
+1879,2019-07,PTF60,female,18-29,2019,1.9,Non-fiction
+1880,2019-07,FJU28,female,30-49,2019,1.4,Romance
+1881,2019-07,ZEA77,male,50-64,2019,4.2,Romance
+1882,2019-07,XRU31,male,18-29,2019,1.7,Romance
+1883,2019-07,ZPH80,female,18-29,2019,1.1,Mysteries/Thrillers
+1884,2019-07,BGD46,female,65+,2019,4.1,Comedy
+1885,2019-07,NOD59,male,50-64,2019,5.0,Mysteries/Thrillers
+1886,2019-07,IUQ76,female,18-29,2019,4.4,Comedy
+1887,2019-07,LGC11,female,65+,2019,0.5,Sci-Fi & Fantasy
+1888,2019-07,TVV83,female,18-29,2019,1.3,Mysteries/Thrillers
+1889,2019-07,RVD02,male,18-29,2019,2.8,Sci-Fi & Fantasy
+1890,2019-07,XUD81,female,65+,2019,2.5,Comedy
+1891,2019-07,GEW80,male,18-29,2019,2.7,Business
+1892,2019-07,AUK56,male,50-64,2019,3.7,Podcasts
+1893,2019-07,OEI57,male,18-29,2019,5.7,Mysteries/Thrillers
+1894,2019-07,IAD29,female,18-29,2019,4.3,Podcasts
+1895,2019-07,LMK88,male,50-64,2019,5.7,Mysteries/Thrillers
+1896,2019-07,ERO80,male,65+,2019,5.8,Business
+1897,2019-07,PEO84,male,30-49,2019,3.7,Comedy
+1898,2019-07,NJY80,female,18-29,2019,2.0,Sci-Fi & Fantasy
+1899,2019-07,BNI06,male,18-29,2019,4.0,Podcasts
+1900,2019-08,BCK19,male,18-29,2019,2.9,Mysteries/Thrillers
+1901,2019-08,ANI81,female,18-29,2019,1.9,Podcasts
+1902,2019-08,IIG04,female,18-29,2019,2.3,Podcasts
+1903,2019-08,CPB34,male,30-49,2019,2.7,Mysteries/Thrillers
+1904,2019-08,XCD70,female,30-49,2019,3.4,Romance
+1905,2019-08,XOG87,male,30-49,2019,3.2,Mysteries/Thrillers
+1906,2019-08,IUF65,male,50-64,2019,3.3,Business
+1907,2019-08,VIK75,male,30-49,2019,2.0,Sci-Fi & Fantasy
+1908,2019-08,RQR84,male,18-29,2019,4.6,Non-fiction
+1909,2019-08,RJA71,male,50-64,2019,3.9,Romance
+1910,2019-08,VXR13,male,30-49,2019,2.6,Sci-Fi & Fantasy
+1911,2019-08,KBL53,female,50-64,2019,5.3,Podcasts
+1912,2019-08,ECQ03,male,30-49,2019,1.1,Mysteries/Thrillers
+1913,2019-08,FNS96,female,30-49,2019,1.2,Mysteries/Thrillers
+1914,2019-08,ZZQ24,male,30-49,2019,2.8,Sci-Fi & Fantasy
+1915,2019-08,EZL70,male,18-29,2019,2.0,Sci-Fi & Fantasy
+1916,2019-08,DFG32,female,30-49,2019,4.4,Romance
+1917,2019-08,LKC03,female,30-49,2019,3.4,Romance
+1918,2019-08,CLA50,female,65+,2019,2.0,Sci-Fi & Fantasy
+1919,2019-08,SKZ24,female,30-49,2019,2.9,Podcasts
+1920,2019-08,TIJ69,male,30-49,2019,0.8,Sci-Fi & Fantasy
+1921,2019-08,WKS63,female,30-49,2019,3.0,Non-fiction
+1922,2019-08,GCW05,male,30-49,2019,2.4,Mysteries/Thrillers
+1923,2019-08,NDR97,male,30-49,2019,0.7,Mysteries/Thrillers
+1924,2019-08,KDZ56,male,18-29,2019,4.9,Podcasts
+1925,2019-08,UKB16,female,30-49,2019,3.2,Sci-Fi & Fantasy
+1926,2019-08,JWT96,female,30-49,2019,5.6,Mysteries/Thrillers
+1927,2019-08,HUA58,male,50-64,2019,1.6,Children
+1928,2019-08,NDN53,male,30-49,2019,2.7,Mysteries/Thrillers
+1929,2019-08,XIH52,female,18-29,2019,4.0,Romance
+1930,2019-08,IKY01,male,18-29,2019,4.0,Business
+1931,2019-08,FZX15,female,50-64,2019,5.5,Romance
+1932,2019-08,CII59,male,18-29,2019,4.0,Romance
+1933,2019-08,VNU47,female,30-49,2019,3.7,Comedy
+1934,2019-08,UGV54,female,18-29,2019,3.4,Mysteries/Thrillers
+1935,2019-08,KFN16,male,50-64,2019,3.7,Mysteries/Thrillers
+1936,2019-08,XUP46,female,65+,2019,3.4,Podcasts
+1937,2019-08,DBW36,female,18-29,2019,3.2,Mysteries/Thrillers
+1938,2019-08,KJU37,male,65+,2019,2.4,Mysteries/Thrillers
+1939,2019-08,VEZ04,female,18-29,2019,1.8,Non-fiction
+1940,2019-08,NVE53,female,50-64,2019,5.2,Sci-Fi & Fantasy
+1941,2019-08,XDG83,male,50-64,2019,4.9,Mysteries/Thrillers
+1942,2019-08,YBK15,male,50-64,2019,2.8,Romance
+1943,2019-08,ZIQ24,male,18-29,2019,3.9,Business
+1944,2019-08,OGR59,male,18-29,2019,3.6,Sci-Fi & Fantasy
+1945,2019-08,HYE06,male,30-49,2019,2.4,Podcasts
+1946,2019-08,TMB91,male,18-29,2019,2.1,Romance
+1947,2019-08,WXF84,female,50-64,2019,1.5,Business
+1948,2019-08,XXU25,male,18-29,2019,2.5,Mysteries/Thrillers
+1949,2019-08,ZIK60,male,18-29,2019,3.9,Romance
+1950,2019-08,GEK46,male,30-49,2019,2.5,Sci-Fi & Fantasy
+1951,2019-08,MEB57,male,30-49,2019,2.8,Mysteries/Thrillers
+1952,2019-08,YVH84,male,50-64,2019,4.2,Mysteries/Thrillers
+1953,2019-08,HCL52,male,18-29,2019,3.2,Mysteries/Thrillers
+1954,2019-08,FYB94,male,30-49,2019,1.6,Mysteries/Thrillers
+1955,2019-08,UCO74,female,50-64,2019,3.9,Non-fiction
+1956,2019-08,JMF22,male,65+,2019,1.9,Romance
+1957,2019-08,AXB90,female,18-29,2019,2.1,Comedy
+1958,2019-08,ROB97,male,50-64,2019,3.6,Mysteries/Thrillers
+1959,2019-08,WLH11,female,18-29,2019,0.9,Sci-Fi & Fantasy
+1960,2019-08,RVF03,female,50-64,2019,2.6,Non-fiction
+1961,2019-08,DFF64,female,18-29,2019,3.4,Romance
+1962,2019-08,OKZ40,female,18-29,2019,2.7,Comedy
+1963,2019-08,DTX14,female,18-29,2019,5.0,Comedy
+1964,2019-08,WOA52,male,30-49,2019,4.7,Mysteries/Thrillers
+1965,2019-08,FYC87,male,18-29,2019,1.9,Business
+1966,2019-08,PIC69,male,30-49,2019,4.7,Non-fiction
+1967,2019-08,EDM80,female,30-49,2019,6.2,Mysteries/Thrillers
+1968,2019-08,UCA14,male,50-64,2019,2.3,Comedy
+1969,2019-08,YRB14,female,18-29,2019,5.5,Romance
+1970,2019-08,CRJ98,female,65+,2019,2.7,Comedy
+1971,2019-08,VGL60,male,30-49,2019,4.9,Non-fiction
+1972,2019-08,AIK78,male,50-64,2019,3.5,Mysteries/Thrillers
+1973,2019-08,BBY21,female,50-64,2019,5.8,Mysteries/Thrillers
+1974,2019-08,UUP78,male,18-29,2019,5.3,Podcasts
+1975,2019-08,WGK93,female,18-29,2019,3.5,Business
+1976,2019-08,QWW63,female,30-49,2019,2.6,Sci-Fi & Fantasy
+1977,2019-08,RAJ76,male,30-49,2019,3.3,Mysteries/Thrillers
+1978,2019-08,CSP41,female,18-29,2019,3.9,Mysteries/Thrillers
+1979,2019-08,PTF60,female,18-29,2019,2.1,Mysteries/Thrillers
+1980,2019-08,FJU28,female,30-49,2019,4.3,Mysteries/Thrillers
+1981,2019-08,ZEA77,male,50-64,2019,2.3,Mysteries/Thrillers
+1982,2019-08,XRU31,male,18-29,2019,3.6,Romance
+1983,2019-08,ZPH80,female,18-29,2019,4.2,History
+1984,2019-08,BGD46,female,65+,2019,4.2,Mysteries/Thrillers
+1985,2019-08,NOD59,male,50-64,2019,4.5,Business
+1986,2019-08,IUQ76,female,18-29,2019,4.3,Romance
+1987,2019-08,LGC11,female,65+,2019,3.3,Romance
+1988,2019-08,TVV83,female,18-29,2019,3.4,Mysteries/Thrillers
+1989,2019-08,RVD02,male,18-29,2019,4.6,Non-fiction
+1990,2019-08,XUD81,female,65+,2019,3.3,Mysteries/Thrillers
+1991,2019-08,GEW80,male,18-29,2019,3.8,Sci-Fi & Fantasy
+1992,2019-08,AUK56,male,50-64,2019,3.8,Comedy
+1993,2019-08,OEI57,male,18-29,2019,0.5,Mysteries/Thrillers
+1994,2019-08,IAD29,female,18-29,2019,4.6,Romance
+1995,2019-08,LMK88,male,50-64,2019,4.1,Non-fiction
+1996,2019-08,ERO80,male,65+,2019,1.7,Romance
+1997,2019-08,PEO84,male,30-49,2019,5.1,Mysteries/Thrillers
+1998,2019-08,NJY80,female,18-29,2019,0.8,Non-fiction
+1999,2019-08,BNI06,male,18-29,2019,1.2,Mysteries/Thrillers
+2000,2019-09,BCK19,male,18-29,2019,4.2,Sci-Fi & Fantasy
+2001,2019-09,ANI81,female,18-29,2019,2.9,Mysteries/Thrillers
+2002,2019-09,IIG04,female,18-29,2019,1.7,Mysteries/Thrillers
+2003,2019-09,CPB34,male,30-49,2019,3.9,Sci-Fi & Fantasy
+2004,2019-09,XCD70,female,30-49,2019,4.6,Mysteries/Thrillers
+2005,2019-09,XOG87,male,30-49,2019,2.3,Mysteries/Thrillers
+2006,2019-09,IUF65,male,50-64,2019,2.0,Comedy
+2007,2019-09,VIK75,male,30-49,2019,4.8,Podcasts
+2008,2019-09,RQR84,male,18-29,2019,1.5,Podcasts
+2009,2019-09,RJA71,male,50-64,2019,1.9,Mysteries/Thrillers
+2010,2019-09,VXR13,male,30-49,2019,2.7,Comedy
+2011,2019-09,KBL53,female,50-64,2019,5.3,Podcasts
+2012,2019-09,ECQ03,male,30-49,2019,2.6,Mysteries/Thrillers
+2013,2019-09,FNS96,female,30-49,2019,3.9,Sci-Fi & Fantasy
+2014,2019-09,ZZQ24,male,30-49,2019,2.2,Romance
+2015,2019-09,EZL70,male,18-29,2019,4.5,Sci-Fi & Fantasy
+2016,2019-09,DFG32,female,30-49,2019,2.6,Mysteries/Thrillers
+2017,2019-09,LKC03,female,30-49,2019,0.9,Children
+2018,2019-09,CLA50,female,65+,2019,3.8,Mysteries/Thrillers
+2019,2019-09,SKZ24,female,30-49,2019,2.4,Sci-Fi & Fantasy
+2020,2019-09,TIJ69,male,30-49,2019,3.9,Comedy
+2021,2019-09,WKS63,female,30-49,2019,3.6,Comedy
+2022,2019-09,GCW05,male,30-49,2019,3.8,Mysteries/Thrillers
+2023,2019-09,NDR97,male,30-49,2019,3.6,Romance
+2024,2019-09,KDZ56,male,18-29,2019,3.8,Sci-Fi & Fantasy
+2025,2019-09,UKB16,female,30-49,2019,5.1,Mysteries/Thrillers
+2026,2019-09,JWT96,female,30-49,2019,2.4,Romance
+2027,2019-09,HUA58,male,50-64,2019,1.8,Romance
+2028,2019-09,NDN53,male,30-49,2019,2.4,Mysteries/Thrillers
+2029,2019-09,XIH52,female,18-29,2019,4.0,Business
+2030,2019-09,IKY01,male,18-29,2019,4.8,Non-fiction
+2031,2019-09,FZX15,female,50-64,2019,2.4,Comedy
+2032,2019-09,CII59,male,18-29,2019,2.3,Mysteries/Thrillers
+2033,2019-09,VNU47,female,30-49,2019,3.6,Romance
+2034,2019-09,UGV54,female,18-29,2019,4.8,Podcasts
+2035,2019-09,KFN16,male,50-64,2019,5.3,Sci-Fi & Fantasy
+2036,2019-09,XUP46,female,65+,2019,3.6,Mysteries/Thrillers
+2037,2019-09,DBW36,female,18-29,2019,4.8,Business
+2038,2019-09,KJU37,male,65+,2019,6.3,History
+2039,2019-09,VEZ04,female,18-29,2019,2.1,Business
+2040,2019-09,NVE53,female,50-64,2019,2.8,Podcasts
+2041,2019-09,XDG83,male,50-64,2019,2.4,Romance
+2042,2019-09,YBK15,male,50-64,2019,3.2,Romance
+2043,2019-09,ZIQ24,male,18-29,2019,6.8,Non-fiction
+2044,2019-09,OGR59,male,18-29,2019,4.8,Comedy
+2045,2019-09,HYE06,male,30-49,2019,1.6,Mysteries/Thrillers
+2046,2019-09,TMB91,male,18-29,2019,1.2,Mysteries/Thrillers
+2047,2019-09,WXF84,female,50-64,2019,2.7,Non-fiction
+2048,2019-09,XXU25,male,18-29,2019,4.4,Sci-Fi & Fantasy
+2049,2019-09,ZIK60,male,18-29,2019,1.5,Comedy
+2050,2019-09,GEK46,male,30-49,2019,1.3,Romance
+2051,2019-09,MEB57,male,30-49,2019,0.4,Business
+2052,2019-09,YVH84,male,50-64,2019,3.5,Podcasts
+2053,2019-09,HCL52,male,18-29,2019,0.9,Mysteries/Thrillers
+2054,2019-09,FYB94,male,30-49,2019,3.5,Romance
+2055,2019-09,UCO74,female,50-64,2019,4.1,Business
+2056,2019-09,JMF22,male,65+,2019,4.6,Mysteries/Thrillers
+2057,2019-09,AXB90,female,18-29,2019,3.5,Romance
+2058,2019-09,ROB97,male,50-64,2019,3.3,Comedy
+2059,2019-09,WLH11,female,18-29,2019,4.1,Romance
+2060,2019-09,RVF03,female,50-64,2019,0.8,Business
+2061,2019-09,DFF64,female,18-29,2019,3.2,Romance
+2062,2019-09,OKZ40,female,18-29,2019,1.5,Mysteries/Thrillers
+2063,2019-09,DTX14,female,18-29,2019,4.2,Mysteries/Thrillers
+2064,2019-09,WOA52,male,30-49,2019,1.2,Mysteries/Thrillers
+2065,2019-09,FYC87,male,18-29,2019,4.4,History
+2066,2019-09,PIC69,male,30-49,2019,5.8,Sci-Fi & Fantasy
+2067,2019-09,EDM80,female,30-49,2019,3.3,Mysteries/Thrillers
+2068,2019-09,UCA14,male,50-64,2019,5.6,Mysteries/Thrillers
+2069,2019-09,YRB14,female,18-29,2019,2.3,Mysteries/Thrillers
+2070,2019-09,CRJ98,female,65+,2019,2.8,Romance
+2071,2019-09,VGL60,male,30-49,2019,3.0,Mysteries/Thrillers
+2072,2019-09,AIK78,male,50-64,2019,3.3,Non-fiction
+2073,2019-09,BBY21,female,50-64,2019,5.8,Romance
+2074,2019-09,UUP78,male,18-29,2019,3.6,Mysteries/Thrillers
+2075,2019-09,WGK93,female,18-29,2019,2.4,Romance
+2076,2019-09,QWW63,female,30-49,2019,2.3,Podcasts
+2077,2019-09,RAJ76,male,30-49,2019,3.6,Sci-Fi & Fantasy
+2078,2019-09,CSP41,female,18-29,2019,5.0,Romance
+2079,2019-09,PTF60,female,18-29,2019,3.2,Sci-Fi & Fantasy
+2080,2019-09,FJU28,female,30-49,2019,4.8,Business
+2081,2019-09,ZEA77,male,50-64,2019,2.2,Romance
+2082,2019-09,XRU31,male,18-29,2019,3.0,Sci-Fi & Fantasy
+2083,2019-09,ZPH80,female,18-29,2019,4.6,Business
+2084,2019-09,BGD46,female,65+,2019,1.0,Mysteries/Thrillers
+2085,2019-09,NOD59,male,50-64,2019,5.7,Romance
+2086,2019-09,IUQ76,female,18-29,2019,5.2,Romance
+2087,2019-09,LGC11,female,65+,2019,3.0,Romance
+2088,2019-09,TVV83,female,18-29,2019,4.8,Mysteries/Thrillers
+2089,2019-09,RVD02,male,18-29,2019,5.0,Sci-Fi & Fantasy
+2090,2019-09,XUD81,female,65+,2019,4.2,Comedy
+2091,2019-09,GEW80,male,18-29,2019,3.9,Sci-Fi & Fantasy
+2092,2019-09,AUK56,male,50-64,2019,2.6,Sci-Fi & Fantasy
+2093,2019-09,OEI57,male,18-29,2019,3.9,Sci-Fi & Fantasy
+2094,2019-09,IAD29,female,18-29,2019,3.3,Sci-Fi & Fantasy
+2095,2019-09,LMK88,male,50-64,2019,3.3,Mysteries/Thrillers
+2096,2019-09,ERO80,male,65+,2019,2.2,Romance
+2097,2019-09,PEO84,male,30-49,2019,3.4,Mysteries/Thrillers
+2098,2019-09,NJY80,female,18-29,2019,4.2,Romance
+2099,2019-09,BNI06,male,18-29,2019,4.6,Sci-Fi & Fantasy
+2100,2019-10,BCK19,male,18-29,2019,4.1,Comedy
+2101,2019-10,ANI81,female,18-29,2019,5.2,Sci-Fi & Fantasy
+2102,2019-10,IIG04,female,18-29,2019,2.4,Sci-Fi & Fantasy
+2103,2019-10,CPB34,male,30-49,2019,3.8,Podcasts
+2104,2019-10,XCD70,female,30-49,2019,1.4,Mysteries/Thrillers
+2105,2019-10,XOG87,male,30-49,2019,6.6,Comedy
+2106,2019-10,IUF65,male,50-64,2019,2.3,Mysteries/Thrillers
+2107,2019-10,VIK75,male,30-49,2019,7.1,Sci-Fi & Fantasy
+2108,2019-10,RQR84,male,18-29,2019,4.6,Podcasts
+2109,2019-10,RJA71,male,50-64,2019,4.0,Mysteries/Thrillers
+2110,2019-10,VXR13,male,30-49,2019,2.4,Non-fiction
+2111,2019-10,KBL53,female,50-64,2019,4.3,Comedy
+2112,2019-10,ECQ03,male,30-49,2019,6.5,Romance
+2113,2019-10,FNS96,female,30-49,2019,1.9,Non-fiction
+2114,2019-10,ZZQ24,male,30-49,2019,4.5,Business
+2115,2019-10,EZL70,male,18-29,2019,3.0,Sci-Fi & Fantasy
+2116,2019-10,DFG32,female,30-49,2019,3.1,Non-fiction
+2117,2019-10,LKC03,female,30-49,2019,4.0,Romance
+2118,2019-10,CLA50,female,65+,2019,5.6,Mysteries/Thrillers
+2119,2019-10,SKZ24,female,30-49,2019,1.4,Mysteries/Thrillers
+2120,2019-10,TIJ69,male,30-49,2019,2.0,Comedy
+2121,2019-10,WKS63,female,30-49,2019,3.0,Mysteries/Thrillers
+2122,2019-10,GCW05,male,30-49,2019,2.6,Mysteries/Thrillers
+2123,2019-10,NDR97,male,30-49,2019,4.7,Podcasts
+2124,2019-10,KDZ56,male,18-29,2019,3.3,Sci-Fi & Fantasy
+2125,2019-10,UKB16,female,30-49,2019,3.2,Comedy
+2126,2019-10,JWT96,female,30-49,2019,3.3,Mysteries/Thrillers
+2127,2019-10,HUA58,male,50-64,2019,0.9,Sci-Fi & Fantasy
+2128,2019-10,NDN53,male,30-49,2019,4.1,Mysteries/Thrillers
+2129,2019-10,XIH52,female,18-29,2019,3.3,Romance
+2130,2019-10,IKY01,male,18-29,2019,5.1,Mysteries/Thrillers
+2131,2019-10,FZX15,female,50-64,2019,3.0,Romance
+2132,2019-10,CII59,male,18-29,2019,1.6,Business
+2133,2019-10,VNU47,female,30-49,2019,4.0,Sci-Fi & Fantasy
+2134,2019-10,UGV54,female,18-29,2019,1.3,Non-fiction
+2135,2019-10,KFN16,male,50-64,2019,4.5,Podcasts
+2136,2019-10,XUP46,female,65+,2019,4.2,Mysteries/Thrillers
+2137,2019-10,DBW36,female,18-29,2019,4.1,Comedy
+2138,2019-10,KJU37,male,65+,2019,0.9,Romance
+2139,2019-10,VEZ04,female,18-29,2019,5.7,Comedy
+2140,2019-10,NVE53,female,50-64,2019,3.8,Comedy
+2141,2019-10,XDG83,male,50-64,2019,3.1,Romance
+2142,2019-10,YBK15,male,50-64,2019,4.2,Romance
+2143,2019-10,ZIQ24,male,18-29,2019,4.8,Mysteries/Thrillers
+2144,2019-10,OGR59,male,18-29,2019,3.5,Mysteries/Thrillers
+2145,2019-10,HYE06,male,30-49,2019,3.8,Comedy
+2146,2019-10,TMB91,male,18-29,2019,3.7,Mysteries/Thrillers
+2147,2019-10,WXF84,female,50-64,2019,3.8,Non-fiction
+2148,2019-10,XXU25,male,18-29,2019,3.3,Podcasts
+2149,2019-10,ZIK60,male,18-29,2019,2.8,Romance
+2150,2019-10,GEK46,male,30-49,2019,4.5,Mysteries/Thrillers
+2151,2019-10,MEB57,male,30-49,2019,6.2,Children
+2152,2019-10,YVH84,male,50-64,2019,4.4,Mysteries/Thrillers
+2153,2019-10,HCL52,male,18-29,2019,3.1,Romance
+2154,2019-10,FYB94,male,30-49,2019,4.6,Mysteries/Thrillers
+2155,2019-10,UCO74,female,50-64,2019,2.1,Sci-Fi & Fantasy
+2156,2019-10,JMF22,male,65+,2019,6.1,Comedy
+2157,2019-10,AXB90,female,18-29,2019,2.4,Mysteries/Thrillers
+2158,2019-10,ROB97,male,50-64,2019,6.2,Mysteries/Thrillers
+2159,2019-10,WLH11,female,18-29,2019,4.0,Mysteries/Thrillers
+2160,2019-10,RVF03,female,50-64,2019,3.1,Comedy
+2161,2019-10,DFF64,female,18-29,2019,5.6,Romance
+2162,2019-10,OKZ40,female,18-29,2019,1.1,Romance
+2163,2019-10,DTX14,female,18-29,2019,6.4,Mysteries/Thrillers
+2164,2019-10,WOA52,male,30-49,2019,3.6,Mysteries/Thrillers
+2165,2019-10,FYC87,male,18-29,2019,5.1,Non-fiction
+2166,2019-10,PIC69,male,30-49,2019,4.1,Comedy
+2167,2019-10,EDM80,female,30-49,2019,2.8,History
+2168,2019-10,UCA14,male,50-64,2019,2.8,Mysteries/Thrillers
+2169,2019-10,YRB14,female,18-29,2019,6.9,Mysteries/Thrillers
+2170,2019-10,CRJ98,female,65+,2019,5.7,Sci-Fi & Fantasy
+2171,2019-10,VGL60,male,30-49,2019,5.7,Business
+2172,2019-10,AIK78,male,50-64,2019,2.9,Podcasts
+2173,2019-10,BBY21,female,50-64,2019,3.4,Non-fiction
+2174,2019-10,UUP78,male,18-29,2019,2.2,Sci-Fi & Fantasy
+2175,2019-10,WGK93,female,18-29,2019,6.0,Non-fiction
+2176,2019-10,QWW63,female,30-49,2019,3.9,Non-fiction
+2177,2019-10,RAJ76,male,30-49,2019,3.4,Mysteries/Thrillers
+2178,2019-10,CSP41,female,18-29,2019,0.2,Mysteries/Thrillers
+2179,2019-10,PTF60,female,18-29,2019,4.7,Sci-Fi & Fantasy
+2180,2019-10,FJU28,female,30-49,2019,2.4,Comedy
+2181,2019-10,ZEA77,male,50-64,2019,4.0,Non-fiction
+2182,2019-10,XRU31,male,18-29,2019,4.7,Mysteries/Thrillers
+2183,2019-10,ZPH80,female,18-29,2019,5.8,Mysteries/Thrillers
+2184,2019-10,BGD46,female,65+,2019,6.2,Podcasts
+2185,2019-10,NOD59,male,50-64,2019,4.5,Mysteries/Thrillers
+2186,2019-10,IUQ76,female,18-29,2019,2.9,Romance
+2187,2019-10,LGC11,female,65+,2019,4.3,Comedy
+2188,2019-10,TVV83,female,18-29,2019,4.4,Comedy
+2189,2019-10,RVD02,male,18-29,2019,2.6,Sci-Fi & Fantasy
+2190,2019-10,XUD81,female,65+,2019,0.5,Mysteries/Thrillers
+2191,2019-10,GEW80,male,18-29,2019,3.6,Mysteries/Thrillers
+2192,2019-10,AUK56,male,50-64,2019,1.8,Business
+2193,2019-10,OEI57,male,18-29,2019,0.4,Sci-Fi & Fantasy
+2194,2019-10,IAD29,female,18-29,2019,4.5,Mysteries/Thrillers
+2195,2019-10,LMK88,male,50-64,2019,3.1,Business
+2196,2019-10,ERO80,male,65+,2019,5.2,Mysteries/Thrillers
+2197,2019-10,PEO84,male,30-49,2019,1.6,Business
+2198,2019-10,NJY80,female,18-29,2019,4.3,Business
+2199,2019-10,BNI06,male,18-29,2019,2.9,Sci-Fi & Fantasy
+2200,2019-11,BCK19,male,18-29,2019,2.0,Comedy
+2201,2019-11,ANI81,female,18-29,2019,3.7,Mysteries/Thrillers
+2202,2019-11,IIG04,female,18-29,2019,5.5,Podcasts
+2203,2019-11,CPB34,male,30-49,2019,4.4,Mysteries/Thrillers
+2204,2019-11,XCD70,female,30-49,2019,4.8,Mysteries/Thrillers
+2205,2019-11,XOG87,male,30-49,2019,4.4,Podcasts
+2206,2019-11,IUF65,male,50-64,2019,2.3,Romance
+2207,2019-11,VIK75,male,30-49,2019,2.1,Mysteries/Thrillers
+2208,2019-11,RQR84,male,18-29,2019,2.9,Non-fiction
+2209,2019-11,RJA71,male,50-64,2019,3.8,Non-fiction
+2210,2019-11,VXR13,male,30-49,2019,3.3,Mysteries/Thrillers
+2211,2019-11,KBL53,female,50-64,2019,3.6,Business
+2212,2019-11,ECQ03,male,30-49,2019,2.1,Mysteries/Thrillers
+2213,2019-11,FNS96,female,30-49,2019,2.8,Comedy
+2214,2019-11,ZZQ24,male,30-49,2019,3.3,Non-fiction
+2215,2019-11,EZL70,male,18-29,2019,5.9,Romance
+2216,2019-11,DFG32,female,30-49,2019,1.6,Mysteries/Thrillers
+2217,2019-11,LKC03,female,30-49,2019,7.2,Mysteries/Thrillers
+2218,2019-11,CLA50,female,65+,2019,0.8,Sci-Fi & Fantasy
+2219,2019-11,SKZ24,female,30-49,2019,2.1,Children
+2220,2019-11,TIJ69,male,30-49,2019,3.3,Mysteries/Thrillers
+2221,2019-11,WKS63,female,30-49,2019,0.6,Sci-Fi & Fantasy
+2222,2019-11,GCW05,male,30-49,2019,4.6,Sci-Fi & Fantasy
+2223,2019-11,NDR97,male,30-49,2019,1.3,Business
+2224,2019-11,KDZ56,male,18-29,2019,1.3,Sci-Fi & Fantasy
+2225,2019-11,UKB16,female,30-49,2019,1.7,Sci-Fi & Fantasy
+2226,2019-11,JWT96,female,30-49,2019,6.6,Sci-Fi & Fantasy
+2227,2019-11,HUA58,male,50-64,2019,4.0,Business
+2228,2019-11,NDN53,male,30-49,2019,5.8,Children
+2229,2019-11,XIH52,female,18-29,2019,2.4,Mysteries/Thrillers
+2230,2019-11,IKY01,male,18-29,2019,5.3,Comedy
+2231,2019-11,FZX15,female,50-64,2019,1.2,Sci-Fi & Fantasy
+2232,2019-11,CII59,male,18-29,2019,3.5,History
+2233,2019-11,VNU47,female,30-49,2019,2.7,Children
+2234,2019-11,UGV54,female,18-29,2019,2.5,Sci-Fi & Fantasy
+2235,2019-11,KFN16,male,50-64,2019,1.3,Sci-Fi & Fantasy
+2236,2019-11,XUP46,female,65+,2019,4.7,Romance
+2237,2019-11,DBW36,female,18-29,2019,4.3,Comedy
+2238,2019-11,KJU37,male,65+,2019,3.6,Comedy
+2239,2019-11,VEZ04,female,18-29,2019,1.6,Podcasts
+2240,2019-11,NVE53,female,50-64,2019,2.3,Romance
+2241,2019-11,XDG83,male,50-64,2019,1.3,Business
+2242,2019-11,YBK15,male,50-64,2019,2.7,Sci-Fi & Fantasy
+2243,2019-11,ZIQ24,male,18-29,2019,2.4,Mysteries/Thrillers
+2244,2019-11,OGR59,male,18-29,2019,2.7,Sci-Fi & Fantasy
+2245,2019-11,HYE06,male,30-49,2019,2.4,Mysteries/Thrillers
+2246,2019-11,TMB91,male,18-29,2019,1.8,Comedy
+2247,2019-11,WXF84,female,50-64,2019,2.4,Mysteries/Thrillers
+2248,2019-11,XXU25,male,18-29,2019,4.9,Mysteries/Thrillers
+2249,2019-11,ZIK60,male,18-29,2019,0.8,Sci-Fi & Fantasy
+2250,2019-11,GEK46,male,30-49,2019,3.3,Romance
+2251,2019-11,MEB57,male,30-49,2019,2.7,Business
+2252,2019-11,YVH84,male,50-64,2019,4.5,History
+2253,2019-11,HCL52,male,18-29,2019,3.5,Podcasts
+2254,2019-11,FYB94,male,30-49,2019,1.6,Comedy
+2255,2019-11,UCO74,female,50-64,2019,0.3,Comedy
+2256,2019-11,JMF22,male,65+,2019,3.0,Podcasts
+2257,2019-11,AXB90,female,18-29,2019,1.9,Romance
+2258,2019-11,ROB97,male,50-64,2019,5.0,Sci-Fi & Fantasy
+2259,2019-11,WLH11,female,18-29,2019,2.4,Non-fiction
+2260,2019-11,RVF03,female,50-64,2019,0.8,Podcasts
+2261,2019-11,DFF64,female,18-29,2019,3.8,Non-fiction
+2262,2019-11,OKZ40,female,18-29,2019,2.2,Mysteries/Thrillers
+2263,2019-11,DTX14,female,18-29,2019,2.1,Sci-Fi & Fantasy
+2264,2019-11,WOA52,male,30-49,2019,2.0,Romance
+2265,2019-11,FYC87,male,18-29,2019,2.8,Mysteries/Thrillers
+2266,2019-11,PIC69,male,30-49,2019,3.0,Podcasts
+2267,2019-11,EDM80,female,30-49,2019,3.9,Business
+2268,2019-11,UCA14,male,50-64,2019,3.2,Sci-Fi & Fantasy
+2269,2019-11,YRB14,female,18-29,2019,2.4,Non-fiction
+2270,2019-11,CRJ98,female,65+,2019,3.1,Mysteries/Thrillers
+2271,2019-11,VGL60,male,30-49,2019,3.9,Mysteries/Thrillers
+2272,2019-11,AIK78,male,50-64,2019,5.0,Mysteries/Thrillers
+2273,2019-11,BBY21,female,50-64,2019,1.9,Business
+2274,2019-11,UUP78,male,18-29,2019,5.3,Podcasts
+2275,2019-11,WGK93,female,18-29,2019,2.4,Sci-Fi & Fantasy
+2276,2019-11,QWW63,female,30-49,2019,4.8,Business
+2277,2019-11,RAJ76,male,30-49,2019,2.9,Mysteries/Thrillers
+2278,2019-11,CSP41,female,18-29,2019,3.6,Podcasts
+2279,2019-11,PTF60,female,18-29,2019,2.4,Comedy
+2280,2019-11,FJU28,female,30-49,2019,6.2,Sci-Fi & Fantasy
+2281,2019-11,ZEA77,male,50-64,2019,1.2,Mysteries/Thrillers
+2282,2019-11,XRU31,male,18-29,2019,2.2,History
+2283,2019-11,ZPH80,female,18-29,2019,1.6,Podcasts
+2284,2019-11,BGD46,female,65+,2019,4.0,Podcasts
+2285,2019-11,NOD59,male,50-64,2019,5.2,Business
+2286,2019-11,IUQ76,female,18-29,2019,6.7,Mysteries/Thrillers
+2287,2019-11,LGC11,female,65+,2019,2.6,Business
+2288,2019-11,TVV83,female,18-29,2019,1.9,Romance
+2289,2019-11,RVD02,male,18-29,2019,3.5,Romance
+2290,2019-11,XUD81,female,65+,2019,3.0,Business
+2291,2019-11,GEW80,male,18-29,2019,5.0,Mysteries/Thrillers
+2292,2019-11,AUK56,male,50-64,2019,2.8,History
+2293,2019-11,OEI57,male,18-29,2019,1.5,Business
+2294,2019-11,IAD29,female,18-29,2019,1.8,History
+2295,2019-11,LMK88,male,50-64,2019,1.6,Comedy
+2296,2019-11,ERO80,male,65+,2019,4.2,Podcasts
+2297,2019-11,PEO84,male,30-49,2019,4.3,Comedy
+2298,2019-11,NJY80,female,18-29,2019,1.3,Sci-Fi & Fantasy
+2299,2019-11,BNI06,male,18-29,2019,2.1,Comedy
+2300,2019-12,BCK19,male,18-29,2019,2.5,Non-fiction
+2301,2019-12,ANI81,female,18-29,2019,2.2,Romance
+2302,2019-12,IIG04,female,18-29,2019,5.2,Podcasts
+2303,2019-12,CPB34,male,30-49,2019,2.1,Romance
+2304,2019-12,XCD70,female,30-49,2019,4.0,Mysteries/Thrillers
+2305,2019-12,XOG87,male,30-49,2019,2.3,History
+2306,2019-12,IUF65,male,50-64,2019,2.6,Non-fiction
+2307,2019-12,VIK75,male,30-49,2019,3.1,Business
+2308,2019-12,RQR84,male,18-29,2019,2.3,Mysteries/Thrillers
+2309,2019-12,RJA71,male,50-64,2019,3.0,Podcasts
+2310,2019-12,VXR13,male,30-49,2019,4.2,Mysteries/Thrillers
+2311,2019-12,KBL53,female,50-64,2019,3.8,Podcasts
+2312,2019-12,ECQ03,male,30-49,2019,1.7,Podcasts
+2313,2019-12,FNS96,female,30-49,2019,2.8,Sci-Fi & Fantasy
+2314,2019-12,ZZQ24,male,30-49,2019,3.6,Podcasts
+2315,2019-12,EZL70,male,18-29,2019,3.8,Mysteries/Thrillers
+2316,2019-12,DFG32,female,30-49,2019,3.7,Podcasts
+2317,2019-12,LKC03,female,30-49,2019,2.0,Mysteries/Thrillers
+2318,2019-12,CLA50,female,65+,2019,5.1,Non-fiction
+2319,2019-12,SKZ24,female,30-49,2019,4.5,Mysteries/Thrillers
+2320,2019-12,TIJ69,male,30-49,2019,2.4,Comedy
+2321,2019-12,WKS63,female,30-49,2019,1.3,Mysteries/Thrillers
+2322,2019-12,GCW05,male,30-49,2019,2.8,Sci-Fi & Fantasy
+2323,2019-12,NDR97,male,30-49,2019,2.3,Romance
+2324,2019-12,KDZ56,male,18-29,2019,5.5,Mysteries/Thrillers
+2325,2019-12,UKB16,female,30-49,2019,1.8,Mysteries/Thrillers
+2326,2019-12,JWT96,female,30-49,2019,3.0,Mysteries/Thrillers
+2327,2019-12,HUA58,male,50-64,2019,4.9,Sci-Fi & Fantasy
+2328,2019-12,NDN53,male,30-49,2019,2.1,Comedy
+2329,2019-12,XIH52,female,18-29,2019,2.9,Children
+2330,2019-12,IKY01,male,18-29,2019,4.6,Mysteries/Thrillers
+2331,2019-12,FZX15,female,50-64,2019,3.6,Romance
+2332,2019-12,CII59,male,18-29,2019,2.0,Romance
+2333,2019-12,VNU47,female,30-49,2019,3.0,Sci-Fi & Fantasy
+2334,2019-12,UGV54,female,18-29,2019,3.3,Podcasts
+2335,2019-12,KFN16,male,50-64,2019,3.3,Non-fiction
+2336,2019-12,XUP46,female,65+,2019,3.7,Romance
+2337,2019-12,DBW36,female,18-29,2019,3.8,Non-fiction
+2338,2019-12,KJU37,male,65+,2019,1.9,Comedy
+2339,2019-12,VEZ04,female,18-29,2019,4.8,Mysteries/Thrillers
+2340,2019-12,NVE53,female,50-64,2019,6.6,Business
+2341,2019-12,XDG83,male,50-64,2019,2.8,Sci-Fi & Fantasy
+2342,2019-12,YBK15,male,50-64,2019,2.3,Sci-Fi & Fantasy
+2343,2019-12,ZIQ24,male,18-29,2019,4.5,Podcasts
+2344,2019-12,OGR59,male,18-29,2019,2.5,Romance
+2345,2019-12,HYE06,male,30-49,2019,1.8,Mysteries/Thrillers
+2346,2019-12,TMB91,male,18-29,2019,2.6,Sci-Fi & Fantasy
+2347,2019-12,WXF84,female,50-64,2019,3.5,History
+2348,2019-12,XXU25,male,18-29,2019,1.0,Business
+2349,2019-12,ZIK60,male,18-29,2019,5.6,Mysteries/Thrillers
+2350,2019-12,GEK46,male,30-49,2019,2.1,Sci-Fi & Fantasy
+2351,2019-12,MEB57,male,30-49,2019,3.1,Sci-Fi & Fantasy
+2352,2019-12,YVH84,male,50-64,2019,2.9,Sci-Fi & Fantasy
+2353,2019-12,HCL52,male,18-29,2019,3.2,Mysteries/Thrillers
+2354,2019-12,FYB94,male,30-49,2019,5.0,Mysteries/Thrillers
+2355,2019-12,UCO74,female,50-64,2019,3.7,Sci-Fi & Fantasy
+2356,2019-12,JMF22,male,65+,2019,5.0,Business
+2357,2019-12,AXB90,female,18-29,2019,2.9,Mysteries/Thrillers
+2358,2019-12,ROB97,male,50-64,2019,1.9,Comedy
+2359,2019-12,WLH11,female,18-29,2019,3.8,Romance
+2360,2019-12,RVF03,female,50-64,2019,2.8,Podcasts
+2361,2019-12,DFF64,female,18-29,2019,4.5,Sci-Fi & Fantasy
+2362,2019-12,OKZ40,female,18-29,2019,4.7,Podcasts
+2363,2019-12,DTX14,female,18-29,2019,1.7,Comedy
+2364,2019-12,WOA52,male,30-49,2019,2.2,Mysteries/Thrillers
+2365,2019-12,FYC87,male,18-29,2019,5.0,Sci-Fi & Fantasy
+2366,2019-12,PIC69,male,30-49,2019,4.6,Business
+2367,2019-12,EDM80,female,30-49,2019,3.8,Comedy
+2368,2019-12,UCA14,male,50-64,2019,3.7,Romance
+2369,2019-12,YRB14,female,18-29,2019,2.3,Business
+2370,2019-12,CRJ98,female,65+,2019,1.4,Non-fiction
+2371,2019-12,VGL60,male,30-49,2019,3.1,Romance
+2372,2019-12,AIK78,male,50-64,2019,1.6,Romance
+2373,2019-12,BBY21,female,50-64,2019,5.9,Comedy
+2374,2019-12,UUP78,male,18-29,2019,1.2,Children
+2375,2019-12,WGK93,female,18-29,2019,3.4,Mysteries/Thrillers
+2376,2019-12,QWW63,female,30-49,2019,3.4,Romance
+2377,2019-12,RAJ76,male,30-49,2019,3.5,Comedy
+2378,2019-12,CSP41,female,18-29,2019,2.4,Business
+2379,2019-12,PTF60,female,18-29,2019,4.4,Sci-Fi & Fantasy
+2380,2019-12,FJU28,female,30-49,2019,2.4,Podcasts
+2381,2019-12,ZEA77,male,50-64,2019,4.0,Business
+2382,2019-12,XRU31,male,18-29,2019,2.3,Non-fiction
+2383,2019-12,ZPH80,female,18-29,2019,4.9,Mysteries/Thrillers
+2384,2019-12,BGD46,female,65+,2019,4.7,Mysteries/Thrillers
+2385,2019-12,NOD59,male,50-64,2019,2.1,Comedy
+2386,2019-12,IUQ76,female,18-29,2019,5.6,Children
+2387,2019-12,LGC11,female,65+,2019,5.3,Mysteries/Thrillers
+2388,2019-12,TVV83,female,18-29,2019,2.1,Sci-Fi & Fantasy
+2389,2019-12,RVD02,male,18-29,2019,5.5,Sci-Fi & Fantasy
+2390,2019-12,XUD81,female,65+,2019,4.4,Business
+2391,2019-12,GEW80,male,18-29,2019,3.7,Sci-Fi & Fantasy
+2392,2019-12,AUK56,male,50-64,2019,2.4,Podcasts
+2393,2019-12,OEI57,male,18-29,2019,3.4,Comedy
+2394,2019-12,IAD29,female,18-29,2019,5.6,Romance
+2395,2019-12,LMK88,male,50-64,2019,4.5,Mysteries/Thrillers
+2396,2019-12,ERO80,male,65+,2019,3.1,Podcasts
+2397,2019-12,PEO84,male,30-49,2019,2.6,Romance
+2398,2019-12,NJY80,female,18-29,2019,3.9,Mysteries/Thrillers
+2399,2019-12,BNI06,male,18-29,2019,2.9,Sci-Fi & Fantasy
+2400,2020-01,BCK19,male,18-29,2020,2.0,Sci-Fi & Fantasy
+2401,2020-01,ANI81,female,18-29,2020,8.1,Business
+2402,2020-01,IIG04,female,18-29,2020,9.5,Romance
+2403,2020-01,CPB34,male,30-49,2020,2.4,Comedy
+2404,2020-01,XCD70,female,30-49,2020,7.5,Non-fiction
+2405,2020-01,XOG87,male,30-49,2020,8.8,Mysteries/Thrillers
+2406,2020-01,IUF65,male,50-64,2020,7.9,Mysteries/Thrillers
+2407,2020-01,VIK75,male,30-49,2020,3.9,Non-fiction
+2408,2020-01,RQR84,male,18-29,2020,8.6,Romance
+2409,2020-01,RJA71,male,50-64,2020,5.8,Sci-Fi & Fantasy
+2410,2020-01,VXR13,male,30-49,2020,3.2,Podcasts
+2411,2020-01,KBL53,female,50-64,2020,6.9,Mysteries/Thrillers
+2412,2020-01,ECQ03,male,30-49,2020,3.3,Non-fiction
+2413,2020-01,FNS96,female,30-49,2020,3.1,Business
+2414,2020-01,ZZQ24,male,30-49,2020,3.1,Mysteries/Thrillers
+2415,2020-01,EZL70,male,18-29,2020,6.3,Comedy
+2416,2020-01,DFG32,female,30-49,2020,6.0,Romance
+2417,2020-01,LKC03,female,30-49,2020,2.1,Mysteries/Thrillers
+2418,2020-01,CLA50,female,65+,2020,3.4,Mysteries/Thrillers
+2419,2020-01,SKZ24,female,30-49,2020,4.5,Sci-Fi & Fantasy
+2420,2020-01,TIJ69,male,30-49,2020,4.7,Romance
+2421,2020-01,WKS63,female,30-49,2020,4.5,Comedy
+2422,2020-01,GCW05,male,30-49,2020,3.2,Comedy
+2423,2020-01,NDR97,male,30-49,2020,7.9,Mysteries/Thrillers
+2424,2020-01,KDZ56,male,18-29,2020,6.1,Podcasts
+2425,2020-01,UKB16,female,30-49,2020,4.8,Children
+2426,2020-01,JWT96,female,30-49,2020,6.7,Comedy
+2427,2020-01,HUA58,male,50-64,2020,4.4,Mysteries/Thrillers
+2428,2020-01,NDN53,male,30-49,2020,4.9,Sci-Fi & Fantasy
+2429,2020-01,XIH52,female,18-29,2020,10.8,Mysteries/Thrillers
+2430,2020-01,IKY01,male,18-29,2020,4.8,Romance
+2431,2020-01,FZX15,female,50-64,2020,6.1,Mysteries/Thrillers
+2432,2020-01,CII59,male,18-29,2020,5.0,Comedy
+2433,2020-01,VNU47,female,30-49,2020,5.7,Mysteries/Thrillers
+2434,2020-01,UGV54,female,18-29,2020,3.6,Sci-Fi & Fantasy
+2435,2020-01,KFN16,male,50-64,2020,2.7,Sci-Fi & Fantasy
+2436,2020-01,XUP46,female,65+,2020,2.0,Business
+2437,2020-01,DBW36,female,18-29,2020,3.3,Non-fiction
+2438,2020-01,KJU37,male,65+,2020,5.8,Sci-Fi & Fantasy
+2439,2020-01,VEZ04,female,18-29,2020,6.9,Mysteries/Thrillers
+2440,2020-01,NVE53,female,50-64,2020,3.8,Mysteries/Thrillers
+2441,2020-01,XDG83,male,50-64,2020,3.6,Mysteries/Thrillers
+2442,2020-01,YBK15,male,50-64,2020,7.0,Mysteries/Thrillers
+2443,2020-01,ZIQ24,male,18-29,2020,3.0,Romance
+2444,2020-01,OGR59,male,18-29,2020,3.0,Business
+2445,2020-01,HYE06,male,30-49,2020,2.4,Podcasts
+2446,2020-01,TMB91,male,18-29,2020,7.2,Mysteries/Thrillers
+2447,2020-01,WXF84,female,50-64,2020,3.6,Sci-Fi & Fantasy
+2448,2020-01,XXU25,male,18-29,2020,9.1,Sci-Fi & Fantasy
+2449,2020-01,ZIK60,male,18-29,2020,8.1,Romance
+2450,2020-01,GEK46,male,30-49,2020,3.9,Mysteries/Thrillers
+2451,2020-01,MEB57,male,30-49,2020,4.3,Sci-Fi & Fantasy
+2452,2020-01,YVH84,male,50-64,2020,4.3,Mysteries/Thrillers
+2453,2020-01,HCL52,male,18-29,2020,5.9,Mysteries/Thrillers
+2454,2020-01,FYB94,male,30-49,2020,5.1,Business
+2455,2020-01,UCO74,female,50-64,2020,5.0,Business
+2456,2020-01,JMF22,male,65+,2020,3.5,Podcasts
+2457,2020-01,AXB90,female,18-29,2020,3.7,Sci-Fi & Fantasy
+2458,2020-01,ROB97,male,50-64,2020,7.4,Podcasts
+2459,2020-01,WLH11,female,18-29,2020,5.2,Romance
+2460,2020-01,RVF03,female,50-64,2020,10.7,Children
+2461,2020-01,DFF64,female,18-29,2020,5.1,Sci-Fi & Fantasy
+2462,2020-01,OKZ40,female,18-29,2020,3.0,Mysteries/Thrillers
+2463,2020-01,DTX14,female,18-29,2020,5.6,Comedy
+2464,2020-01,WOA52,male,30-49,2020,7.2,Podcasts
+2465,2020-01,FYC87,male,18-29,2020,3.4,Romance
+2466,2020-01,PIC69,male,30-49,2020,4.8,Sci-Fi & Fantasy
+2467,2020-01,EDM80,female,30-49,2020,6.4,Business
+2468,2020-01,UCA14,male,50-64,2020,7.0,Podcasts
+2469,2020-01,YRB14,female,18-29,2020,4.9,Mysteries/Thrillers
+2470,2020-01,CRJ98,female,65+,2020,7.9,Romance
+2471,2020-01,VGL60,male,30-49,2020,4.8,Non-fiction
+2472,2020-01,AIK78,male,50-64,2020,5.9,Podcasts
+2473,2020-01,BBY21,female,50-64,2020,10.5,Romance
+2474,2020-01,UUP78,male,18-29,2020,5.5,Sci-Fi & Fantasy
+2475,2020-01,WGK93,female,18-29,2020,5.1,Mysteries/Thrillers
+2476,2020-01,QWW63,female,30-49,2020,7.6,Business
+2477,2020-01,RAJ76,male,30-49,2020,7.8,Sci-Fi & Fantasy
+2478,2020-01,CSP41,female,18-29,2020,5.0,Romance
+2479,2020-01,PTF60,female,18-29,2020,4.9,Sci-Fi & Fantasy
+2480,2020-01,FJU28,female,30-49,2020,5.3,Romance
+2481,2020-01,ZEA77,male,50-64,2020,6.9,Sci-Fi & Fantasy
+2482,2020-01,XRU31,male,18-29,2020,7.0,Non-fiction
+2483,2020-01,ZPH80,female,18-29,2020,5.5,Mysteries/Thrillers
+2484,2020-01,BGD46,female,65+,2020,6.2,Romance
+2485,2020-01,NOD59,male,50-64,2020,4.5,Podcasts
+2486,2020-01,IUQ76,female,18-29,2020,5.0,Comedy
+2487,2020-01,LGC11,female,65+,2020,5.4,Business
+2488,2020-01,TVV83,female,18-29,2020,5.9,Children
+2489,2020-01,RVD02,male,18-29,2020,3.5,Romance
+2490,2020-01,XUD81,female,65+,2020,4.8,Mysteries/Thrillers
+2491,2020-01,GEW80,male,18-29,2020,4.9,Sci-Fi & Fantasy
+2492,2020-01,AUK56,male,50-64,2020,5.0,Mysteries/Thrillers
+2493,2020-01,OEI57,male,18-29,2020,5.8,Sci-Fi & Fantasy
+2494,2020-01,IAD29,female,18-29,2020,11.0,Business
+2495,2020-01,LMK88,male,50-64,2020,6.6,Mysteries/Thrillers
+2496,2020-01,ERO80,male,65+,2020,2.4,Sci-Fi & Fantasy
+2497,2020-01,PEO84,male,30-49,2020,5.9,Non-fiction
+2498,2020-01,NJY80,female,18-29,2020,3.9,Comedy
+2499,2020-01,BNI06,male,18-29,2020,9.2,Romance
+2500,2020-02,BCK19,male,18-29,2020,4.2,Business
+2501,2020-02,ANI81,female,18-29,2020,7.0,Podcasts
+2502,2020-02,IIG04,female,18-29,2020,6.3,Podcasts
+2503,2020-02,CPB34,male,30-49,2020,4.1,Sci-Fi & Fantasy
+2504,2020-02,XCD70,female,30-49,2020,3.0,Mysteries/Thrillers
+2505,2020-02,XOG87,male,30-49,2020,4.9,Mysteries/Thrillers
+2506,2020-02,IUF65,male,50-64,2020,7.7,Comedy
+2507,2020-02,VIK75,male,30-49,2020,4.3,Business
+2508,2020-02,RQR84,male,18-29,2020,3.5,Comedy
+2509,2020-02,RJA71,male,50-64,2020,5.4,Sci-Fi & Fantasy
+2510,2020-02,VXR13,male,30-49,2020,5.3,Romance
+2511,2020-02,KBL53,female,50-64,2020,6.5,Romance
+2512,2020-02,ECQ03,male,30-49,2020,7.1,Mysteries/Thrillers
+2513,2020-02,FNS96,female,30-49,2020,6.7,Non-fiction
+2514,2020-02,ZZQ24,male,30-49,2020,5.9,Sci-Fi & Fantasy
+2515,2020-02,EZL70,male,18-29,2020,8.1,Mysteries/Thrillers
+2516,2020-02,DFG32,female,30-49,2020,4.6,Comedy
+2517,2020-02,LKC03,female,30-49,2020,3.4,Romance
+2518,2020-02,CLA50,female,65+,2020,6.3,Mysteries/Thrillers
+2519,2020-02,SKZ24,female,30-49,2020,4.5,Comedy
+2520,2020-02,TIJ69,male,30-49,2020,5.6,Mysteries/Thrillers
+2521,2020-02,WKS63,female,30-49,2020,6.1,Sci-Fi & Fantasy
+2522,2020-02,GCW05,male,30-49,2020,8.3,History
+2523,2020-02,NDR97,male,30-49,2020,4.1,Sci-Fi & Fantasy
+2524,2020-02,KDZ56,male,18-29,2020,8.2,Mysteries/Thrillers
+2525,2020-02,UKB16,female,30-49,2020,6.2,Comedy
+2526,2020-02,JWT96,female,30-49,2020,4.3,Sci-Fi & Fantasy
+2527,2020-02,HUA58,male,50-64,2020,3.5,Mysteries/Thrillers
+2528,2020-02,NDN53,male,30-49,2020,6.6,Sci-Fi & Fantasy
+2529,2020-02,XIH52,female,18-29,2020,5.5,Business
+2530,2020-02,IKY01,male,18-29,2020,2.6,Romance
+2531,2020-02,FZX15,female,50-64,2020,6.1,Romance
+2532,2020-02,CII59,male,18-29,2020,6.7,Mysteries/Thrillers
+2533,2020-02,VNU47,female,30-49,2020,7.9,Sci-Fi & Fantasy
+2534,2020-02,UGV54,female,18-29,2020,4.8,Romance
+2535,2020-02,KFN16,male,50-64,2020,3.5,Mysteries/Thrillers
+2536,2020-02,XUP46,female,65+,2020,7.8,Business
+2537,2020-02,DBW36,female,18-29,2020,6.9,Sci-Fi & Fantasy
+2538,2020-02,KJU37,male,65+,2020,5.1,Podcasts
+2539,2020-02,VEZ04,female,18-29,2020,4.4,Mysteries/Thrillers
+2540,2020-02,NVE53,female,50-64,2020,4.8,Comedy
+2541,2020-02,XDG83,male,50-64,2020,4.5,Mysteries/Thrillers
+2542,2020-02,YBK15,male,50-64,2020,8.1,Sci-Fi & Fantasy
+2543,2020-02,ZIQ24,male,18-29,2020,7.4,Mysteries/Thrillers
+2544,2020-02,OGR59,male,18-29,2020,3.8,Podcasts
+2545,2020-02,HYE06,male,30-49,2020,4.3,Comedy
+2546,2020-02,TMB91,male,18-29,2020,2.4,Business
+2547,2020-02,WXF84,female,50-64,2020,6.7,Podcasts
+2548,2020-02,XXU25,male,18-29,2020,5.5,Business
+2549,2020-02,ZIK60,male,18-29,2020,3.4,Sci-Fi & Fantasy
+2550,2020-02,GEK46,male,30-49,2020,8.4,Podcasts
+2551,2020-02,MEB57,male,30-49,2020,8.1,Romance
+2552,2020-02,YVH84,male,50-64,2020,6.8,Non-fiction
+2553,2020-02,HCL52,male,18-29,2020,8.0,Podcasts
+2554,2020-02,FYB94,male,30-49,2020,2.9,Romance
+2555,2020-02,UCO74,female,50-64,2020,2.3,Podcasts
+2556,2020-02,JMF22,male,65+,2020,5.7,Podcasts
+2557,2020-02,AXB90,female,18-29,2020,3.2,Mysteries/Thrillers
+2558,2020-02,ROB97,male,50-64,2020,6.1,Romance
+2559,2020-02,WLH11,female,18-29,2020,6.7,Romance
+2560,2020-02,RVF03,female,50-64,2020,6.3,Sci-Fi & Fantasy
+2561,2020-02,DFF64,female,18-29,2020,6.7,Podcasts
+2562,2020-02,OKZ40,female,18-29,2020,2.1,Comedy
+2563,2020-02,DTX14,female,18-29,2020,6.9,Podcasts
+2564,2020-02,WOA52,male,30-49,2020,3.2,Non-fiction
+2565,2020-02,FYC87,male,18-29,2020,3.6,Children
+2566,2020-02,PIC69,male,30-49,2020,4.9,Sci-Fi & Fantasy
+2567,2020-02,EDM80,female,30-49,2020,8.4,Romance
+2568,2020-02,UCA14,male,50-64,2020,2.2,Business
+2569,2020-02,YRB14,female,18-29,2020,8.5,Mysteries/Thrillers
+2570,2020-02,CRJ98,female,65+,2020,3.6,Romance
+2571,2020-02,VGL60,male,30-49,2020,8.3,History
+2572,2020-02,AIK78,male,50-64,2020,7.8,Sci-Fi & Fantasy
+2573,2020-02,BBY21,female,50-64,2020,5.4,Non-fiction
+2574,2020-02,UUP78,male,18-29,2020,5.4,Romance
+2575,2020-02,WGK93,female,18-29,2020,4.2,Podcasts
+2576,2020-02,QWW63,female,30-49,2020,5.4,Comedy
+2577,2020-02,RAJ76,male,30-49,2020,6.0,Romance
+2578,2020-02,CSP41,female,18-29,2020,4.6,Sci-Fi & Fantasy
+2579,2020-02,PTF60,female,18-29,2020,5.2,History
+2580,2020-02,FJU28,female,30-49,2020,10.2,Podcasts
+2581,2020-02,ZEA77,male,50-64,2020,7.8,Romance
+2582,2020-02,XRU31,male,18-29,2020,8.4,Podcasts
+2583,2020-02,ZPH80,female,18-29,2020,6.2,Romance
+2584,2020-02,BGD46,female,65+,2020,6.6,Sci-Fi & Fantasy
+2585,2020-02,NOD59,male,50-64,2020,7.5,Sci-Fi & Fantasy
+2586,2020-02,IUQ76,female,18-29,2020,5.2,Sci-Fi & Fantasy
+2587,2020-02,LGC11,female,65+,2020,2.9,Podcasts
+2588,2020-02,TVV83,female,18-29,2020,5.3,Romance
+2589,2020-02,RVD02,male,18-29,2020,2.1,Comedy
+2590,2020-02,XUD81,female,65+,2020,4.9,Sci-Fi & Fantasy
+2591,2020-02,GEW80,male,18-29,2020,8.2,Romance
+2592,2020-02,AUK56,male,50-64,2020,2.3,Business
+2593,2020-02,OEI57,male,18-29,2020,5.0,Sci-Fi & Fantasy
+2594,2020-02,IAD29,female,18-29,2020,4.9,Mysteries/Thrillers
+2595,2020-02,LMK88,male,50-64,2020,5.8,Romance
+2596,2020-02,ERO80,male,65+,2020,5.1,Non-fiction
+2597,2020-02,PEO84,male,30-49,2020,3.7,Non-fiction
+2598,2020-02,NJY80,female,18-29,2020,2.1,Mysteries/Thrillers
+2599,2020-02,BNI06,male,18-29,2020,5.5,Business
+2600,2020-03,BCK19,male,18-29,2020,6.8,Sci-Fi & Fantasy
+2601,2020-03,ANI81,female,18-29,2020,5.4,Non-fiction
+2602,2020-03,IIG04,female,18-29,2020,3.5,Podcasts
+2603,2020-03,CPB34,male,30-49,2020,6.7,Podcasts
+2604,2020-03,XCD70,female,30-49,2020,6.2,Romance
+2605,2020-03,XOG87,male,30-49,2020,5.9,Mysteries/Thrillers
+2606,2020-03,IUF65,male,50-64,2020,5.3,Romance
+2607,2020-03,VIK75,male,30-49,2020,4.0,Business
+2608,2020-03,RQR84,male,18-29,2020,3.3,Business
+2609,2020-03,RJA71,male,50-64,2020,7.4,Mysteries/Thrillers
+2610,2020-03,VXR13,male,30-49,2020,6.6,Non-fiction
+2611,2020-03,KBL53,female,50-64,2020,7.2,Comedy
+2612,2020-03,ECQ03,male,30-49,2020,6.8,Sci-Fi & Fantasy
+2613,2020-03,FNS96,female,30-49,2020,4.3,Podcasts
+2614,2020-03,ZZQ24,male,30-49,2020,6.9,Sci-Fi & Fantasy
+2615,2020-03,EZL70,male,18-29,2020,7.7,Mysteries/Thrillers
+2616,2020-03,DFG32,female,30-49,2020,4.7,Comedy
+2617,2020-03,LKC03,female,30-49,2020,3.9,Business
+2618,2020-03,CLA50,female,65+,2020,4.6,Podcasts
+2619,2020-03,SKZ24,female,30-49,2020,2.9,Non-fiction
+2620,2020-03,TIJ69,male,30-49,2020,5.7,Mysteries/Thrillers
+2621,2020-03,WKS63,female,30-49,2020,8.2,Comedy
+2622,2020-03,GCW05,male,30-49,2020,5.9,Business
+2623,2020-03,NDR97,male,30-49,2020,8.8,Sci-Fi & Fantasy
+2624,2020-03,KDZ56,male,18-29,2020,5.0,Mysteries/Thrillers
+2625,2020-03,UKB16,female,30-49,2020,7.4,Non-fiction
+2626,2020-03,JWT96,female,30-49,2020,2.1,Comedy
+2627,2020-03,HUA58,male,50-64,2020,4.5,Sci-Fi & Fantasy
+2628,2020-03,NDN53,male,30-49,2020,5.4,Business
+2629,2020-03,XIH52,female,18-29,2020,6.9,Mysteries/Thrillers
+2630,2020-03,IKY01,male,18-29,2020,5.1,Romance
+2631,2020-03,FZX15,female,50-64,2020,6.1,Mysteries/Thrillers
+2632,2020-03,CII59,male,18-29,2020,3.5,Business
+2633,2020-03,VNU47,female,30-49,2020,5.1,Romance
+2634,2020-03,UGV54,female,18-29,2020,1.8,Sci-Fi & Fantasy
+2635,2020-03,KFN16,male,50-64,2020,8.7,Mysteries/Thrillers
+2636,2020-03,XUP46,female,65+,2020,4.9,Sci-Fi & Fantasy
+2637,2020-03,DBW36,female,18-29,2020,8.9,History
+2638,2020-03,KJU37,male,65+,2020,5.9,Business
+2639,2020-03,VEZ04,female,18-29,2020,4.4,Podcasts
+2640,2020-03,NVE53,female,50-64,2020,4.7,Mysteries/Thrillers
+2641,2020-03,XDG83,male,50-64,2020,4.2,Mysteries/Thrillers
+2642,2020-03,YBK15,male,50-64,2020,7.4,Business
+2643,2020-03,ZIQ24,male,18-29,2020,1.6,Podcasts
+2644,2020-03,OGR59,male,18-29,2020,5.6,Non-fiction
+2645,2020-03,HYE06,male,30-49,2020,5.4,Sci-Fi & Fantasy
+2646,2020-03,TMB91,male,18-29,2020,5.8,Business
+2647,2020-03,WXF84,female,50-64,2020,3.4,Romance
+2648,2020-03,XXU25,male,18-29,2020,4.6,Comedy
+2649,2020-03,ZIK60,male,18-29,2020,6.6,Podcasts
+2650,2020-03,GEK46,male,30-49,2020,7.8,Business
+2651,2020-03,MEB57,male,30-49,2020,5.2,Podcasts
+2652,2020-03,YVH84,male,50-64,2020,6.0,Mysteries/Thrillers
+2653,2020-03,HCL52,male,18-29,2020,2.2,Non-fiction
+2654,2020-03,FYB94,male,30-49,2020,5.9,History
+2655,2020-03,UCO74,female,50-64,2020,3.0,Sci-Fi & Fantasy
+2656,2020-03,JMF22,male,65+,2020,6.2,Mysteries/Thrillers
+2657,2020-03,AXB90,female,18-29,2020,6.5,Mysteries/Thrillers
+2658,2020-03,ROB97,male,50-64,2020,5.8,Romance
+2659,2020-03,WLH11,female,18-29,2020,8.9,Sci-Fi & Fantasy
+2660,2020-03,RVF03,female,50-64,2020,2.6,Mysteries/Thrillers
+2661,2020-03,DFF64,female,18-29,2020,5.8,Business
+2662,2020-03,OKZ40,female,18-29,2020,7.3,Romance
+2663,2020-03,DTX14,female,18-29,2020,4.7,Mysteries/Thrillers
+2664,2020-03,WOA52,male,30-49,2020,5.9,Comedy
+2665,2020-03,FYC87,male,18-29,2020,6.3,Comedy
+2666,2020-03,PIC69,male,30-49,2020,7.2,Mysteries/Thrillers
+2667,2020-03,EDM80,female,30-49,2020,8.5,Podcasts
+2668,2020-03,UCA14,male,50-64,2020,7.5,Romance
+2669,2020-03,YRB14,female,18-29,2020,8.9,Business
+2670,2020-03,CRJ98,female,65+,2020,6.3,Romance
+2671,2020-03,VGL60,male,30-49,2020,5.0,Comedy
+2672,2020-03,AIK78,male,50-64,2020,7.6,Mysteries/Thrillers
+2673,2020-03,BBY21,female,50-64,2020,5.9,Podcasts
+2674,2020-03,UUP78,male,18-29,2020,4.9,History
+2675,2020-03,WGK93,female,18-29,2020,5.4,Mysteries/Thrillers
+2676,2020-03,QWW63,female,30-49,2020,3.2,Non-fiction
+2677,2020-03,RAJ76,male,30-49,2020,7.2,Mysteries/Thrillers
+2678,2020-03,CSP41,female,18-29,2020,8.6,Mysteries/Thrillers
+2679,2020-03,PTF60,female,18-29,2020,2.1,Romance
+2680,2020-03,FJU28,female,30-49,2020,7.7,Mysteries/Thrillers
+2681,2020-03,ZEA77,male,50-64,2020,5.6,Sci-Fi & Fantasy
+2682,2020-03,XRU31,male,18-29,2020,4.7,Mysteries/Thrillers
+2683,2020-03,ZPH80,female,18-29,2020,6.3,Romance
+2684,2020-03,BGD46,female,65+,2020,5.4,Comedy
+2685,2020-03,NOD59,male,50-64,2020,1.0,Romance
+2686,2020-03,IUQ76,female,18-29,2020,7.1,Romance
+2687,2020-03,LGC11,female,65+,2020,4.3,Sci-Fi & Fantasy
+2688,2020-03,TVV83,female,18-29,2020,5.5,Non-fiction
+2689,2020-03,RVD02,male,18-29,2020,3.9,Mysteries/Thrillers
+2690,2020-03,XUD81,female,65+,2020,3.1,Podcasts
+2691,2020-03,GEW80,male,18-29,2020,3.8,Romance
+2692,2020-03,AUK56,male,50-64,2020,6.1,Sci-Fi & Fantasy
+2693,2020-03,OEI57,male,18-29,2020,4.9,Romance
+2694,2020-03,IAD29,female,18-29,2020,4.6,Romance
+2695,2020-03,LMK88,male,50-64,2020,8.3,Comedy
+2696,2020-03,ERO80,male,65+,2020,8.4,Mysteries/Thrillers
+2697,2020-03,PEO84,male,30-49,2020,3.7,Podcasts
+2698,2020-03,NJY80,female,18-29,2020,7.0,Comedy
+2699,2020-03,BNI06,male,18-29,2020,5.1,History
+2700,2020-04,BCK19,male,18-29,2020,2.9,Mysteries/Thrillers
+2701,2020-04,ANI81,female,18-29,2020,2.1,Sci-Fi & Fantasy
+2702,2020-04,IIG04,female,18-29,2020,4.7,Business
+2703,2020-04,CPB34,male,30-49,2020,5.6,Mysteries/Thrillers
+2704,2020-04,XCD70,female,30-49,2020,7.6,Podcasts
+2705,2020-04,XOG87,male,30-49,2020,7.4,Sci-Fi & Fantasy
+2706,2020-04,IUF65,male,50-64,2020,1.9,Romance
+2707,2020-04,VIK75,male,30-49,2020,5.4,Sci-Fi & Fantasy
+2708,2020-04,RQR84,male,18-29,2020,5.5,Sci-Fi & Fantasy
+2709,2020-04,RJA71,male,50-64,2020,5.0,Mysteries/Thrillers
+2710,2020-04,VXR13,male,30-49,2020,5.0,Mysteries/Thrillers
+2711,2020-04,KBL53,female,50-64,2020,3.3,Business
+2712,2020-04,ECQ03,male,30-49,2020,4.0,Sci-Fi & Fantasy
+2713,2020-04,FNS96,female,30-49,2020,6.5,Mysteries/Thrillers
+2714,2020-04,ZZQ24,male,30-49,2020,5.8,Business
+2715,2020-04,EZL70,male,18-29,2020,9.2,Mysteries/Thrillers
+2716,2020-04,DFG32,female,30-49,2020,5.4,Mysteries/Thrillers
+2717,2020-04,LKC03,female,30-49,2020,2.3,Comedy
+2718,2020-04,CLA50,female,65+,2020,4.3,Business
+2719,2020-04,SKZ24,female,30-49,2020,5.6,Business
+2720,2020-04,TIJ69,male,30-49,2020,3.9,Sci-Fi & Fantasy
+2721,2020-04,WKS63,female,30-49,2020,6.2,Business
+2722,2020-04,GCW05,male,30-49,2020,5.0,Comedy
+2723,2020-04,NDR97,male,30-49,2020,7.4,Business
+2724,2020-04,KDZ56,male,18-29,2020,4.6,Romance
+2725,2020-04,UKB16,female,30-49,2020,9.1,Business
+2726,2020-04,JWT96,female,30-49,2020,6.5,Non-fiction
+2727,2020-04,HUA58,male,50-64,2020,3.9,Business
+2728,2020-04,NDN53,male,30-49,2020,2.7,Sci-Fi & Fantasy
+2729,2020-04,XIH52,female,18-29,2020,6.1,History
+2730,2020-04,IKY01,male,18-29,2020,1.7,Romance
+2731,2020-04,FZX15,female,50-64,2020,5.5,Mysteries/Thrillers
+2732,2020-04,CII59,male,18-29,2020,3.8,Podcasts
+2733,2020-04,VNU47,female,30-49,2020,9.9,Romance
+2734,2020-04,UGV54,female,18-29,2020,2.7,Mysteries/Thrillers
+2735,2020-04,KFN16,male,50-64,2020,3.8,Mysteries/Thrillers
+2736,2020-04,XUP46,female,65+,2020,2.2,Mysteries/Thrillers
+2737,2020-04,DBW36,female,18-29,2020,4.7,Mysteries/Thrillers
+2738,2020-04,KJU37,male,65+,2020,2.6,Sci-Fi & Fantasy
+2739,2020-04,VEZ04,female,18-29,2020,6.9,Mysteries/Thrillers
+2740,2020-04,NVE53,female,50-64,2020,6.2,Business
+2741,2020-04,XDG83,male,50-64,2020,3.8,Business
+2742,2020-04,YBK15,male,50-64,2020,3.1,Romance
+2743,2020-04,ZIQ24,male,18-29,2020,3.5,Podcasts
+2744,2020-04,OGR59,male,18-29,2020,0.9,Non-fiction
+2745,2020-04,HYE06,male,30-49,2020,6.4,Mysteries/Thrillers
+2746,2020-04,TMB91,male,18-29,2020,6.7,Mysteries/Thrillers
+2747,2020-04,WXF84,female,50-64,2020,10.3,Non-fiction
+2748,2020-04,XXU25,male,18-29,2020,10.0,Comedy
+2749,2020-04,ZIK60,male,18-29,2020,9.8,Romance
+2750,2020-04,GEK46,male,30-49,2020,3.8,Romance
+2751,2020-04,MEB57,male,30-49,2020,5.8,Non-fiction
+2752,2020-04,YVH84,male,50-64,2020,7.6,Non-fiction
+2753,2020-04,HCL52,male,18-29,2020,9.6,Romance
+2754,2020-04,FYB94,male,30-49,2020,5.6,Business
+2755,2020-04,UCO74,female,50-64,2020,7.0,Sci-Fi & Fantasy
+2756,2020-04,JMF22,male,65+,2020,8.5,Non-fiction
+2757,2020-04,AXB90,female,18-29,2020,2.9,Sci-Fi & Fantasy
+2758,2020-04,ROB97,male,50-64,2020,3.6,Podcasts
+2759,2020-04,WLH11,female,18-29,2020,6.6,Podcasts
+2760,2020-04,RVF03,female,50-64,2020,3.7,Non-fiction
+2761,2020-04,DFF64,female,18-29,2020,4.6,Mysteries/Thrillers
+2762,2020-04,OKZ40,female,18-29,2020,6.5,Sci-Fi & Fantasy
+2763,2020-04,DTX14,female,18-29,2020,6.7,Sci-Fi & Fantasy
+2764,2020-04,WOA52,male,30-49,2020,7.2,Mysteries/Thrillers
+2765,2020-04,FYC87,male,18-29,2020,5.5,Podcasts
+2766,2020-04,PIC69,male,30-49,2020,5.5,Non-fiction
+2767,2020-04,EDM80,female,30-49,2020,4.9,Non-fiction
+2768,2020-04,UCA14,male,50-64,2020,4.0,Business
+2769,2020-04,YRB14,female,18-29,2020,1.6,Sci-Fi & Fantasy
+2770,2020-04,CRJ98,female,65+,2020,4.6,Mysteries/Thrillers
+2771,2020-04,VGL60,male,30-49,2020,4.7,Comedy
+2772,2020-04,AIK78,male,50-64,2020,7.4,Non-fiction
+2773,2020-04,BBY21,female,50-64,2020,5.2,Business
+2774,2020-04,UUP78,male,18-29,2020,7.8,Mysteries/Thrillers
+2775,2020-04,WGK93,female,18-29,2020,7.1,Mysteries/Thrillers
+2776,2020-04,QWW63,female,30-49,2020,4.6,Non-fiction
+2777,2020-04,RAJ76,male,30-49,2020,6.3,Mysteries/Thrillers
+2778,2020-04,CSP41,female,18-29,2020,0.9,Non-fiction
+2779,2020-04,PTF60,female,18-29,2020,1.0,Mysteries/Thrillers
+2780,2020-04,FJU28,female,30-49,2020,6.1,Mysteries/Thrillers
+2781,2020-04,ZEA77,male,50-64,2020,3.8,Podcasts
+2782,2020-04,XRU31,male,18-29,2020,4.9,Sci-Fi & Fantasy
+2783,2020-04,ZPH80,female,18-29,2020,8.5,Podcasts
+2784,2020-04,BGD46,female,65+,2020,2.8,Romance
+2785,2020-04,NOD59,male,50-64,2020,5.2,Mysteries/Thrillers
+2786,2020-04,IUQ76,female,18-29,2020,7.2,Mysteries/Thrillers
+2787,2020-04,LGC11,female,65+,2020,9.5,Comedy
+2788,2020-04,TVV83,female,18-29,2020,4.3,Non-fiction
+2789,2020-04,RVD02,male,18-29,2020,6.4,Sci-Fi & Fantasy
+2790,2020-04,XUD81,female,65+,2020,4.4,Sci-Fi & Fantasy
+2791,2020-04,GEW80,male,18-29,2020,2.2,Mysteries/Thrillers
+2792,2020-04,AUK56,male,50-64,2020,4.0,Comedy
+2793,2020-04,OEI57,male,18-29,2020,11.4,Business
+2794,2020-04,IAD29,female,18-29,2020,6.3,Sci-Fi & Fantasy
+2795,2020-04,LMK88,male,50-64,2020,3.8,Sci-Fi & Fantasy
+2796,2020-04,ERO80,male,65+,2020,4.6,Mysteries/Thrillers
+2797,2020-04,PEO84,male,30-49,2020,5.5,Podcasts
+2798,2020-04,NJY80,female,18-29,2020,2.1,Sci-Fi & Fantasy
+2799,2020-04,BNI06,male,18-29,2020,9.5,Romance
+2800,2020-05,BCK19,male,18-29,2020,2.4,Romance
+2801,2020-05,ANI81,female,18-29,2020,3.0,Romance
+2802,2020-05,IIG04,female,18-29,2020,6.4,Podcasts
+2803,2020-05,CPB34,male,30-49,2020,4.9,Sci-Fi & Fantasy
+2804,2020-05,XCD70,female,30-49,2020,2.8,Business
+2805,2020-05,XOG87,male,30-49,2020,4.5,Mysteries/Thrillers
+2806,2020-05,IUF65,male,50-64,2020,7.6,Romance
+2807,2020-05,VIK75,male,30-49,2020,10.6,Romance
+2808,2020-05,RQR84,male,18-29,2020,8.6,Business
+2809,2020-05,RJA71,male,50-64,2020,5.9,Podcasts
+2810,2020-05,VXR13,male,30-49,2020,5.2,Romance
+2811,2020-05,KBL53,female,50-64,2020,7.4,Podcasts
+2812,2020-05,ECQ03,male,30-49,2020,3.9,Romance
+2813,2020-05,FNS96,female,30-49,2020,8.6,Business
+2814,2020-05,ZZQ24,male,30-49,2020,4.8,Podcasts
+2815,2020-05,EZL70,male,18-29,2020,4.8,Romance
+2816,2020-05,DFG32,female,30-49,2020,5.9,Business
+2817,2020-05,LKC03,female,30-49,2020,8.0,Mysteries/Thrillers
+2818,2020-05,CLA50,female,65+,2020,5.3,Sci-Fi & Fantasy
+2819,2020-05,SKZ24,female,30-49,2020,6.6,Sci-Fi & Fantasy
+2820,2020-05,TIJ69,male,30-49,2020,3.7,Mysteries/Thrillers
+2821,2020-05,WKS63,female,30-49,2020,7.7,Non-fiction
+2822,2020-05,GCW05,male,30-49,2020,1.1,Romance
+2823,2020-05,NDR97,male,30-49,2020,6.7,Romance
+2824,2020-05,KDZ56,male,18-29,2020,5.9,Comedy
+2825,2020-05,UKB16,female,30-49,2020,2.6,Mysteries/Thrillers
+2826,2020-05,JWT96,female,30-49,2020,9.1,Non-fiction
+2827,2020-05,HUA58,male,50-64,2020,5.5,Podcasts
+2828,2020-05,NDN53,male,30-49,2020,9.7,Podcasts
+2829,2020-05,XIH52,female,18-29,2020,3.2,Comedy
+2830,2020-05,IKY01,male,18-29,2020,4.3,Sci-Fi & Fantasy
+2831,2020-05,FZX15,female,50-64,2020,6.7,Podcasts
+2832,2020-05,CII59,male,18-29,2020,6.1,Mysteries/Thrillers
+2833,2020-05,VNU47,female,30-49,2020,3.0,Business
+2834,2020-05,UGV54,female,18-29,2020,1.9,Comedy
+2835,2020-05,KFN16,male,50-64,2020,4.5,Mysteries/Thrillers
+2836,2020-05,XUP46,female,65+,2020,5.9,Children
+2837,2020-05,DBW36,female,18-29,2020,6.9,Sci-Fi & Fantasy
+2838,2020-05,KJU37,male,65+,2020,7.1,Mysteries/Thrillers
+2839,2020-05,VEZ04,female,18-29,2020,6.4,Romance
+2840,2020-05,NVE53,female,50-64,2020,3.0,Mysteries/Thrillers
+2841,2020-05,XDG83,male,50-64,2020,6.3,Podcasts
+2842,2020-05,YBK15,male,50-64,2020,4.2,Mysteries/Thrillers
+2843,2020-05,ZIQ24,male,18-29,2020,6.0,Podcasts
+2844,2020-05,OGR59,male,18-29,2020,7.3,Podcasts
+2845,2020-05,HYE06,male,30-49,2020,5.5,Non-fiction
+2846,2020-05,TMB91,male,18-29,2020,2.5,History
+2847,2020-05,WXF84,female,50-64,2020,6.1,Children
+2848,2020-05,XXU25,male,18-29,2020,7.6,Romance
+2849,2020-05,ZIK60,male,18-29,2020,5.0,Sci-Fi & Fantasy
+2850,2020-05,GEK46,male,30-49,2020,4.0,Mysteries/Thrillers
+2851,2020-05,MEB57,male,30-49,2020,4.1,Mysteries/Thrillers
+2852,2020-05,YVH84,male,50-64,2020,8.0,Comedy
+2853,2020-05,HCL52,male,18-29,2020,7.6,Sci-Fi & Fantasy
+2854,2020-05,FYB94,male,30-49,2020,4.0,Comedy
+2855,2020-05,UCO74,female,50-64,2020,5.7,Business
+2856,2020-05,JMF22,male,65+,2020,6.8,Romance
+2857,2020-05,AXB90,female,18-29,2020,3.3,Business
+2858,2020-05,ROB97,male,50-64,2020,5.4,Romance
+2859,2020-05,WLH11,female,18-29,2020,10.5,Mysteries/Thrillers
+2860,2020-05,RVF03,female,50-64,2020,5.7,Romance
+2861,2020-05,DFF64,female,18-29,2020,6.7,Mysteries/Thrillers
+2862,2020-05,OKZ40,female,18-29,2020,5.3,Non-fiction
+2863,2020-05,DTX14,female,18-29,2020,5.9,Romance
+2864,2020-05,WOA52,male,30-49,2020,5.4,Comedy
+2865,2020-05,FYC87,male,18-29,2020,5.5,History
+2866,2020-05,PIC69,male,30-49,2020,1.4,Business
+2867,2020-05,EDM80,female,30-49,2020,7.3,Non-fiction
+2868,2020-05,UCA14,male,50-64,2020,7.9,Comedy
+2869,2020-05,YRB14,female,18-29,2020,7.7,Romance
+2870,2020-05,CRJ98,female,65+,2020,6.3,Mysteries/Thrillers
+2871,2020-05,VGL60,male,30-49,2020,8.7,Podcasts
+2872,2020-05,AIK78,male,50-64,2020,5.4,Romance
+2873,2020-05,BBY21,female,50-64,2020,8.5,Business
+2874,2020-05,UUP78,male,18-29,2020,7.1,Non-fiction
+2875,2020-05,WGK93,female,18-29,2020,7.5,Mysteries/Thrillers
+2876,2020-05,QWW63,female,30-49,2020,6.9,Mysteries/Thrillers
+2877,2020-05,RAJ76,male,30-49,2020,7.2,Mysteries/Thrillers
+2878,2020-05,CSP41,female,18-29,2020,5.4,Sci-Fi & Fantasy
+2879,2020-05,PTF60,female,18-29,2020,2.7,Romance
+2880,2020-05,FJU28,female,30-49,2020,6.0,Mysteries/Thrillers
+2881,2020-05,ZEA77,male,50-64,2020,9.5,Romance
+2882,2020-05,XRU31,male,18-29,2020,5.4,Mysteries/Thrillers
+2883,2020-05,ZPH80,female,18-29,2020,9.8,Mysteries/Thrillers
+2884,2020-05,BGD46,female,65+,2020,4.7,Comedy
+2885,2020-05,NOD59,male,50-64,2020,10.0,Sci-Fi & Fantasy
+2886,2020-05,IUQ76,female,18-29,2020,2.9,Sci-Fi & Fantasy
+2887,2020-05,LGC11,female,65+,2020,7.8,Mysteries/Thrillers
+2888,2020-05,TVV83,female,18-29,2020,7.0,Sci-Fi & Fantasy
+2889,2020-05,RVD02,male,18-29,2020,6.9,History
+2890,2020-05,XUD81,female,65+,2020,5.4,Mysteries/Thrillers
+2891,2020-05,GEW80,male,18-29,2020,6.7,Sci-Fi & Fantasy
+2892,2020-05,AUK56,male,50-64,2020,4.4,Podcasts
+2893,2020-05,OEI57,male,18-29,2020,5.6,Romance
+2894,2020-05,IAD29,female,18-29,2020,8.0,Children
+2895,2020-05,LMK88,male,50-64,2020,4.6,Podcasts
+2896,2020-05,ERO80,male,65+,2020,6.9,Mysteries/Thrillers
+2897,2020-05,PEO84,male,30-49,2020,4.7,Mysteries/Thrillers
+2898,2020-05,NJY80,female,18-29,2020,5.7,Podcasts
+2899,2020-05,BNI06,male,18-29,2020,4.7,Podcasts
+2900,2020-06,BCK19,male,18-29,2020,2.9,History
+2901,2020-06,ANI81,female,18-29,2020,5.4,Sci-Fi & Fantasy
+2902,2020-06,IIG04,female,18-29,2020,3.0,Business
+2903,2020-06,CPB34,male,30-49,2020,3.8,Romance
+2904,2020-06,XCD70,female,30-49,2020,4.4,Romance
+2905,2020-06,XOG87,male,30-49,2020,2.7,Podcasts
+2906,2020-06,IUF65,male,50-64,2020,6.2,Podcasts
+2907,2020-06,VIK75,male,30-49,2020,8.9,Mysteries/Thrillers
+2908,2020-06,RQR84,male,18-29,2020,6.4,Romance
+2909,2020-06,RJA71,male,50-64,2020,9.4,Podcasts
+2910,2020-06,VXR13,male,30-49,2020,1.5,Romance
+2911,2020-06,KBL53,female,50-64,2020,6.2,Mysteries/Thrillers
+2912,2020-06,ECQ03,male,30-49,2020,3.7,Mysteries/Thrillers
+2913,2020-06,FNS96,female,30-49,2020,6.2,History
+2914,2020-06,ZZQ24,male,30-49,2020,7.7,Comedy
+2915,2020-06,EZL70,male,18-29,2020,7.8,Podcasts
+2916,2020-06,DFG32,female,30-49,2020,4.2,Non-fiction
+2917,2020-06,LKC03,female,30-49,2020,6.5,Mysteries/Thrillers
+2918,2020-06,CLA50,female,65+,2020,3.4,Mysteries/Thrillers
+2919,2020-06,SKZ24,female,30-49,2020,2.4,Mysteries/Thrillers
+2920,2020-06,TIJ69,male,30-49,2020,5.5,Sci-Fi & Fantasy
+2921,2020-06,WKS63,female,30-49,2020,4.2,Mysteries/Thrillers
+2922,2020-06,GCW05,male,30-49,2020,3.3,Non-fiction
+2923,2020-06,NDR97,male,30-49,2020,5.2,Sci-Fi & Fantasy
+2924,2020-06,KDZ56,male,18-29,2020,4.8,Sci-Fi & Fantasy
+2925,2020-06,UKB16,female,30-49,2020,9.2,Comedy
+2926,2020-06,JWT96,female,30-49,2020,5.8,Sci-Fi & Fantasy
+2927,2020-06,HUA58,male,50-64,2020,4.2,Sci-Fi & Fantasy
+2928,2020-06,NDN53,male,30-49,2020,3.5,Romance
+2929,2020-06,XIH52,female,18-29,2020,7.5,Romance
+2930,2020-06,IKY01,male,18-29,2020,5.3,Non-fiction
+2931,2020-06,FZX15,female,50-64,2020,2.6,Comedy
+2932,2020-06,CII59,male,18-29,2020,5.8,Romance
+2933,2020-06,VNU47,female,30-49,2020,7.1,Sci-Fi & Fantasy
+2934,2020-06,UGV54,female,18-29,2020,7.6,Sci-Fi & Fantasy
+2935,2020-06,KFN16,male,50-64,2020,7.4,Mysteries/Thrillers
+2936,2020-06,XUP46,female,65+,2020,6.4,History
+2937,2020-06,DBW36,female,18-29,2020,6.1,Sci-Fi & Fantasy
+2938,2020-06,KJU37,male,65+,2020,6.1,Mysteries/Thrillers
+2939,2020-06,VEZ04,female,18-29,2020,2.6,Sci-Fi & Fantasy
+2940,2020-06,NVE53,female,50-64,2020,6.2,Romance
+2941,2020-06,XDG83,male,50-64,2020,5.7,Romance
+2942,2020-06,YBK15,male,50-64,2020,3.0,Comedy
+2943,2020-06,ZIQ24,male,18-29,2020,2.7,Comedy
+2944,2020-06,OGR59,male,18-29,2020,5.8,Mysteries/Thrillers
+2945,2020-06,HYE06,male,30-49,2020,5.2,Romance
+2946,2020-06,TMB91,male,18-29,2020,4.9,History
+2947,2020-06,WXF84,female,50-64,2020,6.9,Romance
+2948,2020-06,XXU25,male,18-29,2020,7.8,Non-fiction
+2949,2020-06,ZIK60,male,18-29,2020,5.4,Romance
+2950,2020-06,GEK46,male,30-49,2020,7.7,Non-fiction
+2951,2020-06,MEB57,male,30-49,2020,3.8,Podcasts
+2952,2020-06,YVH84,male,50-64,2020,5.3,History
+2953,2020-06,HCL52,male,18-29,2020,3.0,Romance
+2954,2020-06,FYB94,male,30-49,2020,3.8,Business
+2955,2020-06,UCO74,female,50-64,2020,8.4,Mysteries/Thrillers
+2956,2020-06,JMF22,male,65+,2020,3.2,Non-fiction
+2957,2020-06,AXB90,female,18-29,2020,3.9,Mysteries/Thrillers
+2958,2020-06,ROB97,male,50-64,2020,6.2,Mysteries/Thrillers
+2959,2020-06,WLH11,female,18-29,2020,5.2,Podcasts
+2960,2020-06,RVF03,female,50-64,2020,1.8,Podcasts
+2961,2020-06,DFF64,female,18-29,2020,5.1,Mysteries/Thrillers
+2962,2020-06,OKZ40,female,18-29,2020,5.1,Sci-Fi & Fantasy
+2963,2020-06,DTX14,female,18-29,2020,8.1,Sci-Fi & Fantasy
+2964,2020-06,WOA52,male,30-49,2020,5.1,Business
+2965,2020-06,FYC87,male,18-29,2020,3.8,Mysteries/Thrillers
+2966,2020-06,PIC69,male,30-49,2020,8.4,Mysteries/Thrillers
+2967,2020-06,EDM80,female,30-49,2020,2.3,Romance
+2968,2020-06,UCA14,male,50-64,2020,8.0,Business
+2969,2020-06,YRB14,female,18-29,2020,5.1,Podcasts
+2970,2020-06,CRJ98,female,65+,2020,5.2,Mysteries/Thrillers
+2971,2020-06,VGL60,male,30-49,2020,3.5,Mysteries/Thrillers
+2972,2020-06,AIK78,male,50-64,2020,4.6,Comedy
+2973,2020-06,BBY21,female,50-64,2020,1.9,Non-fiction
+2974,2020-06,UUP78,male,18-29,2020,5.4,Sci-Fi & Fantasy
+2975,2020-06,WGK93,female,18-29,2020,2.8,Romance
+2976,2020-06,QWW63,female,30-49,2020,4.8,Comedy
+2977,2020-06,RAJ76,male,30-49,2020,8.1,Non-fiction
+2978,2020-06,CSP41,female,18-29,2020,2.1,Podcasts
+2979,2020-06,PTF60,female,18-29,2020,5.0,Mysteries/Thrillers
+2980,2020-06,FJU28,female,30-49,2020,4.8,Comedy
+2981,2020-06,ZEA77,male,50-64,2020,6.5,History
+2982,2020-06,XRU31,male,18-29,2020,5.9,Sci-Fi & Fantasy
+2983,2020-06,ZPH80,female,18-29,2020,8.9,Mysteries/Thrillers
+2984,2020-06,BGD46,female,65+,2020,7.7,Mysteries/Thrillers
+2985,2020-06,NOD59,male,50-64,2020,8.1,Romance
+2986,2020-06,IUQ76,female,18-29,2020,3.7,Comedy
+2987,2020-06,LGC11,female,65+,2020,2.2,History
+2988,2020-06,TVV83,female,18-29,2020,7.8,Sci-Fi & Fantasy
+2989,2020-06,RVD02,male,18-29,2020,5.2,Podcasts
+2990,2020-06,XUD81,female,65+,2020,8.2,Romance
+2991,2020-06,GEW80,male,18-29,2020,5.6,Sci-Fi & Fantasy
+2992,2020-06,AUK56,male,50-64,2020,5.5,Mysteries/Thrillers
+2993,2020-06,OEI57,male,18-29,2020,5.5,Podcasts
+2994,2020-06,IAD29,female,18-29,2020,1.7,Children
+2995,2020-06,LMK88,male,50-64,2020,5.7,Non-fiction
+2996,2020-06,ERO80,male,65+,2020,4.3,Business
+2997,2020-06,PEO84,male,30-49,2020,8.8,Romance
+2998,2020-06,NJY80,female,18-29,2020,5.6,History
+2999,2020-06,BNI06,male,18-29,2020,3.6,Mysteries/Thrillers
+3000,2020-07,BCK19,male,18-29,2020,5.5,Sci-Fi & Fantasy
+3001,2020-07,ANI81,female,18-29,2020,5.3,Mysteries/Thrillers
+3002,2020-07,IIG04,female,18-29,2020,2.6,History
+3003,2020-07,CPB34,male,30-49,2020,4.7,Business
+3004,2020-07,XCD70,female,30-49,2020,3.2,Sci-Fi & Fantasy
+3005,2020-07,XOG87,male,30-49,2020,7.3,Non-fiction
+3006,2020-07,IUF65,male,50-64,2020,4.6,Comedy
+3007,2020-07,VIK75,male,30-49,2020,6.1,Sci-Fi & Fantasy
+3008,2020-07,RQR84,male,18-29,2020,4.3,Comedy
+3009,2020-07,RJA71,male,50-64,2020,4.9,Romance
+3010,2020-07,VXR13,male,30-49,2020,4.7,Mysteries/Thrillers
+3011,2020-07,KBL53,female,50-64,2020,4.3,Mysteries/Thrillers
+3012,2020-07,ECQ03,male,30-49,2020,5.8,History
+3013,2020-07,FNS96,female,30-49,2020,6.4,Sci-Fi & Fantasy
+3014,2020-07,ZZQ24,male,30-49,2020,3.7,History
+3015,2020-07,EZL70,male,18-29,2020,3.9,Romance
+3016,2020-07,DFG32,female,30-49,2020,6.4,Romance
+3017,2020-07,LKC03,female,30-49,2020,7.5,Mysteries/Thrillers
+3018,2020-07,CLA50,female,65+,2020,7.6,Non-fiction
+3019,2020-07,SKZ24,female,30-49,2020,4.2,Mysteries/Thrillers
+3020,2020-07,TIJ69,male,30-49,2020,6.8,Romance
+3021,2020-07,WKS63,female,30-49,2020,7.2,Comedy
+3022,2020-07,GCW05,male,30-49,2020,4.8,Sci-Fi & Fantasy
+3023,2020-07,NDR97,male,30-49,2020,6.5,Mysteries/Thrillers
+3024,2020-07,KDZ56,male,18-29,2020,5.1,Sci-Fi & Fantasy
+3025,2020-07,UKB16,female,30-49,2020,5.9,History
+3026,2020-07,JWT96,female,30-49,2020,5.2,Mysteries/Thrillers
+3027,2020-07,HUA58,male,50-64,2020,3.7,Romance
+3028,2020-07,NDN53,male,30-49,2020,7.4,Sci-Fi & Fantasy
+3029,2020-07,XIH52,female,18-29,2020,8.2,Podcasts
+3030,2020-07,IKY01,male,18-29,2020,4.2,Mysteries/Thrillers
+3031,2020-07,FZX15,female,50-64,2020,2.7,Mysteries/Thrillers
+3032,2020-07,CII59,male,18-29,2020,3.3,Sci-Fi & Fantasy
+3033,2020-07,VNU47,female,30-49,2020,5.7,Non-fiction
+3034,2020-07,UGV54,female,18-29,2020,2.6,Romance
+3035,2020-07,KFN16,male,50-64,2020,10.7,Comedy
+3036,2020-07,XUP46,female,65+,2020,6.3,Romance
+3037,2020-07,DBW36,female,18-29,2020,3.5,Romance
+3038,2020-07,KJU37,male,65+,2020,4.8,Sci-Fi & Fantasy
+3039,2020-07,VEZ04,female,18-29,2020,2.1,Sci-Fi & Fantasy
+3040,2020-07,NVE53,female,50-64,2020,6.1,Comedy
+3041,2020-07,XDG83,male,50-64,2020,8.4,Sci-Fi & Fantasy
+3042,2020-07,YBK15,male,50-64,2020,2.7,Mysteries/Thrillers
+3043,2020-07,ZIQ24,male,18-29,2020,9.2,Podcasts
+3044,2020-07,OGR59,male,18-29,2020,3.3,Mysteries/Thrillers
+3045,2020-07,HYE06,male,30-49,2020,1.4,Sci-Fi & Fantasy
+3046,2020-07,TMB91,male,18-29,2020,2.7,Sci-Fi & Fantasy
+3047,2020-07,WXF84,female,50-64,2020,2.6,Sci-Fi & Fantasy
+3048,2020-07,XXU25,male,18-29,2020,5.5,Mysteries/Thrillers
+3049,2020-07,ZIK60,male,18-29,2020,3.5,Podcasts
+3050,2020-07,GEK46,male,30-49,2020,7.0,Mysteries/Thrillers
+3051,2020-07,MEB57,male,30-49,2020,7.3,Non-fiction
+3052,2020-07,YVH84,male,50-64,2020,4.5,Romance
+3053,2020-07,HCL52,male,18-29,2020,8.6,Business
+3054,2020-07,FYB94,male,30-49,2020,3.2,Mysteries/Thrillers
+3055,2020-07,UCO74,female,50-64,2020,9.0,Romance
+3056,2020-07,JMF22,male,65+,2020,4.2,Sci-Fi & Fantasy
+3057,2020-07,AXB90,female,18-29,2020,6.9,Sci-Fi & Fantasy
+3058,2020-07,ROB97,male,50-64,2020,6.1,Mysteries/Thrillers
+3059,2020-07,WLH11,female,18-29,2020,3.5,Comedy
+3060,2020-07,RVF03,female,50-64,2020,5.5,Sci-Fi & Fantasy
+3061,2020-07,DFF64,female,18-29,2020,3.1,Sci-Fi & Fantasy
+3062,2020-07,OKZ40,female,18-29,2020,7.3,Mysteries/Thrillers
+3063,2020-07,DTX14,female,18-29,2020,6.7,Business
+3064,2020-07,WOA52,male,30-49,2020,8.0,Non-fiction
+3065,2020-07,FYC87,male,18-29,2020,5.8,Podcasts
+3066,2020-07,PIC69,male,30-49,2020,4.7,Romance
+3067,2020-07,EDM80,female,30-49,2020,4.9,Mysteries/Thrillers
+3068,2020-07,UCA14,male,50-64,2020,5.0,Comedy
+3069,2020-07,YRB14,female,18-29,2020,2.9,Romance
+3070,2020-07,CRJ98,female,65+,2020,5.9,Mysteries/Thrillers
+3071,2020-07,VGL60,male,30-49,2020,1.9,Children
+3072,2020-07,AIK78,male,50-64,2020,3.2,Mysteries/Thrillers
+3073,2020-07,BBY21,female,50-64,2020,6.3,Podcasts
+3074,2020-07,UUP78,male,18-29,2020,6.1,Business
+3075,2020-07,WGK93,female,18-29,2020,7.7,Non-fiction
+3076,2020-07,QWW63,female,30-49,2020,6.4,Business
+3077,2020-07,RAJ76,male,30-49,2020,3.1,Business
+3078,2020-07,CSP41,female,18-29,2020,6.9,Sci-Fi & Fantasy
+3079,2020-07,PTF60,female,18-29,2020,4.5,Sci-Fi & Fantasy
+3080,2020-07,FJU28,female,30-49,2020,8.3,Business
+3081,2020-07,ZEA77,male,50-64,2020,5.6,Podcasts
+3082,2020-07,XRU31,male,18-29,2020,7.7,Business
+3083,2020-07,ZPH80,female,18-29,2020,7.6,Romance
+3084,2020-07,BGD46,female,65+,2020,2.9,Comedy
+3085,2020-07,NOD59,male,50-64,2020,11.9,Podcasts
+3086,2020-07,IUQ76,female,18-29,2020,2.2,Mysteries/Thrillers
+3087,2020-07,LGC11,female,65+,2020,5.8,Romance
+3088,2020-07,TVV83,female,18-29,2020,5.3,Comedy
+3089,2020-07,RVD02,male,18-29,2020,5.5,Non-fiction
+3090,2020-07,XUD81,female,65+,2020,6.8,Sci-Fi & Fantasy
+3091,2020-07,GEW80,male,18-29,2020,2.0,Mysteries/Thrillers
+3092,2020-07,AUK56,male,50-64,2020,4.7,Mysteries/Thrillers
+3093,2020-07,OEI57,male,18-29,2020,4.6,Sci-Fi & Fantasy
+3094,2020-07,IAD29,female,18-29,2020,5.7,Comedy
+3095,2020-07,LMK88,male,50-64,2020,7.3,Romance
+3096,2020-07,ERO80,male,65+,2020,7.9,Romance
+3097,2020-07,PEO84,male,30-49,2020,2.9,History
+3098,2020-07,NJY80,female,18-29,2020,6.1,Mysteries/Thrillers
+3099,2020-07,BNI06,male,18-29,2020,7.0,Business
+3100,2020-08,BCK19,male,18-29,2020,4.5,Business
+3101,2020-08,ANI81,female,18-29,2020,1.8,Romance
+3102,2020-08,IIG04,female,18-29,2020,6.7,Romance
+3103,2020-08,CPB34,male,30-49,2020,5.8,Sci-Fi & Fantasy
+3104,2020-08,XCD70,female,30-49,2020,5.0,Romance
+3105,2020-08,XOG87,male,30-49,2020,4.2,Podcasts
+3106,2020-08,IUF65,male,50-64,2020,4.7,Non-fiction
+3107,2020-08,VIK75,male,30-49,2020,6.1,Children
+3108,2020-08,RQR84,male,18-29,2020,4.6,Podcasts
+3109,2020-08,RJA71,male,50-64,2020,7.2,Podcasts
+3110,2020-08,VXR13,male,30-49,2020,5.1,Mysteries/Thrillers
+3111,2020-08,KBL53,female,50-64,2020,6.6,Mysteries/Thrillers
+3112,2020-08,ECQ03,male,30-49,2020,6.5,Mysteries/Thrillers
+3113,2020-08,FNS96,female,30-49,2020,5.1,Sci-Fi & Fantasy
+3114,2020-08,ZZQ24,male,30-49,2020,4.9,Mysteries/Thrillers
+3115,2020-08,EZL70,male,18-29,2020,8.5,Romance
+3116,2020-08,DFG32,female,30-49,2020,7.2,Mysteries/Thrillers
+3117,2020-08,LKC03,female,30-49,2020,6.8,Business
+3118,2020-08,CLA50,female,65+,2020,4.3,Comedy
+3119,2020-08,SKZ24,female,30-49,2020,4.0,Comedy
+3120,2020-08,TIJ69,male,30-49,2020,2.6,Non-fiction
+3121,2020-08,WKS63,female,30-49,2020,9.2,Podcasts
+3122,2020-08,GCW05,male,30-49,2020,4.3,Children
+3123,2020-08,NDR97,male,30-49,2020,6.5,History
+3124,2020-08,KDZ56,male,18-29,2020,3.6,Mysteries/Thrillers
+3125,2020-08,UKB16,female,30-49,2020,5.4,Business
+3126,2020-08,JWT96,female,30-49,2020,8.3,Mysteries/Thrillers
+3127,2020-08,HUA58,male,50-64,2020,8.3,Comedy
+3128,2020-08,NDN53,male,30-49,2020,4.2,Mysteries/Thrillers
+3129,2020-08,XIH52,female,18-29,2020,6.2,History
+3130,2020-08,IKY01,male,18-29,2020,7.4,Sci-Fi & Fantasy
+3131,2020-08,FZX15,female,50-64,2020,1.6,Romance
+3132,2020-08,CII59,male,18-29,2020,4.2,Children
+3133,2020-08,VNU47,female,30-49,2020,1.7,Sci-Fi & Fantasy
+3134,2020-08,UGV54,female,18-29,2020,8.3,Business
+3135,2020-08,KFN16,male,50-64,2020,7.7,Non-fiction
+3136,2020-08,XUP46,female,65+,2020,4.0,Comedy
+3137,2020-08,DBW36,female,18-29,2020,3.7,History
+3138,2020-08,KJU37,male,65+,2020,5.4,Romance
+3139,2020-08,VEZ04,female,18-29,2020,5.9,Mysteries/Thrillers
+3140,2020-08,NVE53,female,50-64,2020,7.6,Business
+3141,2020-08,XDG83,male,50-64,2020,1.2,Podcasts
+3142,2020-08,YBK15,male,50-64,2020,4.6,Romance
+3143,2020-08,ZIQ24,male,18-29,2020,6.9,Romance
+3144,2020-08,OGR59,male,18-29,2020,6.5,Mysteries/Thrillers
+3145,2020-08,HYE06,male,30-49,2020,6.3,Mysteries/Thrillers
+3146,2020-08,TMB91,male,18-29,2020,6.1,Romance
+3147,2020-08,WXF84,female,50-64,2020,8.0,Sci-Fi & Fantasy
+3148,2020-08,XXU25,male,18-29,2020,3.7,Mysteries/Thrillers
+3149,2020-08,ZIK60,male,18-29,2020,7.9,Sci-Fi & Fantasy
+3150,2020-08,GEK46,male,30-49,2020,5.6,Sci-Fi & Fantasy
+3151,2020-08,MEB57,male,30-49,2020,6.3,Sci-Fi & Fantasy
+3152,2020-08,YVH84,male,50-64,2020,6.0,Podcasts
+3153,2020-08,HCL52,male,18-29,2020,6.5,Mysteries/Thrillers
+3154,2020-08,FYB94,male,30-49,2020,2.4,Mysteries/Thrillers
+3155,2020-08,UCO74,female,50-64,2020,7.1,Mysteries/Thrillers
+3156,2020-08,JMF22,male,65+,2020,5.4,Mysteries/Thrillers
+3157,2020-08,AXB90,female,18-29,2020,5.6,Podcasts
+3158,2020-08,ROB97,male,50-64,2020,7.7,Mysteries/Thrillers
+3159,2020-08,WLH11,female,18-29,2020,5.2,Sci-Fi & Fantasy
+3160,2020-08,RVF03,female,50-64,2020,7.6,Romance
+3161,2020-08,DFF64,female,18-29,2020,6.6,Podcasts
+3162,2020-08,OKZ40,female,18-29,2020,5.5,Romance
+3163,2020-08,DTX14,female,18-29,2020,4.0,Non-fiction
+3164,2020-08,WOA52,male,30-49,2020,7.1,Non-fiction
+3165,2020-08,FYC87,male,18-29,2020,5.1,Mysteries/Thrillers
+3166,2020-08,PIC69,male,30-49,2020,4.7,Non-fiction
+3167,2020-08,EDM80,female,30-49,2020,6.6,Podcasts
+3168,2020-08,UCA14,male,50-64,2020,3.3,Business
+3169,2020-08,YRB14,female,18-29,2020,5.9,Sci-Fi & Fantasy
+3170,2020-08,CRJ98,female,65+,2020,3.5,Mysteries/Thrillers
+3171,2020-08,VGL60,male,30-49,2020,5.2,Comedy
+3172,2020-08,AIK78,male,50-64,2020,6.4,Podcasts
+3173,2020-08,BBY21,female,50-64,2020,6.2,Sci-Fi & Fantasy
+3174,2020-08,UUP78,male,18-29,2020,3.6,Romance
+3175,2020-08,WGK93,female,18-29,2020,6.5,Business
+3176,2020-08,QWW63,female,30-49,2020,10.4,Romance
+3177,2020-08,RAJ76,male,30-49,2020,4.3,Mysteries/Thrillers
+3178,2020-08,CSP41,female,18-29,2020,4.7,Podcasts
+3179,2020-08,PTF60,female,18-29,2020,7.3,Mysteries/Thrillers
+3180,2020-08,FJU28,female,30-49,2020,5.6,Mysteries/Thrillers
+3181,2020-08,ZEA77,male,50-64,2020,4.6,Sci-Fi & Fantasy
+3182,2020-08,XRU31,male,18-29,2020,10.1,Mysteries/Thrillers
+3183,2020-08,ZPH80,female,18-29,2020,6.2,Mysteries/Thrillers
+3184,2020-08,BGD46,female,65+,2020,9.0,Mysteries/Thrillers
+3185,2020-08,NOD59,male,50-64,2020,3.4,Mysteries/Thrillers
+3186,2020-08,IUQ76,female,18-29,2020,4.7,Sci-Fi & Fantasy
+3187,2020-08,LGC11,female,65+,2020,5.5,Mysteries/Thrillers
+3188,2020-08,TVV83,female,18-29,2020,5.0,Romance
+3189,2020-08,RVD02,male,18-29,2020,4.6,Podcasts
+3190,2020-08,XUD81,female,65+,2020,7.3,Children
+3191,2020-08,GEW80,male,18-29,2020,3.7,Romance
+3192,2020-08,AUK56,male,50-64,2020,4.3,Comedy
+3193,2020-08,OEI57,male,18-29,2020,6.6,Romance
+3194,2020-08,IAD29,female,18-29,2020,3.7,Comedy
+3195,2020-08,LMK88,male,50-64,2020,6.4,Non-fiction
+3196,2020-08,ERO80,male,65+,2020,4.7,Sci-Fi & Fantasy
+3197,2020-08,PEO84,male,30-49,2020,4.3,Mysteries/Thrillers
+3198,2020-08,NJY80,female,18-29,2020,6.6,Sci-Fi & Fantasy
+3199,2020-08,BNI06,male,18-29,2020,8.5,Mysteries/Thrillers
+3200,2020-09,BCK19,male,18-29,2020,6.2,Podcasts
+3201,2020-09,ANI81,female,18-29,2020,5.7,Non-fiction
+3202,2020-09,IIG04,female,18-29,2020,8.0,Mysteries/Thrillers
+3203,2020-09,CPB34,male,30-49,2020,2.1,Children
+3204,2020-09,XCD70,female,30-49,2020,7.2,Comedy
+3205,2020-09,XOG87,male,30-49,2020,6.8,Children
+3206,2020-09,IUF65,male,50-64,2020,6.5,Sci-Fi & Fantasy
+3207,2020-09,VIK75,male,30-49,2020,7.7,Romance
+3208,2020-09,RQR84,male,18-29,2020,5.3,Business
+3209,2020-09,RJA71,male,50-64,2020,4.4,Mysteries/Thrillers
+3210,2020-09,VXR13,male,30-49,2020,7.9,Non-fiction
+3211,2020-09,KBL53,female,50-64,2020,8.6,Sci-Fi & Fantasy
+3212,2020-09,ECQ03,male,30-49,2020,7.4,Sci-Fi & Fantasy
+3213,2020-09,FNS96,female,30-49,2020,5.5,Business
+3214,2020-09,ZZQ24,male,30-49,2020,4.0,Sci-Fi & Fantasy
+3215,2020-09,EZL70,male,18-29,2020,3.8,Romance
+3216,2020-09,DFG32,female,30-49,2020,3.6,Sci-Fi & Fantasy
+3217,2020-09,LKC03,female,30-49,2020,5.9,Mysteries/Thrillers
+3218,2020-09,CLA50,female,65+,2020,5.3,Comedy
+3219,2020-09,SKZ24,female,30-49,2020,4.9,Romance
+3220,2020-09,TIJ69,male,30-49,2020,5.2,Podcasts
+3221,2020-09,WKS63,female,30-49,2020,5.8,Sci-Fi & Fantasy
+3222,2020-09,GCW05,male,30-49,2020,6.6,Comedy
+3223,2020-09,NDR97,male,30-49,2020,6.2,Comedy
+3224,2020-09,KDZ56,male,18-29,2020,9.0,Business
+3225,2020-09,UKB16,female,30-49,2020,8.1,Business
+3226,2020-09,JWT96,female,30-49,2020,6.0,Mysteries/Thrillers
+3227,2020-09,HUA58,male,50-64,2020,2.9,Comedy
+3228,2020-09,NDN53,male,30-49,2020,2.0,Romance
+3229,2020-09,XIH52,female,18-29,2020,3.0,Podcasts
+3230,2020-09,IKY01,male,18-29,2020,8.6,Mysteries/Thrillers
+3231,2020-09,FZX15,female,50-64,2020,5.1,Comedy
+3232,2020-09,CII59,male,18-29,2020,3.1,Mysteries/Thrillers
+3233,2020-09,VNU47,female,30-49,2020,2.6,Non-fiction
+3234,2020-09,UGV54,female,18-29,2020,6.4,Mysteries/Thrillers
+3235,2020-09,KFN16,male,50-64,2020,7.2,Mysteries/Thrillers
+3236,2020-09,XUP46,female,65+,2020,2.0,History
+3237,2020-09,DBW36,female,18-29,2020,6.2,Mysteries/Thrillers
+3238,2020-09,KJU37,male,65+,2020,3.0,Podcasts
+3239,2020-09,VEZ04,female,18-29,2020,5.1,Sci-Fi & Fantasy
+3240,2020-09,NVE53,female,50-64,2020,5.4,Romance
+3241,2020-09,XDG83,male,50-64,2020,3.9,Podcasts
+3242,2020-09,YBK15,male,50-64,2020,8.2,Romance
+3243,2020-09,ZIQ24,male,18-29,2020,3.7,Podcasts
+3244,2020-09,OGR59,male,18-29,2020,4.4,Children
+3245,2020-09,HYE06,male,30-49,2020,4.0,Comedy
+3246,2020-09,TMB91,male,18-29,2020,4.6,Podcasts
+3247,2020-09,WXF84,female,50-64,2020,5.1,Non-fiction
+3248,2020-09,XXU25,male,18-29,2020,7.0,Podcasts
+3249,2020-09,ZIK60,male,18-29,2020,4.3,Business
+3250,2020-09,GEK46,male,30-49,2020,3.7,Business
+3251,2020-09,MEB57,male,30-49,2020,4.2,Podcasts
+3252,2020-09,YVH84,male,50-64,2020,5.8,Romance
+3253,2020-09,HCL52,male,18-29,2020,3.9,Sci-Fi & Fantasy
+3254,2020-09,FYB94,male,30-49,2020,4.4,History
+3255,2020-09,UCO74,female,50-64,2020,2.5,Romance
+3256,2020-09,JMF22,male,65+,2020,2.0,Romance
+3257,2020-09,AXB90,female,18-29,2020,4.9,Mysteries/Thrillers
+3258,2020-09,ROB97,male,50-64,2020,7.5,History
+3259,2020-09,WLH11,female,18-29,2020,6.1,Podcasts
+3260,2020-09,RVF03,female,50-64,2020,3.9,Sci-Fi & Fantasy
+3261,2020-09,DFF64,female,18-29,2020,6.5,Comedy
+3262,2020-09,OKZ40,female,18-29,2020,2.4,Podcasts
+3263,2020-09,DTX14,female,18-29,2020,3.7,Business
+3264,2020-09,WOA52,male,30-49,2020,2.4,Mysteries/Thrillers
+3265,2020-09,FYC87,male,18-29,2020,4.9,Sci-Fi & Fantasy
+3266,2020-09,PIC69,male,30-49,2020,1.7,Sci-Fi & Fantasy
+3267,2020-09,EDM80,female,30-49,2020,4.9,Sci-Fi & Fantasy
+3268,2020-09,UCA14,male,50-64,2020,3.9,Non-fiction
+3269,2020-09,YRB14,female,18-29,2020,7.5,Podcasts
+3270,2020-09,CRJ98,female,65+,2020,6.5,Podcasts
+3271,2020-09,VGL60,male,30-49,2020,7.0,Comedy
+3272,2020-09,AIK78,male,50-64,2020,5.3,History
+3273,2020-09,BBY21,female,50-64,2020,7.3,Mysteries/Thrillers
+3274,2020-09,UUP78,male,18-29,2020,5.9,History
+3275,2020-09,WGK93,female,18-29,2020,8.3,Romance
+3276,2020-09,QWW63,female,30-49,2020,5.1,Non-fiction
+3277,2020-09,RAJ76,male,30-49,2020,6.0,History
+3278,2020-09,CSP41,female,18-29,2020,5.4,Mysteries/Thrillers
+3279,2020-09,PTF60,female,18-29,2020,8.1,Romance
+3280,2020-09,FJU28,female,30-49,2020,7.2,Romance
+3281,2020-09,ZEA77,male,50-64,2020,4.3,Comedy
+3282,2020-09,XRU31,male,18-29,2020,5.7,Mysteries/Thrillers
+3283,2020-09,ZPH80,female,18-29,2020,6.8,Sci-Fi & Fantasy
+3284,2020-09,BGD46,female,65+,2020,3.7,Podcasts
+3285,2020-09,NOD59,male,50-64,2020,1.2,Podcasts
+3286,2020-09,IUQ76,female,18-29,2020,10.3,Business
+3287,2020-09,LGC11,female,65+,2020,8.5,Romance
+3288,2020-09,TVV83,female,18-29,2020,2.5,Business
+3289,2020-09,RVD02,male,18-29,2020,7.7,Sci-Fi & Fantasy
+3290,2020-09,XUD81,female,65+,2020,6.7,Podcasts
+3291,2020-09,GEW80,male,18-29,2020,5.3,Sci-Fi & Fantasy
+3292,2020-09,AUK56,male,50-64,2020,4.6,Sci-Fi & Fantasy
+3293,2020-09,OEI57,male,18-29,2020,2.8,Sci-Fi & Fantasy
+3294,2020-09,IAD29,female,18-29,2020,3.4,Sci-Fi & Fantasy
+3295,2020-09,LMK88,male,50-64,2020,7.4,Romance
+3296,2020-09,ERO80,male,65+,2020,7.7,Romance
+3297,2020-09,PEO84,male,30-49,2020,7.3,Romance
+3298,2020-09,NJY80,female,18-29,2020,1.3,Romance
+3299,2020-09,BNI06,male,18-29,2020,2.6,Children
+3300,2020-10,BCK19,male,18-29,2020,7.1,Sci-Fi & Fantasy
+3301,2020-10,ANI81,female,18-29,2020,7.0,Romance
+3302,2020-10,IIG04,female,18-29,2020,4.6,Podcasts
+3303,2020-10,CPB34,male,30-49,2020,8.1,Sci-Fi & Fantasy
+3304,2020-10,XCD70,female,30-49,2020,8.1,Podcasts
+3305,2020-10,XOG87,male,30-49,2020,5.5,Podcasts
+3306,2020-10,IUF65,male,50-64,2020,6.1,Romance
+3307,2020-10,VIK75,male,30-49,2020,6.6,Romance
+3308,2020-10,RQR84,male,18-29,2020,3.1,Sci-Fi & Fantasy
+3309,2020-10,RJA71,male,50-64,2020,4.1,Business
+3310,2020-10,VXR13,male,30-49,2020,4.6,Comedy
+3311,2020-10,KBL53,female,50-64,2020,4.5,Comedy
+3312,2020-10,ECQ03,male,30-49,2020,4.6,Comedy
+3313,2020-10,FNS96,female,30-49,2020,6.0,Non-fiction
+3314,2020-10,ZZQ24,male,30-49,2020,2.7,Non-fiction
+3315,2020-10,EZL70,male,18-29,2020,5.8,Mysteries/Thrillers
+3316,2020-10,DFG32,female,30-49,2020,4.8,Business
+3317,2020-10,LKC03,female,30-49,2020,5.2,Podcasts
+3318,2020-10,CLA50,female,65+,2020,8.9,Sci-Fi & Fantasy
+3319,2020-10,SKZ24,female,30-49,2020,8.1,Sci-Fi & Fantasy
+3320,2020-10,TIJ69,male,30-49,2020,3.6,Comedy
+3321,2020-10,WKS63,female,30-49,2020,3.7,Sci-Fi & Fantasy
+3322,2020-10,GCW05,male,30-49,2020,4.6,Sci-Fi & Fantasy
+3323,2020-10,NDR97,male,30-49,2020,5.7,Non-fiction
+3324,2020-10,KDZ56,male,18-29,2020,6.8,Children
+3325,2020-10,UKB16,female,30-49,2020,3.7,Comedy
+3326,2020-10,JWT96,female,30-49,2020,8.0,History
+3327,2020-10,HUA58,male,50-64,2020,5.2,Sci-Fi & Fantasy
+3328,2020-10,NDN53,male,30-49,2020,7.1,Mysteries/Thrillers
+3329,2020-10,XIH52,female,18-29,2020,6.1,Business
+3330,2020-10,IKY01,male,18-29,2020,6.2,Mysteries/Thrillers
+3331,2020-10,FZX15,female,50-64,2020,4.9,Romance
+3332,2020-10,CII59,male,18-29,2020,8.5,Podcasts
+3333,2020-10,VNU47,female,30-49,2020,7.2,Comedy
+3334,2020-10,UGV54,female,18-29,2020,4.0,Romance
+3335,2020-10,KFN16,male,50-64,2020,5.4,Sci-Fi & Fantasy
+3336,2020-10,XUP46,female,65+,2020,2.1,Romance
+3337,2020-10,DBW36,female,18-29,2020,5.1,Business
+3338,2020-10,KJU37,male,65+,2020,5.6,Sci-Fi & Fantasy
+3339,2020-10,VEZ04,female,18-29,2020,2.6,History
+3340,2020-10,NVE53,female,50-64,2020,3.4,Mysteries/Thrillers
+3341,2020-10,XDG83,male,50-64,2020,7.7,Business
+3342,2020-10,YBK15,male,50-64,2020,4.7,Business
+3343,2020-10,ZIQ24,male,18-29,2020,3.2,History
+3344,2020-10,OGR59,male,18-29,2020,5.7,History
+3345,2020-10,HYE06,male,30-49,2020,3.9,Sci-Fi & Fantasy
+3346,2020-10,TMB91,male,18-29,2020,3.4,Sci-Fi & Fantasy
+3347,2020-10,WXF84,female,50-64,2020,5.6,Mysteries/Thrillers
+3348,2020-10,XXU25,male,18-29,2020,6.1,Sci-Fi & Fantasy
+3349,2020-10,ZIK60,male,18-29,2020,5.4,Non-fiction
+3350,2020-10,GEK46,male,30-49,2020,1.7,Sci-Fi & Fantasy
+3351,2020-10,MEB57,male,30-49,2020,8.3,Mysteries/Thrillers
+3352,2020-10,YVH84,male,50-64,2020,10.1,Sci-Fi & Fantasy
+3353,2020-10,HCL52,male,18-29,2020,6.3,Comedy
+3354,2020-10,FYB94,male,30-49,2020,6.6,Non-fiction
+3355,2020-10,UCO74,female,50-64,2020,6.6,Business
+3356,2020-10,JMF22,male,65+,2020,5.1,Sci-Fi & Fantasy
+3357,2020-10,AXB90,female,18-29,2020,6.3,Mysteries/Thrillers
+3358,2020-10,ROB97,male,50-64,2020,3.9,Podcasts
+3359,2020-10,WLH11,female,18-29,2020,6.2,Romance
+3360,2020-10,RVF03,female,50-64,2020,6.8,Mysteries/Thrillers
+3361,2020-10,DFF64,female,18-29,2020,2.6,Non-fiction
+3362,2020-10,OKZ40,female,18-29,2020,4.5,Sci-Fi & Fantasy
+3363,2020-10,DTX14,female,18-29,2020,8.1,Podcasts
+3364,2020-10,WOA52,male,30-49,2020,2.5,Non-fiction
+3365,2020-10,FYC87,male,18-29,2020,5.4,Romance
+3366,2020-10,PIC69,male,30-49,2020,8.7,Sci-Fi & Fantasy
+3367,2020-10,EDM80,female,30-49,2020,6.1,Sci-Fi & Fantasy
+3368,2020-10,UCA14,male,50-64,2020,3.2,History
+3369,2020-10,YRB14,female,18-29,2020,5.1,Podcasts
+3370,2020-10,CRJ98,female,65+,2020,6.8,Comedy
+3371,2020-10,VGL60,male,30-49,2020,8.0,Sci-Fi & Fantasy
+3372,2020-10,AIK78,male,50-64,2020,3.8,Comedy
+3373,2020-10,BBY21,female,50-64,2020,3.6,Sci-Fi & Fantasy
+3374,2020-10,UUP78,male,18-29,2020,3.2,Sci-Fi & Fantasy
+3375,2020-10,WGK93,female,18-29,2020,4.7,Comedy
+3376,2020-10,QWW63,female,30-49,2020,4.5,Business
+3377,2020-10,RAJ76,male,30-49,2020,4.1,Mysteries/Thrillers
+3378,2020-10,CSP41,female,18-29,2020,8.6,Sci-Fi & Fantasy
+3379,2020-10,PTF60,female,18-29,2020,6.8,Sci-Fi & Fantasy
+3380,2020-10,FJU28,female,30-49,2020,5.5,Sci-Fi & Fantasy
+3381,2020-10,ZEA77,male,50-64,2020,6.2,Business
+3382,2020-10,XRU31,male,18-29,2020,6.5,Mysteries/Thrillers
+3383,2020-10,ZPH80,female,18-29,2020,5.7,Sci-Fi & Fantasy
+3384,2020-10,BGD46,female,65+,2020,8.4,Non-fiction
+3385,2020-10,NOD59,male,50-64,2020,8.1,Sci-Fi & Fantasy
+3386,2020-10,IUQ76,female,18-29,2020,6.3,Sci-Fi & Fantasy
+3387,2020-10,LGC11,female,65+,2020,5.6,Business
+3388,2020-10,TVV83,female,18-29,2020,3.1,Sci-Fi & Fantasy
+3389,2020-10,RVD02,male,18-29,2020,8.5,Children
+3390,2020-10,XUD81,female,65+,2020,9.7,Podcasts
+3391,2020-10,GEW80,male,18-29,2020,5.7,Sci-Fi & Fantasy
+3392,2020-10,AUK56,male,50-64,2020,7.2,Romance
+3393,2020-10,OEI57,male,18-29,2020,4.0,Mysteries/Thrillers
+3394,2020-10,IAD29,female,18-29,2020,5.8,Sci-Fi & Fantasy
+3395,2020-10,LMK88,male,50-64,2020,5.9,Non-fiction
+3396,2020-10,ERO80,male,65+,2020,1.5,Children
+3397,2020-10,PEO84,male,30-49,2020,6.4,Podcasts
+3398,2020-10,NJY80,female,18-29,2020,2.8,Mysteries/Thrillers
+3399,2020-10,BNI06,male,18-29,2020,2.7,Sci-Fi & Fantasy
+3400,2020-11,BCK19,male,18-29,2020,5.8,Non-fiction
+3401,2020-11,ANI81,female,18-29,2020,3.1,Comedy
+3402,2020-11,IIG04,female,18-29,2020,2.4,Sci-Fi & Fantasy
+3403,2020-11,CPB34,male,30-49,2020,4.0,Business
+3404,2020-11,XCD70,female,30-49,2020,4.7,Non-fiction
+3405,2020-11,XOG87,male,30-49,2020,7.5,Comedy
+3406,2020-11,IUF65,male,50-64,2020,5.8,Sci-Fi & Fantasy
+3407,2020-11,VIK75,male,30-49,2020,4.3,Mysteries/Thrillers
+3408,2020-11,RQR84,male,18-29,2020,4.2,Podcasts
+3409,2020-11,RJA71,male,50-64,2020,3.9,Non-fiction
+3410,2020-11,VXR13,male,30-49,2020,4.6,Non-fiction
+3411,2020-11,KBL53,female,50-64,2020,4.5,Romance
+3412,2020-11,ECQ03,male,30-49,2020,6.2,Sci-Fi & Fantasy
+3413,2020-11,FNS96,female,30-49,2020,6.2,Romance
+3414,2020-11,ZZQ24,male,30-49,2020,4.4,Business
+3415,2020-11,EZL70,male,18-29,2020,9.2,Mysteries/Thrillers
+3416,2020-11,DFG32,female,30-49,2020,5.9,Comedy
+3417,2020-11,LKC03,female,30-49,2020,1.8,Non-fiction
+3418,2020-11,CLA50,female,65+,2020,7.7,Mysteries/Thrillers
+3419,2020-11,SKZ24,female,30-49,2020,8.0,Mysteries/Thrillers
+3420,2020-11,TIJ69,male,30-49,2020,6.6,Comedy
+3421,2020-11,WKS63,female,30-49,2020,4.0,Business
+3422,2020-11,GCW05,male,30-49,2020,7.4,Business
+3423,2020-11,NDR97,male,30-49,2020,5.9,Comedy
+3424,2020-11,KDZ56,male,18-29,2020,6.8,Podcasts
+3425,2020-11,UKB16,female,30-49,2020,5.2,Business
+3426,2020-11,JWT96,female,30-49,2020,5.7,Business
+3427,2020-11,HUA58,male,50-64,2020,5.0,Comedy
+3428,2020-11,NDN53,male,30-49,2020,4.7,Sci-Fi & Fantasy
+3429,2020-11,XIH52,female,18-29,2020,6.3,Comedy
+3430,2020-11,IKY01,male,18-29,2020,7.3,Romance
+3431,2020-11,FZX15,female,50-64,2020,9.0,Business
+3432,2020-11,CII59,male,18-29,2020,5.8,Comedy
+3433,2020-11,VNU47,female,30-49,2020,7.2,Mysteries/Thrillers
+3434,2020-11,UGV54,female,18-29,2020,5.8,Sci-Fi & Fantasy
+3435,2020-11,KFN16,male,50-64,2020,4.1,Business
+3436,2020-11,XUP46,female,65+,2020,8.5,Mysteries/Thrillers
+3437,2020-11,DBW36,female,18-29,2020,6.7,Mysteries/Thrillers
+3438,2020-11,KJU37,male,65+,2020,5.6,Romance
+3439,2020-11,VEZ04,female,18-29,2020,5.5,Mysteries/Thrillers
+3440,2020-11,NVE53,female,50-64,2020,3.5,Non-fiction
+3441,2020-11,XDG83,male,50-64,2020,7.9,Mysteries/Thrillers
+3442,2020-11,YBK15,male,50-64,2020,3.1,Mysteries/Thrillers
+3443,2020-11,ZIQ24,male,18-29,2020,6.2,Sci-Fi & Fantasy
+3444,2020-11,OGR59,male,18-29,2020,8.2,Podcasts
+3445,2020-11,HYE06,male,30-49,2020,5.2,Children
+3446,2020-11,TMB91,male,18-29,2020,7.5,Mysteries/Thrillers
+3447,2020-11,WXF84,female,50-64,2020,6.8,Mysteries/Thrillers
+3448,2020-11,XXU25,male,18-29,2020,4.3,Mysteries/Thrillers
+3449,2020-11,ZIK60,male,18-29,2020,3.4,Mysteries/Thrillers
+3450,2020-11,GEK46,male,30-49,2020,5.0,Sci-Fi & Fantasy
+3451,2020-11,MEB57,male,30-49,2020,5.8,Sci-Fi & Fantasy
+3452,2020-11,YVH84,male,50-64,2020,6.0,Mysteries/Thrillers
+3453,2020-11,HCL52,male,18-29,2020,10.1,History
+3454,2020-11,FYB94,male,30-49,2020,3.1,Non-fiction
+3455,2020-11,UCO74,female,50-64,2020,6.5,Non-fiction
+3456,2020-11,JMF22,male,65+,2020,7.1,Mysteries/Thrillers
+3457,2020-11,AXB90,female,18-29,2020,4.2,Podcasts
+3458,2020-11,ROB97,male,50-64,2020,1.5,Comedy
+3459,2020-11,WLH11,female,18-29,2020,1.9,Mysteries/Thrillers
+3460,2020-11,RVF03,female,50-64,2020,5.2,Sci-Fi & Fantasy
+3461,2020-11,DFF64,female,18-29,2020,8.0,Sci-Fi & Fantasy
+3462,2020-11,OKZ40,female,18-29,2020,6.7,Mysteries/Thrillers
+3463,2020-11,DTX14,female,18-29,2020,6.5,Sci-Fi & Fantasy
+3464,2020-11,WOA52,male,30-49,2020,2.6,Mysteries/Thrillers
+3465,2020-11,FYC87,male,18-29,2020,7.0,Mysteries/Thrillers
+3466,2020-11,PIC69,male,30-49,2020,7.4,Romance
+3467,2020-11,EDM80,female,30-49,2020,4.7,Business
+3468,2020-11,UCA14,male,50-64,2020,3.7,Podcasts
+3469,2020-11,YRB14,female,18-29,2020,5.9,Romance
+3470,2020-11,CRJ98,female,65+,2020,5.5,Mysteries/Thrillers
+3471,2020-11,VGL60,male,30-49,2020,2.8,Podcasts
+3472,2020-11,AIK78,male,50-64,2020,4.4,Non-fiction
+3473,2020-11,BBY21,female,50-64,2020,2.1,Business
+3474,2020-11,UUP78,male,18-29,2020,5.4,Mysteries/Thrillers
+3475,2020-11,WGK93,female,18-29,2020,5.9,Non-fiction
+3476,2020-11,QWW63,female,30-49,2020,6.0,Podcasts
+3477,2020-11,RAJ76,male,30-49,2020,7.4,Children
+3478,2020-11,CSP41,female,18-29,2020,3.0,Romance
+3479,2020-11,PTF60,female,18-29,2020,7.7,Non-fiction
+3480,2020-11,FJU28,female,30-49,2020,8.0,Romance
+3481,2020-11,ZEA77,male,50-64,2020,3.5,Podcasts
+3482,2020-11,XRU31,male,18-29,2020,4.8,Comedy
+3483,2020-11,ZPH80,female,18-29,2020,3.6,Mysteries/Thrillers
+3484,2020-11,BGD46,female,65+,2020,8.1,Mysteries/Thrillers
+3485,2020-11,NOD59,male,50-64,2020,5.0,Mysteries/Thrillers
+3486,2020-11,IUQ76,female,18-29,2020,4.1,Children
+3487,2020-11,LGC11,female,65+,2020,8.3,Romance
+3488,2020-11,TVV83,female,18-29,2020,3.5,Romance
+3489,2020-11,RVD02,male,18-29,2020,7.3,Sci-Fi & Fantasy
+3490,2020-11,XUD81,female,65+,2020,7.6,Podcasts
+3491,2020-11,GEW80,male,18-29,2020,2.7,Podcasts
+3492,2020-11,AUK56,male,50-64,2020,3.9,Sci-Fi & Fantasy
+3493,2020-11,OEI57,male,18-29,2020,3.8,Mysteries/Thrillers
+3494,2020-11,IAD29,female,18-29,2020,3.2,Business
+3495,2020-11,LMK88,male,50-64,2020,5.5,Comedy
+3496,2020-11,ERO80,male,65+,2020,4.3,Sci-Fi & Fantasy
+3497,2020-11,PEO84,male,30-49,2020,4.8,History
+3498,2020-11,NJY80,female,18-29,2020,5.0,Romance
+3499,2020-11,BNI06,male,18-29,2020,6.2,Podcasts
+3500,2020-12,BCK19,male,18-29,2020,6.2,Mysteries/Thrillers
+3501,2020-12,ANI81,female,18-29,2020,7.0,Mysteries/Thrillers
+3502,2020-12,IIG04,female,18-29,2020,4.4,Mysteries/Thrillers
+3503,2020-12,CPB34,male,30-49,2020,10.2,Mysteries/Thrillers
+3504,2020-12,XCD70,female,30-49,2020,4.4,Non-fiction
+3505,2020-12,XOG87,male,30-49,2020,6.0,Comedy
+3506,2020-12,IUF65,male,50-64,2020,2.0,Mysteries/Thrillers
+3507,2020-12,VIK75,male,30-49,2020,6.0,Comedy
+3508,2020-12,RQR84,male,18-29,2020,3.2,Podcasts
+3509,2020-12,RJA71,male,50-64,2020,5.8,Comedy
+3510,2020-12,VXR13,male,30-49,2020,3.1,Romance
+3511,2020-12,KBL53,female,50-64,2020,5.5,Mysteries/Thrillers
+3512,2020-12,ECQ03,male,30-49,2020,5.2,Sci-Fi & Fantasy
+3513,2020-12,FNS96,female,30-49,2020,5.8,History
+3514,2020-12,ZZQ24,male,30-49,2020,5.2,Mysteries/Thrillers
+3515,2020-12,EZL70,male,18-29,2020,4.4,Romance
+3516,2020-12,DFG32,female,30-49,2020,5.8,Comedy
+3517,2020-12,LKC03,female,30-49,2020,5.3,Non-fiction
+3518,2020-12,CLA50,female,65+,2020,6.7,Mysteries/Thrillers
+3519,2020-12,SKZ24,female,30-49,2020,8.2,History
+3520,2020-12,TIJ69,male,30-49,2020,3.0,Romance
+3521,2020-12,WKS63,female,30-49,2020,5.9,Mysteries/Thrillers
+3522,2020-12,GCW05,male,30-49,2020,4.8,Mysteries/Thrillers
+3523,2020-12,NDR97,male,30-49,2020,1.3,Sci-Fi & Fantasy
+3524,2020-12,KDZ56,male,18-29,2020,7.3,Podcasts
+3525,2020-12,UKB16,female,30-49,2020,4.6,Mysteries/Thrillers
+3526,2020-12,JWT96,female,30-49,2020,6.5,Comedy
+3527,2020-12,HUA58,male,50-64,2020,5.9,Children
+3528,2020-12,NDN53,male,30-49,2020,7.8,Mysteries/Thrillers
+3529,2020-12,XIH52,female,18-29,2020,7.4,Children
+3530,2020-12,IKY01,male,18-29,2020,4.1,History
+3531,2020-12,FZX15,female,50-64,2020,5.7,Business
+3532,2020-12,CII59,male,18-29,2020,2.8,Podcasts
+3533,2020-12,VNU47,female,30-49,2020,4.1,Podcasts
+3534,2020-12,UGV54,female,18-29,2020,8.0,Sci-Fi & Fantasy
+3535,2020-12,KFN16,male,50-64,2020,4.0,Sci-Fi & Fantasy
+3536,2020-12,XUP46,female,65+,2020,3.9,Children
+3537,2020-12,DBW36,female,18-29,2020,8.2,Mysteries/Thrillers
+3538,2020-12,KJU37,male,65+,2020,1.1,Mysteries/Thrillers
+3539,2020-12,VEZ04,female,18-29,2020,6.6,Comedy
+3540,2020-12,NVE53,female,50-64,2020,4.7,Podcasts
+3541,2020-12,XDG83,male,50-64,2020,3.4,Mysteries/Thrillers
+3542,2020-12,YBK15,male,50-64,2020,5.4,Mysteries/Thrillers
+3543,2020-12,ZIQ24,male,18-29,2020,7.0,Mysteries/Thrillers
+3544,2020-12,OGR59,male,18-29,2020,5.6,Mysteries/Thrillers
+3545,2020-12,HYE06,male,30-49,2020,5.4,Sci-Fi & Fantasy
+3546,2020-12,TMB91,male,18-29,2020,3.5,Mysteries/Thrillers
+3547,2020-12,WXF84,female,50-64,2020,8.2,Comedy
+3548,2020-12,XXU25,male,18-29,2020,7.5,Mysteries/Thrillers
+3549,2020-12,ZIK60,male,18-29,2020,8.1,Sci-Fi & Fantasy
+3550,2020-12,GEK46,male,30-49,2020,6.1,Children
+3551,2020-12,MEB57,male,30-49,2020,7.0,Sci-Fi & Fantasy
+3552,2020-12,YVH84,male,50-64,2020,5.4,Mysteries/Thrillers
+3553,2020-12,HCL52,male,18-29,2020,5.2,Sci-Fi & Fantasy
+3554,2020-12,FYB94,male,30-49,2020,3.7,Romance
+3555,2020-12,UCO74,female,50-64,2020,5.0,Business
+3556,2020-12,JMF22,male,65+,2020,7.3,Business
+3557,2020-12,AXB90,female,18-29,2020,4.1,Podcasts
+3558,2020-12,ROB97,male,50-64,2020,6.6,Sci-Fi & Fantasy
+3559,2020-12,WLH11,female,18-29,2020,5.5,Romance
+3560,2020-12,RVF03,female,50-64,2020,3.2,Business
+3561,2020-12,DFF64,female,18-29,2020,8.2,Comedy
+3562,2020-12,OKZ40,female,18-29,2020,8.4,Mysteries/Thrillers
+3563,2020-12,DTX14,female,18-29,2020,5.2,Romance
+3564,2020-12,WOA52,male,30-49,2020,10.1,Romance
+3565,2020-12,FYC87,male,18-29,2020,5.2,Romance
+3566,2020-12,PIC69,male,30-49,2020,8.8,Mysteries/Thrillers
+3567,2020-12,EDM80,female,30-49,2020,2.0,History
+3568,2020-12,UCA14,male,50-64,2020,5.9,Comedy
+3569,2020-12,YRB14,female,18-29,2020,5.4,Mysteries/Thrillers
+3570,2020-12,CRJ98,female,65+,2020,4.5,Sci-Fi & Fantasy
+3571,2020-12,VGL60,male,30-49,2020,2.4,Business
+3572,2020-12,AIK78,male,50-64,2020,5.3,Mysteries/Thrillers
+3573,2020-12,BBY21,female,50-64,2020,5.8,Mysteries/Thrillers
+3574,2020-12,UUP78,male,18-29,2020,5.0,Sci-Fi & Fantasy
+3575,2020-12,WGK93,female,18-29,2020,6.0,Mysteries/Thrillers
+3576,2020-12,QWW63,female,30-49,2020,7.8,Sci-Fi & Fantasy
+3577,2020-12,RAJ76,male,30-49,2020,2.2,Mysteries/Thrillers
+3578,2020-12,CSP41,female,18-29,2020,7.1,History
+3579,2020-12,PTF60,female,18-29,2020,7.8,Romance
+3580,2020-12,FJU28,female,30-49,2020,3.9,Romance
+3581,2020-12,ZEA77,male,50-64,2020,6.7,Romance
+3582,2020-12,XRU31,male,18-29,2020,3.0,Romance
+3583,2020-12,ZPH80,female,18-29,2020,4.9,Podcasts
+3584,2020-12,BGD46,female,65+,2020,6.0,Business
+3585,2020-12,NOD59,male,50-64,2020,7.7,Mysteries/Thrillers
+3586,2020-12,IUQ76,female,18-29,2020,7.2,Comedy
+3587,2020-12,LGC11,female,65+,2020,6.9,Non-fiction
+3588,2020-12,TVV83,female,18-29,2020,0.9,Comedy
+3589,2020-12,RVD02,male,18-29,2020,8.9,History
+3590,2020-12,XUD81,female,65+,2020,2.4,Mysteries/Thrillers
+3591,2020-12,GEW80,male,18-29,2020,10.7,Podcasts
+3592,2020-12,AUK56,male,50-64,2020,4.1,Mysteries/Thrillers
+3593,2020-12,OEI57,male,18-29,2020,4.8,Mysteries/Thrillers
+3594,2020-12,IAD29,female,18-29,2020,3.3,Non-fiction
+3595,2020-12,LMK88,male,50-64,2020,5.9,Romance
+3596,2020-12,ERO80,male,65+,2020,4.2,Romance
+3597,2020-12,PEO84,male,30-49,2020,2.1,Podcasts
+3598,2020-12,NJY80,female,18-29,2020,3.1,Mysteries/Thrillers
+3599,2020-12,BNI06,male,18-29,2020,4.9,Sci-Fi & Fantasy

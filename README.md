@@ -3,7 +3,7 @@
 <p float="left">
   <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" width="200" height="150"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="200" height="150"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png" width="200" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png" width="150" height="200"/>
 </p>
 
 
@@ -14,7 +14,7 @@ This repository was created to complete the project for Programming for Data Ana
 ## Explore
 
 There is one main file in this repository:
-`audiobooks.ipynb` outlines project objectives, provides interesting facts about audibooks as a research done on the subject and moves to the main part of simulating and analazing the data.
+`audiobooks.ipynb` which outlines project objectives, provides interesting facts about audibooks as a research done on the subject and moves to the main part of simulating and analazing the data.
 
 Additional files/folders:
 - README.md
